@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Employer Partnerships"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are employer partnerships?",
+      "subhead": "Did you know that there is another group of people who can join your transition team? Employers and businesses! Your school team can partner with these professionals to set up experiences for you like career clubs, internships, and job training. This means that you’re able to get a lot of hands-on experience where you build skills that you’ll need for the jobs that you want. A bunch of employers might even come together and hold a job fair at your school! You can search for these opportunities on our site if you want to learn more about them!",
+      "bullets": "<li>If an employer or a business for the job you want were to come to your school tomorrow, what would you want to learn from them?</li> <li>What types of jobs in your community relate to your career interests?</li><li>What employers or businesses are near your home or school that relate to your career goals?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What do employer partnerships include?",
+      "subhead": "Your transition team can make sure that you have experiences to learn and connect with employers by making sure that you",
+      "bullets": "<li>Figure out how your interests, strengths, needs and goals match up with different local jobs</li><li>Have a professional on your transition team who works in the career that you want to work in </li><li>Have opportunities to be mentored by professionals who work in the job that you want</li><li>Get hands-on training to learn job skills from people working in the career that matches your work goals</li><li>Invite a bunch of businesses to come to job fairs where you can speak with them and even interview for positions!</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "GlOGbvCX3Wg",
+    "heading": "What are employer partnerships all about?",
+    "imageName": "img3.png"
+  },
+  "IconTile2Heading": {
+    "heading": "What can employer partnerships do for you?",
+    "subheading": "When employers and business partners are part of your transition team, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Exploration",
+      "content": "Exploring careers based on your interests and preferences allows you to see what careers are out there and create goals for all the steps needed to get to that career"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Career Skills",
+      "content": "Build the social skills, interviewing skills, and task management skills that you’ll need for jobs in the future"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Real Networking ",
+      "content": "Meeting employers who can help you find out about future career options and help you get hired in paid jobs"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Job Experience",
+      "content": "Having real-world job experience for your resume when you graduate high school so that you get hired in paid jobs"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "Project SEARCH is international. It’s typically through the hospital. But sometimes it’s the banks, it’s the schools, it can be through other places too. There are steps to the whole process–you have to go to an orientation, take a tour of the hospital. They do get instruction in the day. It is a one year… his last year in school. In Project SEARCH, you will accept your diploma at the end. It’s a collaboration between OVR, Goodwill, UPMC, and the school district. So UPMC’s like the corporate sponsor. The OVR counselor was there–there was job coaching that was there. The kids go through three rotations throughout the hospital. He was in ER, which he loved. And it wasn’t like people being loaded in and he was like giving them paddles or anything. He would take the carts that are in every ER room and fill them, and make sure they were filled. And he even came up with a new way of doing it, and now they implement that way in the hospital, so he was proud of that.",
+        "url": "8.12.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

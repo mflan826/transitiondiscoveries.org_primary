@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Significant Role of Adult"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "Who are Adult Mentors?",
+      "subhead": "Do you know an adult in your life that supports you and guides on how to accomplish your goals at school, home, work, or in the community? Typically, a mentor is someone that you can trust and someone that recognizes and supports your dreams, strengths, and talents. Mentors openly share their experiences with you so that you can learn about ways that you can reach your goals and work through challenges in life. They also give you room to explore who you are and respect your decisions.",
+      "bullets": "<li>What goals would you like to have a mentor work with you to accomplish?</li><li>How have adults in school, at work, or in the community helped you plan for your future?</li><li>How can your transition team support you in building strong relationships with mentors in the community?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do significant roles of adults include? ",
+      "subhead": "Your transition can mentor you and connect you with role models so that you",
+      "bullets": "<li>Learn strategies for planning and problem solving from adults who have accomplished the things you want to do</li><li>Have an adult in your planning process that supports your strengths, talents, and goals</li><li>Get honest feedback and set realistic goals for yourself</li><li>Learn ways that you can be a leader in your own life now and in the future</li><li>Connect with opportunities to help you reach your career and postsecondary goals</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "FZnTIHPl75k",
+    "heading": "What’s having adult mentors all about? Let’s unpack it together!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can strong relationships with adult mentors do for you?",
+    "subheading": "When your transition team supports you with strong mentors , you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Relationship Building",
+      "content": "Building relationships with the adults in your life who can introduce you to opportunities that match your goals after high school, like careers and more education"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "New Skills",
+      "content": " Adults in your life teaching you real-world skills to succeed at work, in school and beyond"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Adult Respect",
+      "content": "Knowing that the adults in your life respect your opinions, goals, interests and values and will always meet you where you are "
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Trust in adults",
+      "content": "Knowing that the adults at school, home and work are always focused on making sure that you have what you need to be successful and independent"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "We’ve had the same school counselor since 9th grade. And we have one-on-one meetings with her. She makes sure we learn about our disability and get accommodations.",
+        "url": "Indicator2.8.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

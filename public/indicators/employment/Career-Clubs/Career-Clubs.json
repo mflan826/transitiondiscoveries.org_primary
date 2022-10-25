@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Career Clubs"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are career clubs? ",
+      "subhead": "It’s exciting to dream about the future and what you want to do as a career! But how do we start learning about what’s out there? Career clubs are a great option to learn more about different careers with peers and professionals through a club at your school. Usually you’ll meet up with professionals in different careers you’re interested in, ask them questions, and make connections for the future. They can help you fill out and prepare a job application, write and edit resumes and cover letters, and practice interviewing skills!",
+      "bullets": "<li>If you were to apply for a job today, what would you tell an employer you are good at?</li> <li> What dream jobs are you interested in? Why?</li><li>Which professionals would you want to be included in a career club at your school?</li><li>What skills and knowledge would you want to practice in a career club? </li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do career clubs include?",
+      "subhead": "Your transition team can help you prepare for your career goals by making sure that you",
+      "bullets": "<li>Have opportunities to be mentored by people who are successful in the careers that you want to get hired into</li><li>Explore various careers and how they match up with your interests, goals, strengths and priorities</li><li>Map out what skills and knowledge you need for careers that you’re interested in</li><li>Practice writing a resume and filling out a job application </li><li>Practicing how to be successful in job interviews</li><li>Tips for socializing with coworkers in a professional way</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "9sRphNSTa0o",
+    "heading": "What are career clubs all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can career clubs do for you?",
+    "subheading": "When your transition team helps you join a career club, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Exploration",
+      "content": "Exploring careers based on your strengths, interests and life goals so that you can create a plan with all the steps needed to get to the one that’s right for you"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Career Skills ",
+      "content": "Build the social skills, interviewing skills, and self-management skills that you’ll need for jobs in the future"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Real Networking",
+      "content": "Getting to know peers, teachers, and professionals allows you to make connections with people who can help you get into careers after high school"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Future Jobs",
+      "content": "Successfully obtaining and maintaining a job will allow you to start getting paid for your skills and will help you build toward more advanced jobs later on"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "The Career Link, at West Central Job Partnership, comes into the classroom for a Career Club. Once the students reach high school, the clubs include OVR and they have Career Link. And the students get incentives for participating in that class and they come in and get information. Utilizing the already existing resources out there, like Career Link, it hooks students to the jobs and sort of leading the way for the school, but also with what other people would use to get jobs at some point.",
+        "url": "8_2_Final.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

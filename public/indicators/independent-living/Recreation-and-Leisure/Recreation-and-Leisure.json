@@ -1,0 +1,75 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living",
+    "subindicatorname": "Recreation and Leisure"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is recreation and leisure?",
+      "subhead": "Ever hear someone mention the “work-life balance”? Well that is making sure that you have time to explore and do things that bring joy and relaxation to your life - not just working! What’s nice about hobbies is that you can always change them, you can do multiple hobbies at one time, and there are so many different ones out there that there is definitely one that fits things you’re interested in! You don’t need to jump into a hobby because it’s the first one you’ve found, instead you can rely on the support of your transition team to help you find experiences that align with your interests.",
+      "bullets": "<li>Make a list of your current interests. Then put a star next to at least two that you want to explore more!</li><li>What types of hobbies do you already know about? </li><li>If you could design a “dream hobby”, what would it be? How could your transition team help support you to find this hobby?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does recreation and leisure include?",
+      "subhead": "Your transition team can help you explore what recreation and leisure can look like for you by making sure that you….",
+      "bullets": "<li>Do activities to help you identify your interests </li><li>Learn how to find out about different programs for your hobbies and how to join them</li><li>Try out many different recreation and leisure programs to find what you like most</li><li>Find new hobbies when some of your interests change (and they will, that’s ok!)</li>",
+      "image": "img3.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "lBOJJ_V1rFc",
+    "heading": "What’s recreation and leisure all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can recreation and leisure do for you?",
+    "subheading": "When your transition team supports you with recreation and leisure, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Social Skills ",
+      "content": "Engaging in recreation and leisure activities gives you opportunities to interact with different people and build social skills needed for school, work, and life."
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Transportation Skills ",
+      "content": "Traveling to do different hobbies means you will build up knowledge on how to get from one place to another by using transportation options that are available"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": " Managing Time ",
+      "content": "Participating in different hobbies and activities helps you organize your time between school, work and fun"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Self-Determination ",
+      "content": "Choosing activities that align with your interests will help expand your horizons and help you take control of your life outside of school and work"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth ",
+        "description": "I like to run. I did track last year. I’m thinking about continuing it through this year and next year. And maybe my senior year.",
+        "url": "6-4-11.m4a",
+        "audio": true
+      },
+      {
+        "title": "Transition-age youth ",
+        "description": "I’m always doing something, doing anything: Basketball, best buddies, swimming, bowling, I have too many, I can’t name them all.",
+        "url": "6.4.2.mp4",
+        "audio": true
+      }
+    ]
+  }
+}

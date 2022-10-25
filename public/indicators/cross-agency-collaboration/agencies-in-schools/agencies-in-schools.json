@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Agency in Schools",
+    "abcid": "agencies-school"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What happens when agencies are in schools?",
+      "subhead": "Ever heard adults mention things like the Department of Vocational Rehabilitation (OVR), One Stop Centers, Centers for Independent Living (CIL) or Health & Human Services? All of these are names of “agencies”. These agencies can actually work with you at school so that you can learn skills you’ll need to make your goals for life after school a reality! Your transition team can get you connected with them and you have the power to choose which are right for you!",
+      "bullets": "<li>What agencies come to your school to work with you on your transition planning?</li> <li>What kinds of things do you get help with by agency professionals that are from outside of your school?</li><li>Which of the agencies that come to work with you at your school can also help you after you graduate? Who can you ask if you aren't sure?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What happens when you work with agencies in your school?",
+      "subhead": "",
+      "bullets": "<li>Learn what programs, services and activities different agencies have that can help you to meet the goals of your transition plan</li><li>Learn readiness skills, communication skills, self advocacy skills, self care skills and how to develop supportive peer or mentor relationships with other people with disabilities in your community</li><li>Learn about what kinds of adult services, programs and activities are available to you to when you graduate high school</li><li>Learn how to organize your documents and meet deadlines for applying the first time and requalifying each year for adult services and programs in your community</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "5mR40w7umcg",
+    "heading": "What are agencies in schools? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can connecting with agencies in schools do for you? ",
+    "subheading": ""
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Support Options",
+      "content": "Being able to access the learning experiences and support that you need to get the job you want and live the life you want"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Skill Development",
+      "content": "Being ready to work, knowing how to ask for what you want and need, feeling comfortable in healthy relationships and knowing yourself enough to know what you need to be peaceful and healthy will allow you to live your best life"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Get organized",
+      "content": "When you know what documents are important to qualify for agencies, you can be a leader in the process of applying for or requesting them!"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Paid Employment",
+      "content": "Getting paid at least minimum wage in a job matches your  goals now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "We go out to work–we go out to work with Ms. Bernadette, my vocational rehabilitation counselor. She is part of my team and comes to my school. We do job skills. We do our travel training; we do our listening skills. We know how to get to work sites. We work. We do our job. We do our hours. We do everything.",
+        "url": "7_1.wav",
+        "audio": true
+      }
+    ]
+  }
+}

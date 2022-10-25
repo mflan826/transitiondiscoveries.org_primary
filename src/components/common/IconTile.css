@@ -1,0 +1,31 @@
+.iconTile {
+  padding: 20px 12%;
+}
+
+.iconTile .conthd-icon {
+  line-height: 35px;
+  text-decoration: none;
+}
+
+.iconTile p {
+  line-height: 19px;
+}
+
+.iconTile a {
+  background: #3d5b29;
+  padding: 0px 10px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 1%;
+}
+.iconTile a:hover {
+  background: #3d5b29;
+  padding: 0px 10px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 1%;
+}

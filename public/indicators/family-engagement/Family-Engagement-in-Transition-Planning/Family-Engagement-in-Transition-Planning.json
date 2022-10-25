@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Family Engagement",
+    "subindicatorname": "Family Engagement in Transition Planning",
+    "abcid": "family-engagement"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is Family Engagement in Transition Planning?",
+      "subhead": "What does it mean to have a family member who is involved in your transition or IEP meetings? Well, they can help you with making decisions about your current and future goals. Did you know that your IEP gives your family rights to be a part of your transition team? Yep, that’s right! Your transition team should always send your family information on how you’re doing and new opportunities that are available so that they can support you in participating in them. Having family members on your transition team means that they can explain more about you to your teachers and the adults who help you.",
+      "bullets": "<li>How are your family members involved in your transition planning and meetings?</li><li>What type of support would you like to have from your transition team help your family be more involved in your transition? </li><li>How do you and your family prepare for meetings and discuss your transition planning?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does family engagement in transition planning include?",
+      "subhead": "Your transition team can help your family become a part of your transition planning by making sure that they….",
+      "bullets": "<li>Have opportunities to learn about what transition planning is and how to support you</li><li>Have a opportunities to share their thoughts and information about you in all transition meetings</li><li>Know about opportunities in school or out of school that match your goals so that they can help you choose what to participate in</li><li>Get updates from your school about how you are doing with building skills to reach your transition goals</li><li>Meet with professionals in and outside of your school who can help you reach your transition goals</li>",
+      "image": "img4.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "nt6T-hLkMrI",
+    "heading": "What is family engagement in transition planning all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can family engagement in transition planning do for you?",
+    "subheading": "When your transition team supports your family, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Your Plan",
+      "content": "Your family being able to help you make a transition plan that matches your strengths, interests, preferences, disability, needs and goals"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Transition Knowledge",
+      "content": "You and your family knowing about all of the opportunities, supports and services that are available to you"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Independence",
+      "content": "Your family helping you build the skills that you’ll need to be independent in your life now and in the future"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": " Support Network",
+      "content": "Your family always there to help you figure out challenges to reaching your transition goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "My grandma comes to school and understands my goals. The school team is so happy she is involved, and so am I! She says to me, ‘You want to go off to college and you can do it! You’ll get a good education. You’ll be the first one to graduate from high school and college. We can trust the school to help you finish out your schooling and help you make your own decisions.",
+        "url": "4.1-voiceover1.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

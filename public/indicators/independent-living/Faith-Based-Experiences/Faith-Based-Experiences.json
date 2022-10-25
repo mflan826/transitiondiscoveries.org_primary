@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living",
+    "subindicatorname": "Faith Based Experiences"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are faith based experiences?",
+      "subhead": "It’s great to have a community to help have your back and support you! For some people, being connected to a place, group or community of faith is important. Some faith based organizations have places where young people can get together and have a good time, others offer experiences to volunteer, some take trips to places to see different parts of the world! You'll meet new people, build strong relationships, and discover interests you might not have had before! This can help you with making your goals for life after high school and a plan to reach them!",
+      "bullets": "<li>What do you currently enjoy about your faith based community?</li><li>List out current opportunities you know of in your faith community. Are there opportunities you want to know more about?</li><li>Who could you ask to get more information about faith based experiences?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do faith based experiences include?",
+      "subhead": "Your transition team can help you explore faith based experiences by making sure that you….",
+      "bullets": "<li>Have opportunities to express your values and beliefs to your transition team</li><li>Invite members of your faith community to IEP meetings to share about you and opportunities available that match your future goals</li><li>Have conversations with your family and faith community members where you practice talking about your goals and what you need to help reach your transition goals</li><li>Explore which faith community opportunities exist near you so that you can choose what works best for you</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "Uj9Ee7AXi7s",
+    "heading": "What are faith-based experiences all about? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can faith based experiences do for you?",
+    "subheading": "When your transition team helps with faith based experiences, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Social Network ",
+      "content": "Interacting with others in your community helps you to build friendships and relationships with others who can support you throughout your life"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Self-Determination ",
+      "content": " Knowing who you are and what you want to do allows you to make choices for yourself that align with your interests, values, and beliefs "
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Self-Advocacy",
+      "content": "Advocating for yourself and your beliefs builds a strong sense of confidence, community, and gives you a way to make sure your voice is heard"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Community Connection",
+      "content": "Sharing experiences with others who have similar values and beliefs as yours gives you a sense of belonging"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth.",
+        "description": "The Friendship Circle is an inclusive group that’s run primarily by the Jewish community. They have all sorts of social programming and it really brings in peers and individuals with various disabilities. You can pick and choose the programs you want to attend. And it’s to this point been free and they have like a bowling league on Sundays. Most of it is on Sundays, some of them are Wednesday nights. It might provide an opportunity for your child to connect with other people. And so the activities are all geared to be welcoming to everyone and there’s no pressure and it’s an easy place for my son to go because he doesn’t feel pressured to perform. If he doesn’t want to, that’s okay. If he wants to, that’s great. It’s always about the person and I think that’s what makes it a wonderful organization to be involved in.",
+        "url": "6_6.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

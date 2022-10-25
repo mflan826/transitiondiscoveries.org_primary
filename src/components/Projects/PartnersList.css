@@ -1,0 +1,52 @@
+.PartnersBox {
+  display: grid;
+  grid-template-columns: 4fr 6fr;
+  grid-gap: 2%;
+}
+.PartnersLeftBox {
+  display: grid;
+  grid-template-rows: 3fr 1fr;
+  grid-gap: 0;
+}
+.LeftBoxDesc {
+  background: #45662f;
+  padding: 5%;
+  margin: -17% 5% 5% 5%;
+  color: #fff;
+}
+.PartnersType h2.green {
+  font-size: 30px;
+}
+.PartnersRightBox .react-tabs__tab-list {
+  border-bottom: none;
+  margin: 0 0 10px;
+  padding: 0;
+}
+.PartnersRightBox .react-tabs__tab {
+  background: #45662f;
+  border: solid 3px #45662f !important;
+  color: #fff;
+  margin-right: 10px;
+  font-family: sans-serif;
+}
+.PartnersRightBox .react-tabs__tab--selected,
+.PartnersRightBox .react-tabs__tab--selected:focus {
+  background: #fff;
+  border-color: #aaa;
+  color: #45662f;
+  border-radius: 0;
+  border: solid 3px #45662f !important;
+}
+.PartnersRightBox ul {
+  margin-top: 15px;
+}
+.PartnersRightBox ul li {
+  display: inline;
+  margin: 15px 8px;
+}
+.partnerLogoList img {
+  width: 22%;
+}
+/* .PartnersRightBox ul li img {
+  width: 100px;
+} */

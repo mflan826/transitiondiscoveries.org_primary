@@ -1,0 +1,538 @@
+.subindicator-banner {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/indicators/transition-planning/significant-role-of-school-personnel/images/subindicator-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+div#agencies-school {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/agencies-in-schools/images/agencies-in-schools-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#transition-coordinating {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/Transition-Coordinating-Councils/images/transition-coordinating-councils-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#transition-staffing {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/transition-staffings/images/transition-staffings-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#employment-expos {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/Employment-Expos/images/employment-expos-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#transition-fair {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/transition-fairs/images/transition-fairs-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#transition-conferences {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/Transition-Conferences/images/transition-conferences-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#agency-nights {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/cross-agency-collaboration/Community-Agency-Nights-about-Employment/images/community-agency-nights-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+div#career-exploration {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/transition-planning/career-exploration-planning-and-preparation/images/career-exploration-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+#post-secondary-college {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/indicators/transition-planning/post-secondary-and-college-planning/images/post-secondary-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+  background-position: 0px -15px;
+}
+#independent-living {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/indicators/transition-planning/independent-community-living/images/independent-community-banner.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+}
+
+.l-green {
+  color: #9fca46;
+}
+.subindicator-banner .item-a {
+  display: grid;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-align: center;
+}
+.subhead {
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+}
+.checkul {
+  list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAABGdBTUEAALGOfPtRkwAAACBjSFJNAACHDwAAjA8AAP1SAACBQAAAfXkAAOmLAAA85QAAGcxzPIV3AAAKL2lDQ1BJQ0MgUHJvZmlsZQAASMedlndUVNcWh8+9d3qhzTDSGXqTLjCA9C4gHQRRGGYGGMoAwwxNbIioQEQREQFFkKCAAaOhSKyIYiEoqGAPSBBQYjCKqKhkRtZKfHl57+Xl98e939pn73P32XuftS4AJE8fLi8FlgIgmSfgB3o401eFR9Cx/QAGeIABpgAwWempvkHuwUAkLzcXerrICfyL3gwBSPy+ZejpT6eD/0/SrFS+AADIX8TmbE46S8T5Ik7KFKSK7TMipsYkihlGiZkvSlDEcmKOW+Sln30W2VHM7GQeW8TinFPZyWwx94h4e4aQI2LER8QFGVxOpohvi1gzSZjMFfFbcWwyh5kOAIoktgs4rHgRm4iYxA8OdBHxcgBwpLgvOOYLFnCyBOJDuaSkZvO5cfECui5Lj25qbc2ge3IykzgCgaE/k5XI5LPpLinJqUxeNgCLZ/4sGXFt6aIiW5paW1oamhmZflGo/7r4NyXu7SK9CvjcM4jW94ftr/xS6gBgzIpqs+sPW8x+ADq2AiB3/w+b5iEAJEV9a7/xxXlo4nmJFwhSbYyNMzMzjbgclpG4oL/rfzr8DX3xPSPxdr+Xh+7KiWUKkwR0cd1YKUkpQj49PZXJ4tAN/zzE/zjwr/NYGsiJ5fA5PFFEqGjKuLw4Ubt5bK6Am8Kjc3n/qYn/MOxPWpxrkSj1nwA1yghI3aAC5Oc+gKIQARJ5UNz13/vmgw8F4psXpjqxOPefBf37rnCJ+JHOjfsc5xIYTGcJ+RmLa+JrCdCAACQBFcgDFaABdIEhMANWwBY4AjewAviBYBAO1gIWiAfJgA8yQS7YDApAEdgF9oJKUAPqQSNoASdABzgNLoDL4Dq4Ce6AB2AEjIPnYAa8AfMQBGEhMkSB5CFVSAsygMwgBmQPuUE+UCAUDkVDcRAPEkK50BaoCCqFKqFaqBH6FjoFXYCuQgPQPWgUmoJ+hd7DCEyCqbAyrA0bwwzYCfaGg+E1cBycBufA+fBOuAKug4/B7fAF+Dp8Bx6Bn8OzCECICA1RQwwRBuKC+CERSCzCRzYghUg5Uoe0IF1IL3ILGUGmkXcoDIqCoqMMUbYoT1QIioVKQ21AFaMqUUdR7age1C3UKGoG9QlNRiuhDdA2aC/0KnQcOhNdgC5HN6Db0JfQd9Dj6DcYDIaG0cFYYTwx4ZgEzDpMMeYAphVzHjOAGcPMYrFYeawB1g7rh2ViBdgC7H7sMew57CB2HPsWR8Sp4sxw7rgIHA+XhyvHNeHO4gZxE7h5vBReC2+D98Oz8dn4Enw9vgt/Az+OnydIE3QIdoRgQgJhM6GC0EK4RHhIeEUkEtWJ1sQAIpe4iVhBPE68QhwlviPJkPRJLqRIkpC0k3SEdJ50j/SKTCZrkx3JEWQBeSe5kXyR/Jj8VoIiYSThJcGW2ChRJdEuMSjxQhIvqSXpJLlWMkeyXPKk5A3JaSm8lLaUixRTaoNUldQpqWGpWWmKtKm0n3SydLF0k/RV6UkZrIy2jJsMWyZf5rDMRZkxCkLRoLhQWJQtlHrKJco4FUPVoXpRE6hF1G+o/dQZWRnZZbKhslmyVbJnZEdoCE2b5kVLopXQTtCGaO+XKC9xWsJZsmNJy5LBJXNyinKOchy5QrlWuTty7+Xp8m7yifK75TvkHymgFPQVAhQyFQ4qXFKYVqQq2iqyFAsVTyjeV4KV9JUCldYpHVbqU5pVVlH2UE5V3q98UXlahabiqJKgUqZyVmVKlaJqr8pVLVM9p/qMLkt3oifRK+g99Bk1JTVPNaFarVq/2ry6jnqIep56q/ojDYIGQyNWo0yjW2NGU1XTVzNXs1nzvhZei6EVr7VPq1drTltHO0x7m3aH9qSOnI6XTo5Os85DXbKug26abp3ubT2MHkMvUe+A3k19WN9CP16/Sv+GAWxgacA1OGAwsBS91Hopb2nd0mFDkqGTYYZhs+GoEc3IxyjPqMPohbGmcYTxbuNe408mFiZJJvUmD0xlTFeY5pl2mf5qpm/GMqsyu21ONnc332jeaf5ymcEyzrKDy+5aUCx8LbZZdFt8tLSy5Fu2WE5ZaVpFW1VbDTOoDH9GMeOKNdra2Xqj9WnrdzaWNgKbEza/2BraJto22U4u11nOWV6/fMxO3Y5pV2s3Yk+3j7Y/ZD/ioObAdKhzeOKo4ch2bHCccNJzSnA65vTC2cSZ79zmPOdi47Le5bwr4urhWuja7ybjFuJW6fbYXd09zr3ZfcbDwmOdx3lPtKe3527PYS9lL5ZXo9fMCqsV61f0eJO8g7wrvZ/46Pvwfbp8Yd8Vvnt8H67UWslb2eEH/Lz89vg98tfxT/P/PgAT4B9QFfA00DQwN7A3iBIUFdQU9CbYObgk+EGIbogwpDtUMjQytDF0Lsw1rDRsZJXxqvWrrocrhHPDOyOwEaERDRGzq91W7109HmkRWRA5tEZnTdaaq2sV1iatPRMlGcWMOhmNjg6Lbor+wPRj1jFnY7xiqmNmWC6sfaznbEd2GXuKY8cp5UzE2sWWxk7G2cXtiZuKd4gvj5/munAruS8TPBNqEuYS/RKPJC4khSW1JuOSo5NP8WR4ibyeFJWUrJSBVIPUgtSRNJu0vWkzfG9+QzqUvia9U0AV/Uz1CXWFW4WjGfYZVRlvM0MzT2ZJZ/Gy+rL1s3dkT+S453y9DrWOta47Vy13c+7oeqf1tRugDTEbujdqbMzfOL7JY9PRzYTNiZt/yDPJK817vSVsS1e+cv6m/LGtHlubCyQK+AXD22y31WxHbedu799hvmP/jk+F7MJrRSZF5UUfilnF174y/ariq4WdsTv7SyxLDu7C7OLtGtrtsPtoqXRpTunYHt897WX0ssKy13uj9l4tX1Zes4+wT7hvpMKnonO/5v5d+z9UxlfeqXKuaq1Wqt5RPXeAfWDwoOPBlhrlmqKa94e4h+7WetS212nXlR/GHM44/LQ+tL73a8bXjQ0KDUUNH4/wjowcDTza02jV2Nik1FTSDDcLm6eORR67+Y3rN50thi21rbTWouPguPD4s2+jvx064X2i+yTjZMt3Wt9Vt1HaCtuh9uz2mY74jpHO8M6BUytOdXfZdrV9b/T9kdNqp6vOyJ4pOUs4m3924VzOudnzqeenL8RdGOuO6n5wcdXF2z0BPf2XvC9duex++WKvU++5K3ZXTl+1uXrqGuNax3XL6+19Fn1tP1j80NZv2d9+w+pG503rm10DywfODjoMXrjleuvyba/b1++svDMwFDJ0dzhyeOQu++7kvaR7L+9n3J9/sOkh+mHhI6lH5Y+VHtf9qPdj64jlyJlR19G+J0FPHoyxxp7/lP7Th/H8p+Sn5ROqE42TZpOnp9ynbj5b/Wz8eerz+emCn6V/rn6h++K7Xxx/6ZtZNTP+kv9y4dfiV/Kvjrxe9rp71n/28ZvkN/NzhW/l3x59x3jX+z7s/cR85gfsh4qPeh+7Pnl/eriQvLDwG/eE8/s3BCkeAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAIXRFWHRDcmVhdGlvbiBUaW1lADIwMjA6MDU6MDQgMTc6MDg6MDJTbE4/AAAB7klEQVQ4T41STWsUQRCt6t6Py05wrwFDNOaiEIPOxg0BzUFUvHgyHhQy0aA/QEEUZdFLFD8QTxGEuAiCEBGEXIKiiJNANpCTeDBILoIHEXEvcXa3y1ftsAQ2gbyhqa7X9aq7qoZFhLYLYwzPLJUnXfJ3zguV6O+nXFdXtw2CpqnXMy4Ick6D6/W1Vq3mGrqvLo/chLmNqyp89HDvAWvtaxJqEePrxO+EvpXO3R0qWbYfvb+eDPDx0b6HTiie/7D66n9cJ2YW9gYmW1xB2j5HcmoiXHhjiKRgmP6kMZvC5HY8VhFip1XkOWH2tWyFam3kNBFHqOtL8qNxOaUJN6K6LfBs+dBOYXqCbeIajbMv7/8cRGnH9EyFHtPx/iK6du9prbxL/TOzxjJlnqNbRbg3zg8vrVjDA3jyoJ63hfl84SDMlSzbTxDvO9k7fBX+Eax3a3OLDzRmI9rCiTB+C3MHqxtibfstrF/rTRqvVFxHH9pCxXgYX0PB17HV52XQ+ouXyvF3f5gCT/c9Mfh1rGdSRGE8Jc6N4YeK0PrO2TL7eB1HyxMbEA0tzkaluJq6bYhg4iI+PsNCX3H/hROje3rEuJYIO4PZOo1i8aUoB5MHMYZqHynHYcjZYmH3JHL1KLEZUBQSSBMJPs+/X31BRPQPMiCt+otxhjIAAAAASUVORK5CYII=);
+  margin-left: 30px;
+  margin-top: 5px;
+}
+.greyBGwithoutBorder {
+  background: #f7f7f7;
+  border-radius: 0;
+}
+.p-4 {
+  padding: 4%;
+}
+
+h4 strong.green {
+  font-size: 1.9rem;
+}
+h3 strong.green {
+  font-size: 1.9rem;
+}
+.darkgreen {
+  background: #355960 !important;
+}
+.patchleft {
+  background: url(/images/subindicator-4.png) no-repeat left center #f7f7f7;
+}
+.container.bgboxgrid {
+  background: linear-gradient(rgb(0 0 0 / 70%) 100%, rgb(0 0 0 / 70%) 100%),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/our-framework/images/bdxd-img5.jpg)
+      no-repeat center bottom;
+  background-size: cover;
+  padding: 5% 0 3% 0;
+  margin-top: 5%;
+}
+.bgboxgrid {
+  display: grid;
+  grid-template-rows: 1fr 2fr;
+  text-align: center;
+  align-content: center;
+  background-size: cover;
+}
+.bgboxgrid .box-grid-icons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.boxgridhead {
+  margin-bottom: 4%;
+}
+.greyBGwithoutBorder {
+  position: relative;
+  z-index: 1;
+}
+.pd-0-5 {
+  padding: 0px 5% !important;
+}
+.mt-minus-50 {
+  margin-top: -10%;
+}
+
+.SubindicatorDetailList .item-left ul li p {
+  display: none;
+  min-height: 115px;
+}
+
+.SubindicatorDetailList .item-left ul li:before {
+  content: '';
+  height: 140px !important;
+  position: absolute;
+  width: 1px;
+  right: 0px;
+  background: #64913f;
+  top: 50% !important;
+}
+.SubindicatorDetailList .item-left ul li:first-child:before {
+  content: '';
+  height: 140px !important;
+  position: absolute;
+  width: 1px;
+  right: 0px;
+  background: #64913f;
+  height: 100%;
+}
+.SubindicatorDetailList .item-left ul li:after {
+  content: '';
+  position: absolute;
+  border-bottom: 2px dotted #64913f;
+  width: 9%;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 0px;
+}
+
+.SubindicatorDetailList .item-left ul li:last-child:before {
+  content: '';
+  height: unset !important;
+  position: absolute;
+  width: 1px;
+  right: 0px;
+  background: #64913f;
+  bottom: 68%;
+}
+.SubindicatorDetailList .item-left ul li:last-child {
+  text-align: right;
+  border-right: none;
+  position: relative;
+  padding-right: 9%;
+  margin: 28px 0px;
+}
+.SubindicatorDetailList .item-left ul li .icn {
+  margin-left: 25px;
+  float: right;
+}
+.SubindicatorDetailList .item-right ul li p {
+  display: none;
+  min-height: 115px;
+}
+.SubindicatorDetailList .item-left ul li h4 {
+  font-weight: 500;
+  min-height: 58px;
+  margin-bottom: 0px;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  right: 178px;
+  line-height: 28px;
+  font-size: 20px;
+  color: #3d5b29;
+}
+
+.SubindicatorDetailList .item-left ul li {
+  text-align: right;
+  margin-top: 0%;
+  position: relative;
+  padding-right: 9%;
+  min-width: 100%;
+  float: left;
+  margin: 28px 0px;
+}
+
+.SubindicatorDetailList .item-right ul li h4 {
+  font-weight: 500;
+  min-height: 58px;
+  margin-bottom: 0px;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  left: 158px;
+  line-height: 1.3em;
+  font-size: 20px;
+  color: #3d5b29;
+}
+
+.SubindicatorDetailList .item-right ul li {
+  text-align: left;
+  position: relative;
+  margin: 28px 0;
+  width: 100%;
+  float: left;
+}
+
+.SubindicatorDetailList .item-right ul li:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  border-bottom: 2px dotted #64913f;
+  width: 9%;
+  z-index: -1;
+  left: 0px;
+  transform: translate(0, -50%);
+}
+.SubindicatorDetailList .item-right ul li:first-child:before {
+  content: '';
+  height: 140px !important;
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  background: #64913f;
+  height: 100%;
+  top: 50%;
+}
+
+.SubindicatorDetailList .item-right ul li:before {
+  content: '';
+  height: 140px !important;
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  background: #64913f;
+  top: 50%;
+}
+
+.SubindicatorDetailList .item-right ul li:last-child:before {
+  content: '';
+  height: unset !important;
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  background: #64913f;
+  height: 100%;
+}
+img.icn {
+  width: 84px;
+}
+
+.SubindicatorDetailList .item-left ul li:first-child {
+  margin-top: 28px !important;
+}
+
+.item-center img {
+  margin-top: 0% !important;
+}
+
+@media (max-width: 767px) {
+  .container.ThreeBoxesFooter .socialBox {
+    background: #f7f7f7;
+  }
+  .SubindicatorDetailList .item-left ul li:last-child {
+    padding-right: 0%;
+  }
+  .SubindicatorDetailList .item-left ul li .icn {
+    position: relative;
+  }
+  .checkli li {
+    padding-bottom: 0.5rem;
+  }
+  .checkli {
+    text-align: left;
+  }
+  .SubindicatorDetailList .item-right ul li h4 {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    left: 138px;
+    line-height: 20px;
+    text-align: left;
+    width: 64%;
+    font-size: 15px !important;
+    min-height: auto;
+  }
+
+  .SubindicatorDetailList .item-left ul li h4 {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 120px;
+    line-height: 20px;
+    text-align: left;
+    width: 64%;
+    font-size: 15px !important;
+  }
+  .transi-bx {
+    background-size: cover;
+    padding: 10px 10px;
+    position: relative;
+  }
+  .bgbox {
+    background: linear-gradient(to right, #575235, #2a3f5a);
+  }
+  h3.white {
+    font-size: 1.3rem;
+  }
+  .boxgridhead {
+    margin-bottom: 4%;
+  }
+  section.indicatorvideobox {
+    padding: 0px !important;
+  }
+  ul.checkul {
+    margin-top: 24px;
+    margin-left: 20px;
+  }
+  p.subhead {
+    font-size: 1em;
+    line-height: 1.3rem;
+  }
+  .contentsec-grid .item-ab h4 {
+    font-size: 1.2rem !important;
+  }
+  .subindicator-banner {
+    padding-top: 70px;
+  }
+  .transi-bx h3.l-green {
+    font-size: 1.3rem;
+    margin-bottom: 4px;
+  }
+  .transi-bx h1.slider-lead.white {
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .supportBox h3,
+  .socialBox h3 {
+    font-size: 1.453em;
+  }
+  .supportBox {
+    padding: 0px;
+  }
+  .SubindicatorDetailList .item-right ul li h4 {
+    font-weight: 500;
+    min-height: 58px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    left: 122px;
+    line-height: 24px;
+    width: 82%;
+    font-size: 17px;
+  }
+  .SubindicatorDetailList .item-left ul li h4 {
+    font-weight: 500;
+    min-height: 58px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 120px;
+    line-height: 24px;
+    width: 82%;
+    font-size: 17px;
+  }
+  h4 {
+    font-size: 1.1rem !important;
+  }
+  .subhead {
+    font-size: 1.2rem !important;
+    line-height: 1.4rem !important;
+  }
+  .container.bgboxgrid {
+    padding: 8% 0 8% 0;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .SubindicatorDetailList .item-right ul li h4 {
+    font-weight: 500;
+    min-height: 58px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    left: 140px;
+    line-height: 24px;
+  }
+  .SubindicatorDetailList .item-left ul li h4 {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 154px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1199px) {
+  .SubindicatorDetailList .item-left ul li h4 {
+    font-weight: 500;
+    min-height: 58px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    right: 158px;
+    line-height: 20px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+  .SubindicatorDetailList .item-left ul li h4 {
+    right: 158px;
+    line-height: 20px;
+  }
+  .SubindicatorDetailList .item-right ul li h4 {
+    left: 148px;
+    line-height: 20px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .container.bgboxgrid {
+    padding: 10% 0 2% 0;
+  }
+  .video-txt h3.white {
+    font-size: 1.5rem;
+    padding: 0px 30px 0px 0px;
+  }
+  h4 strong.green {
+    font-size: 1.4rem !important;
+  }
+  .subhead {
+    font-size: 1rem !important;
+    line-height: 1.4rem !important;
+  }
+}

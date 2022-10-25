@@ -1,0 +1,75 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Relationships",
+    "subindicatorname": "Sense of Belonging"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is sense of belonging? ",
+      "subhead": "What does it mean to feel like you “belong”? Usually we just “feel it”. Well, that feeling comes from having people in your life who care about your success and respect your goals. They might have had experiences like yours and they might share the same interests or beliefs that you have. Whether you’re at home, at school, at work and in the community, you should feel like people around you accept you for who you are and understand your experiences.",
+      "bullets": "<li>What things do school staff in your life do to make you feel that you belong? </li><li>What things do friends and adults in your life do to make you feel that you belong? </li><li>What places or groups in your life do you feel like you belong the most? Why?</li><li>What could your transition team do to help you get that “I really belong here” feeling at school, work or in the community?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does sense of belonging include?",
+      "subhead": "Your transition team can help feel like you belong by making sure that you….",
+      "bullets": "<li>Have a group of people in your life who appreciate your strengths, interests and goals</li><li>Are always included in activities at school and in your community </li><li>Make friends with various people with and without disabilities who share your different life experiences</li><li>Feel comfortable in social activities and building relationships with peers and adults</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "owvPUBQme8U",
+    "heading": "What is Sense of Belonging all about? Let's unpack it",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can sense of belonging do for you?",
+    "subheading": "When your transition team supports you with feeling like you belong, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Self-Confidence ",
+      "content": "Feeling comfortable about you are and being willing to talk about yourself in different social settings"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Relationship Building ",
+      "content": "Connecting and building relationships with people that accept you for who you are and who share your life experiences"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Social Skills",
+      "content": "The ability to communicate and interact with others in social situations"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Inclusive Activities ",
+      "content": "Participating in activities alongside others with and without disabilities"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth ",
+        "description": "I’d just like to accept myself for who I am then everything will kind of just, not fall into place, but I will kind of find my potential.",
+        "url": "5.2.1.m4a",
+        "audio": true
+      },
+      {
+        "title": "Family of transition-age youth",
+        "description": "The peer support, peer buddies at school is a huge deal. He’s had that for years and years and he knows a lot of different people through different things like camp and sports jamboree. He knows a lot of people and they all know him, which is a good thing. He has a lot of social interaction.",
+        "url": "5.2.2.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

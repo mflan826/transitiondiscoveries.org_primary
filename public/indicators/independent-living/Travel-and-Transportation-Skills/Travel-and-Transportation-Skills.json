@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living and Community Engagement",
+    "subindicatorname": "Travel and Transportation Skills"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are travel and transportation skills?",
+      "subhead": "What’s the best way to travel from one place to another? Trick question, the answer is whichever method works best for you! But what if the method that you use best or most often isn’t the one that gets you where you want to go? The reality is that if we want to get to the places that are important to us, then we’ll need to be open to experiencing and learning new skills for how to use the options that are available to us. Remember, everyone is able to travel, it’s just a matter of having a team that helps you figure out the strategies to do it in a way that meets your strengths, goals and needs.",
+      "bullets": "<li>What types of transportation options are you really good at using on your own? What do you use them for?</li> <li>After you graduate high school, what kinds of transportation will you need to use to get to work, school and other activities? </li><li>Are there any kinds of transportation options that you haven’t learned how to use yet or want to get better at using?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does building travel and transportation skills include?",
+      "subhead": "Your transition team can help you build your travel skills by making sure that you",
+      "bullets": "<li>Learn tips, tricks and strategies for planning out all of the different kinds of trips that you might take, like going between your home, work, school and places around where you live or beyond!</li><li>Connect with other professionals out of school who can give you one-on-one learning experiences to become a master at using all of the transportation options that are most important for your life</li><li>Learn how to use specific types of transportation, like driving a car, using public services like busses and trains or other options like taxis, ride sharing and planes or boats!</li><li>Learn strategies for staying safe while you travel</li><li>Learn how to deal with challenges where you’re out in public and the plan you made can no longer happen (like when a bus route changes)</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "Dzk7HV9n1cc",
+    "heading": "What are travel skills all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can travel and transportation skills do for you?",
+    "subheading": " When your transition team supports you, you’ll be able to "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Plan Trips",
+      "content": "Identify which transportation options are best for where and when you want to go, and take care of any tickets, passes or other items you might need"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Travel Independently",
+      "content": "Being able to use things like cars, taxis, busses, trains or planes by yourself or to take charge of using them when you travel with others"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Travel Safely",
+      "content": "Knowing strategies for how to avoid unsafe situations while traveling on different types of options and in a variety of places in and outside your community"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Problem Solving",
+      "content": "Knowing how to successfully re-plan parts of your trip on the fly as unexpected things happen"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "Well, I have people helping me with my goals for the future. Like my peer-support, through the PA Mentor Network. She comes Mondays. Our goal is to get myself independent and take the Lanta Van. I never rode the bus alone, but I’m going to have someone, my peer support going with me. There’s a program I used to do called ICT, Independent Community Travel, it’s through the IU. That’s where we also learned the Lanta Bus, you learn street crossing; like the traffic lights, the signs that tell you when to walk and not walk. I did okay with it.",
+        "url": "6.3-1.wav",
+        "audio": true
+      }
+    ]
+  }
+}

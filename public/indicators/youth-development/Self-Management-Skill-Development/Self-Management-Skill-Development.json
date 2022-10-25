@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Self-Management Skill Development"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": " What is Self-Management Skill Development?",
+      "subhead": "Ever have a really busy day where you wanted to get a million things done but it was hard to keep track of what was happening? Well, “self-management” is all about learning how to organize your responsibilities and schedule for school, work, friends and family. It’s also learning how to solve problems and keeping track of how much time and work you spend on tasks so that you don’t run out of time for what else you have to do!",
+      "bullets": "<li>What are some strategies or tools that you use to keep track of your responsibilities at school, home or work?</li><li>How do you manage your emotions at school, work, home, and in the community? </li><li>How do you reach a goal when a challenge comes up that you didn’t see coming?</li><li>What are some ways that you stay focused and make time for what you have to get done?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does self-management skills development include?",
+      "subhead": "Your transition team can help you build your self-management skills by making sure that you...",
+      "bullets": "<li>Understand your emotions and how to control them in different situations</li><li>Learn organization skills, tricks and tools to manage daily responsibilities in school, work, home, and in the community </li><li>Have the ability to keep track of how much time and effort you’ll need to put into different tasks so that you get them all done in time</li><li>Learn strategies for figuring out how to solve problems, like: finding instructions, going step-by-step in smaller tasks or trying things to see which way works while marking down the ways that you’ve tried that don’t work</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "czkQLexVmh4",
+    "heading": "What’s self-management all about? Let’s unpack it together!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can self-management do for you?",
+    "subheading": "When your transition team supports you with managing your life, you’ll have:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Problem-Solving",
+      "content": "Ability to identify challenges to your goals and determine one or more solutions to overcome them before they happen"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Time Management Skills",
+      "content": "Taking responsibility for scheduling and tracking your day-to-day tasks and activities"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Emotional Control",
+      "content": "Acknowledging, understanding, and regulating your emotions in various social situations in school, the community, home and at work"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Task Skills",
+      "content": "Learning how to figure out the amount of time and effort that it will take to accomplish a task and focusing your attention on it until it’s complete"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "In some aspects, I get enough support at school. In others no. They have one special education teacher for grades 6 through 12. And she is on the fifth floor so that means it is somewhat difficult to always be able to go up and communicate with her. So it does come back to the time that you have to seek out help from a teacher. In my old school, they were willing to work with me a lot more and willing to set more realistic expectations. I don’t really like to rely on her so much. I mean she’s a very reliable person, she’s really nice, but I rely on myself because I know that once I get out into college the Special Ed teacher isn’t coming with me. I can tell a teacher,’ This is what I need. I need more time to do this.’ And if they don’t give me the extra time I will go to the Special Ed teacher. My mom is a wonderful advocate. When she found out about my dyslexia, she started reading all about it. She taught me everything about it.",
+        "url": "indicator-2.5.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

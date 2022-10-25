@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+dist*/
+coverage
+npm-debug.log
+yarn-error.log*
+*.log*
+.yarnclean
+jest_0/
+build/
+tools/
+.env*.local
+.idea/
+.vscode/
+*.iml

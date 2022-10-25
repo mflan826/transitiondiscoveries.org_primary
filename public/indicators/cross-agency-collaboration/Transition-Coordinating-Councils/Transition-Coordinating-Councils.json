@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Transition Coordinating Councils",
+    "abcid": "transition-coordinating"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is a Transition Coordinating Council?  ",
+      "subhead": "Ever seen a movie (like Star Wars) where a “council” of experts gets together to make decisions about things to help other people? A transition coordinating council is no different! If you have one in your community, chances are that they are meeting throughout the year to learn from each other and solve any problems that have come up around transition programs and services in your community. Here’s the best part, you can join the council and advocate for what you want to teachers, voc rehab counselors and bosses at different transition agencies. ",
+      "bullets": "<li>Who could you ask in your school to help you join a transition coordinating council?</li> <li> If you could meet with a transition council, what would suggest they should do to help you and other young people get prepared to reach their goals for life after high school?</li>",
+      "image": "transition-coordinating-councils-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does preparing for careers include?",
+      "subhead": "Your transition team can help you prepare for the jobs that you want by making sure that you...",
+      "bullets": "<li>Learn who the key players are working in transition in your community</li><li>Learn what transition leaders in your community are doing to solve problems in the transition process for youth and families in your community</li><li>Learn how different agencies, organizations and schools work together to support the transition process of all transition age youth in your community</li>",
+      "image": "transition-coordinating-councils-img3.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "6it6MBffINs",
+    "heading": "What’s a transition coordinating council all about? Let’s unpack it!",
+    "imageName": "transition-coordinating-councils-img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What does a transition coordinating council do for your community? ",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:    "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Knowing Leaders",
+      "content": "When you know who the transition leaders are in your community, you can talk with them to get the support and opportunities that you need to reach your goals"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Understand Issues",
+      "content": "Knowing what the issues and barriers are in your own community to all youth with disabilities getting the support that they need, will empower you to work with your own team to find solutions that work around these problems!"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Understand Collaboration",
+      "content": "When you understand how people and agencies in your community work together, you can use that information to get what you need to reach your goals for work, school and living independently"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Paid Employment",
+      "content": "Getting paid at least minimum wage in a job matches your  goals now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "An area that we’ve really focused on this year is cross agency collaboration and the work that we’ve been doing with our transition council, and bringing agencies in to do presentations about their job, their services and the supports to kids. Where anybody who’s in the field, including parents and kids with disabilities, are invited to attend. And the networking that has occurred because of that. So I think that’s really helpful.",
+        "url": "7_2_Final.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

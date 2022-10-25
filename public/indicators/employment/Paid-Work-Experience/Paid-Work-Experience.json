@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Paid Work Experiences"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are paid work experiences?",
+      "subhead": "When you hear the words “paid work experiences” what comes to mind first?….paychecks! Getting paid is definitely important, however paid jobs also help you explore different careers while learning important life skills like responsibility, planning tasks, managing your money and doing your taxes. Paid work experiences also help you build out your professional experience, accomplishments and contacts on your resume, which makes you more likely to be hired in more advanced jobs (with bigger paychecks) down the road.",
+      "bullets": "<li>What paid jobs have you had? Name three things that you learned!</li> <li>What jobs or companies would you like to have a paid job with? How could you get started with getting one?</li><li>Where can you go to find out how much the average salary or hourly pay rate is for the jobs that you’re interested in?</li>",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do paid work experiences include?",
+      "subhead": "Your transition team can help you prepare you for paid work by helping you",
+      "bullets": "<li>Explore career options based on your personal interests, abilities, aptitudes, achievements and goals</li><li>Practice interview skills, social skills with co-workers, keeping track how many hours you work and managing your paycheck</li><li>Take classes in highschool and after you graduate that teach you the knowledge and skills that you’ll need for the jobs and career that you’re interested in</li><li>Get one-on-one training for how to do specific tasks that a paid job you want will require you to do</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "FGxV9lxa8LM",
+    "heading": "What’s paid work all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can paid work do for you?",
+    "subheading": "When your transition team helps you with paid work experiences, it opens up the door to success in finding and maintaining a career. "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Exploration",
+      "content": "Exploring careers based on your interests and preferences allows you to see what careers are out there and create goals for all the steps needed to get to that career."
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Career Skills",
+      "content": "Working together with peers and professionals, you are able to build the social skills, interviewing skills, and management skills that you’ll need for jobs in the future."
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Networking ",
+      "content": "Getting to know peers, teachers, and professionals allows you to make connections with people who can help you get hired in more advanced jobs in the future"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Advanced Jobs",
+      "content": "Successfully obtaining and maintaining a job will allow you to start getting paid for your skills and will help you build toward more advanced jobs later on."
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "I’m in an internship program. My school helped me set it up when I was a sophomore. I got to pick an internship in the field I’m trying to get into. I want to be a nursing assistant. I got an internship at the hospital and now I’m working in the surgical lounge. I take the patient there when they’re done with surgery. You get real life experience and a paycheck. Once you start, if you decide your internship isn’t right for you, you can move into a different position.",
+        "url": "8.7.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

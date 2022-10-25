@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Agency Nights About Employment ",
+    "abcid": "agency-nights"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are agency nights about employment? ",
+      "subhead": "Ever been to a school meeting during a weeknight where young people and parents met with school staff? Like a teacher conference or back-to-school night? Well, there are events like this for you to get support with getting jobs, too! Employment events are where professionals from agencies will give you information, answer your questions and maybe even review skills you will need to get started or stay on the path towards jobs! Your transition team should make sure that Vocational Rehabilitation & One Stop Centers are at the event to meet with you!",
+      "bullets": "<li>Have you ever been to a community agency night for employment? What did you learn?</li> <li>What do you want to know about how to prepare for work, apply for jobs and get hired?</li><li>What are some tips or tricks that you can use to organize all the things that you learn about different jobs by talking with professionals during an employment event?</li>",
+      "image": "community-agency-nights-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What happens when you go to an agency night about employment?",
+      "subhead": "Your transition team can help you prepare for the jobs that you want by making sure that you...",
+      "bullets": "<li>Learn what programs, services and activities different agencies have that can help you to meet the employment goals of your transition plan</li><li>Learn what agencies help with career exploration activities where you find out which jobs and careers match your strengths, goals, interests and needs</li><li>Learn where you can go outside of school to gain specific job skills and how to be successful in interviews</li><li>Learn about what kinds of adult services, programs and activities for employment are available to you to when you graduate high school</li><li>Learn what documents you need to apply services and programs for help with making your career goals a reality</li>",
+      "image": "community-agency-nights-img2.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "SQQ9qmj69RA",
+    "heading": " What’s a community agency night all about? Let’s unpack it!",
+    "imageName": "community-agency-nights-img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can connecting with agencies that support employment do for you?",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:    "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Knowing Options",
+      "content": "Knowing who is providing transition programming, services and supports outside of your school and what kinds of things they have that match your goals"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Program Applications",
+      "content": "Applying to programs that are available to you based on your disability, income, age, address or other factors"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Goal Setting ",
+      "content": "When you have conversations about your transition plan and decide what agencies can do for you to best support your goals now and in the future"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Making Connections",
+      "content": "Meeting professionals from outside of your school who can help you build skills and access programs that match your strengths, interests and goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "One thing that I know a lot of school districts are doing is ‘Dine and Discuss’ where they get families to understand the concept of transition and what to expect for their children. They come for dinner and then have all the social service agencies there. And so, it’s sort of like a job fair for the families and their kids. They get a lot of employers to donate gift cards and free meals at some of the restaurants and so forth. So they have a raffle. One thing we found was that when we had our transition meetings, it was all just professionals at the table. And as they started this ‘Dine and Discuss’, they started to get more parents coming to the Transition Council meetings. And because they started to become educated, now they’re more vocal and active. We’re seeing some of the spin-offs from the career fairs or job fairs; now they’re doing the social service fairs where the agencies will have booths and folks who provide residential support services are there. A lot of the parents were saying we have younger children, so we can’t come. So now, they have set it up where they have a daycare that donates the time.",
+        "url": "Indicator-7-3.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Transition Fair",
+    "abcid": "transition-fair"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is a Transition Fair? ",
+      "subhead": "At your high school or in your community, you may have attended a college fair or a science fair or even a resource fair at some time in your life. If you are wondering what an Transition Fair is, well it’s kind of like any of those fairs but with people and businesses that want to be a part of supporting your transition process! Under one roof there are all types of people, organizations, programs and businesses that will have resources and information for you and your family to learn about ways to reach your goals. You get to take your pick of where you would like to explore and focus on. Almost like a “transition buffet” and it’s free! ",
+      "bullets": "<li>Have you ever been to a transition fair? What did you learn about?</li> <li>Which people, organizations or businesses would you want to meet at a transition fair?</li><li>If you attend a transition fair, what are three big questions about planning your future that you would want to get help with?</li>",
+      "image": "transition-fairs-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What happens when you go to a transition fair?",
+      "subhead": "",
+      "bullets": "<li>Learn what agencies, organizations, nonprofits and businesses have transition programs, services and supports in your community. </li><li>Practice interview skills, social skills with co-workers, keeping track how many hours you work and managing your paycheck</li><li>Take classes in highschool and after you graduate that teach you the knowledge and skills that you’ll need for the jobs and career that you’re interested in</li><li>Work in a paid job where you also get on-going training for how to do that job</li>",
+      "image": "transition-fairs-img3.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "Ql6dHZ0xMJo",
+    "heading": "What’s a transition fair all about? Let’s unpack it!",
+    "imageName": "transition-fairs-img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can preparing for careers do for you?    ",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:    "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Knowing Options",
+      "content": "Knowing who is providing transition programming, services and supports outside of your school and what kinds of things they have that match your goals"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Program Applications",
+      "content": "Applying to programs that are available to you based on your disability, income, age, address or other factors"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Goal Setting ",
+      "content": "When you have conversations about your transition plan and decide what your team can do to best support your goals, you take control of your future (maximum adulting)!"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Making Connections",
+      "content": "Meeting professionals from outside of your school who can help you build skills and access programs that match your strengths, interests and goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "Having symposiums like my state representative just did. We had a huge symposium in March. He’s had it 2 years now, and he has pretty much every human service agency that can help youth with disabilities under one roof with exhibitor tables. There were panelists, people from agencies, people from OVR. You could walk through the exhibit hall and pretty much it was as if you looked from A to Z in the Allegheny County area of who provides human services, they were under that roof. They ran the gamut and then there were various presentations. There were some about Transition, there were some from OVR, there were some from Early Reach, there were some about bullying. They ran the gamut and it was really an opportunity for people to come and learn. There were parents and youth, there were professionals, there were teachers.",
+        "url": "7.6.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

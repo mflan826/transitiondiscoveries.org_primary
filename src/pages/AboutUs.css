@@ -1,0 +1,395 @@
+/* About us css */
+.Banner {
+  background-image: "./banner.png";
+}
+.pagebanner {
+  background-size: cover;
+}
+h4 {
+  display: inline-block;
+}
+
+/* .videobox {
+  background: url("../images/shutterstock_400563190.jpg") no-repeat top center /
+    cover;
+  min-height: 450px;
+  padding-top: 180px;
+} */
+
+.aboutlast-grid .item .subitem-1 h4 {
+  display: block;
+}
+.involvmnt-grid .item p {
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.aboutvidobg {
+  margin-top: 25px;
+}
+.aboutvidobg a {
+  color: #2c3c4f !important;
+  display: table-cell;
+  background: #ffff;
+  font-family: sans-serif;
+  font-weight: 600 !important;
+  /* border: 3px solid #2c3c4f !important; */
+  padding: 6px 12px !important;
+  font-size: 22px !important;
+}
+/* #aboutpage #overlay {
+  background: #000;
+  position: absolute;
+  width: 70%;
+  height: 206px;
+} */
+.green-btn {
+  color: #fff;
+  background: #649140;
+  border: 1px solid #649140;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.aboutlast-grid a,
+.involvmnt-grid a {
+  color: #fff;
+}
+.aboutlast-grid a:hover,
+.involvmnt-grid a:hover {
+  color: #fff;
+}
+.nav-item > a.green-btn.active,
+.nav-item > a.green-btn:hover {
+  background: #fff;
+  color: #000;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.green {
+  color: #649140;
+}
+
+.playicon {
+  position: absolute;
+  right: 8%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  width: 65px;
+}
+.playtext {
+  position: absolute;
+  right: 6%;
+  top: 60%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+/* .tile-button-box {
+  max-width: 100;
+  height: auto;
+  background: url("../images/shutterstock_400563190.jpg") no-repeat top center /
+    cover;
+} */
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  border: none;
+  cursor: pointer;
+}
+
+.my-2.nav-item a.green-btn.nav-link {
+  opacity: 1;
+}
+.green-btn {
+  opacity: 1;
+}
+
+@media screen and (max-width: 480px) {
+  section.hero-equal-height.pt-165.pb-150.gradient-overly-right-light.partnerbanner {
+    height: 380px;
+  }
+  .partnerbanner .hero-slider-content.text-left,
+  .policybanner .hero-slider-content.text-left {
+    padding-top: 148px;
+  }
+  .partnerbanner,
+  .policybanner {
+    height: 380px;
+  }
+  .contributorBanner .hero-slider-content.text-left,
+  .resourcesbanner2 .hero-slider-content.text-left {
+    padding-top: 104px;
+  }
+  section#TeamListPage img {
+    display: none;
+  }
+  .container.contentsec-grid.ptb-40,
+  .ptb-40,
+  .container.aboutlast-grid.ptb-40 {
+    padding: 0px 0px !important;
+    margin-top: 0px !important;
+  }
+  .tab-grid .item-tabhead {
+    grid-template-rows: 0.2fr 4fr 0.2fr !important;
+  }
+  .aboutbanner .hero-slider-content.text-left h1.slider-lead.white {
+    line-height: 2rem !important;
+  }
+  .aboutbanner {
+    padding: 110px 0px 40px 0px !important;
+  }
+
+  .my-2.nav-item {
+    float: left;
+    width: auto;
+  }
+  .tab-grid .item-b {
+    grid-template-columns: auto !important;
+    padding: 0 15px;
+  }
+  .my-2.nav-item:visited {
+    border-radius: 0px;
+    border: solid 2px #63913e;
+  }
+  .green-btn.nav-link.active {
+    border-radius: 0px;
+    border: solid 2px #63913e;
+  }
+  .nav {
+    display: initial;
+  }
+  .my-2.nav-item a.green-btn.nav-link {
+    opacity: 1;
+    padding: 4px 4px;
+    font-size: 0.7rem;
+    border: 1px solid #649140;
+    margin-right: 1px;
+  }
+  .tab-grid .item-tabhead2 {
+    display: initial !important;
+    grid-column-start: auto !important;
+    grid-row-start: auto !important;
+    grid-row-end: auto !important;
+    align-content: center;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  .tab-grid .item-tabhead {
+    display: block;
+    grid-template-columns: auto !important;
+    grid-template-rows: auto !important;
+    align-content: center;
+    width: auto;
+    float: left;
+  }
+
+  .contentsec-grid {
+    display: block;
+  }
+  .tab-grid {
+    display: block !important;
+  }
+  .playicon {
+    top: -13% !important;
+  }
+  .grid {
+    display: block !important;
+  }
+  .involvmnt-grid {
+    display: block !important;
+    margin-top: 0px !important;
+  }
+  .aboutlast-grid {
+    display: block !important;
+    margin-top: 0;
+    grid-template-columns: auto;
+  }
+  .aboutlast-grid .item {
+    display: grid !important;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px !important;
+  }
+  .accordion__button {
+    font-size: 0.98rem !important;
+    line-height: 1.4rem;
+    padding: 14px 6px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .accordion__button {
+    font-size: 0.98rem !important;
+    line-height: 1.4rem;
+    padding: 14px 6px;
+  }
+  section.hero-equal-height.pt-165.pb-150.gradient-overly-right-light.partnerbanner {
+    height: 380px;
+  }
+  .partnerbanner .hero-slider-content.text-left {
+    padding-top: 148px;
+  }
+  .partnerbanner {
+    height: 450px;
+  }
+  .contributorBanner .hero-slider-content.text-left,
+  .resourcesbanner2 .hero-slider-content.text-left {
+    padding-top: 104px;
+  }
+  section#TeamListPage img {
+    display: none;
+  }
+  .my-2.nav-item {
+    float: left;
+    width: auto;
+  }
+  .tab-grid .item-b {
+    grid-template-columns: auto !important;
+    padding: 0 15px;
+  }
+  .my-2.nav-item:visited {
+    border-radius: 0px;
+    border: solid 2px #63913e;
+  }
+  .green-btn.nav-link.active {
+    border-radius: 0px;
+    border: solid 2px #63913e;
+  }
+  .nav {
+    display: initial;
+  }
+  .my-2.nav-item a.green-btn.nav-link {
+    opacity: 1;
+    padding: 4px 4px;
+    font-size: 0.78rem;
+    border: 1px solid #649140;
+    margin-right: 1px;
+  }
+  .tab-grid .item-tabhead2 {
+    display: initial !important;
+    grid-column-start: auto !important;
+    grid-row-start: auto !important;
+    grid-row-end: auto !important;
+    align-content: center;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  .tab-grid .item-tabhead {
+    display: block;
+    grid-template-columns: auto !important;
+    grid-template-rows: auto !important;
+    align-content: center;
+    width: auto;
+    float: left;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  section.hero-equal-height.pb-150.gradient-overly-right-light.contributorBanner {
+    height: 498px;
+  }
+  .policybanner {
+    padding: 140px 0px 40px 0px !important;
+  }
+  .my-2.nav-item a.green-btn.nav-link {
+    opacity: 1;
+    line-height: 17px;
+  }
+  section.hero-equal-height.pt-165.pb-150.gradient-overly-right-light.aboutbanner {
+    padding: 88px 0px 0px 0px;
+  }
+  .involvmnt-grid {
+    margin-top: 0px;
+  }
+  .container.grid.ptb-40 .item-ab img {
+    width: 16% !important;
+  }
+  h4 strong.green {
+    font-size: 1.3rem;
+  }
+  .aboutbanner {
+    padding-bottom: 16px;
+  }
+  .aboutbanner .col-md-6.col-lg-6 {
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  .tab-grid .item-tabhead2 {
+    margin-left: -204% !important;
+    margin-right: 30% !important;
+  }
+
+  .tab-grid .item-a img {
+    height: 100% !important;
+  }
+  .grid .item-ab {
+    display: grid;
+    grid-row-start: 1 !important;
+  }
+  .item-ab img {
+    width: 14% !important;
+  }
+  .involvmnt-grid .item p {
+    font-size: 13.5px !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .contributorBanner {
+    background: url(https://transitiondiscoveries.s3.amazonaws.com/images/static/contr-banner.jpg)
+      no-repeat top center / cover !important;
+    height: 379px !important;
+    padding-top: 96px !important;
+  }
+  .policybanner {
+    padding: 100px 0px 100px 0px !important;
+  }
+  .aboutbanner {
+    background: url(https://transitiondiscoveries.s3.amazonaws.com/images/static/about-us-banner.jpg)
+      no-repeat top center / cover;
+    padding: 64px 0px !important;
+  }
+
+  .aboutbanner h1.slider-lead.white {
+    font-size: 2.1rem;
+  }
+  .aboutbanner {
+    padding-bottom: 16px;
+  }
+  .aboutbanner .col-md-6.col-lg-6 {
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+
+  .container.grid.ptb-40 .item-ab h4 {
+    font-size: 1.1rem !important;
+    line-height: 1.5rem;
+  }
+  .container.grid.ptb-40 .item-ab img {
+    width: 70px;
+  }
+  .grid .item-ab {
+    grid-row-start: 2;
+  }
+  .tab-grid .item-a img {
+    height: 100% !important;
+  }
+}
+
+@media (min-width: 1300px) and (max-width: 1366px) {
+  .menu li a {
+    font-size: 0.75rem;
+  }
+}
+@media (min-width: 1900px) and (max-width: 1920px) {
+  .menu li a {
+    font-size: 0.75rem;
+  }
+}

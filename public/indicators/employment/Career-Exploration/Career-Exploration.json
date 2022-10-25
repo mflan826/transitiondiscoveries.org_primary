@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Career Exploration"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is Exploration",
+      "subhead": "Quick, name all of the potential jobs out there...just kidding! Even if we could, would we know which match our goals, strengths and passions right away? This is what is so great about career exploration, you can take a big look at everything that is out there and then focus in on the ones that you think might fit you best. In order to really know about different jobs and find which match you best, you’ve got to get out there and try 'em out to know for sure! You’ll love some and really not like others - that’s more than ok! ",
+      "bullets": "<li>What are some careers that you want to learn more about? What do you want to know about them?</li> <li>What types of jobs would you like to try out?</li><li>If you could talk with a professional who’s successful in the career that you’re interested in, what would you want to learn from them?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does career exploration include?",
+      "subhead": "Your transition team can help you explore careers and prepare for the jobs that you want now and in the future by making sure that you.",
+      "bullets": "<li>Explore career options based on your personal interests, abilities, aptitudes, achievements and goals</li><li>Participate in opportunities where you try working in different jobs, like internships, so that you can learn about the responsibilities of a job and how they match up with your strengths, goals and needs </li><li> Learn about the school and work experience requirements of different jobs - many advanced jobs require that you have specific training and experience before you apply!</li><li>Have opportunities to speak with and be mentored by professionals working in the field that you want to work in</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "apcHn02aWTU",
+    "heading": "What’s career exploration all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can career exploration do for you?",
+    "subheading": "When your transition team helps you with career exploration, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Knowledge",
+      "content": "Understanding the different career pathways that are out there and how your strengths, goals, needs and interests match up with them"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Job Requirements",
+      "content": "Knowledge about the requirements of getting hired for different jobs"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Career Pathway",
+      "content": " Choosing a career pathway that you want to take courses and get training to be able to get a job within it"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Career Trends",
+      "content": "Knowing about which careers that match your strengths and goals are current “in-demand”, meaning that there is a need for people like you who want to work in them"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "The job coach goes over with us which jobs you want to try out. Then she’ll take you. If you like it, then you might want to go do that job after high school. I got to do some fun things on the computer to learn about myself and about jobs. I liked horses and to milk cows so the job coach talked to me about a farm that included all of those things. And it’s like three jobs in one, a horse farm, a dairy farm and a food bank. When I graduate I’m going to work on the horse farm. I will walk the horses.",
+        "url": "8.4.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

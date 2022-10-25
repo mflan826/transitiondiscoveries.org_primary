@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Person and Family-Directed Planning",
+    "subindicatorname": "Authentic Person and Family Centered Planning Practices"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "Authentic Person and Family Centered Planning Practices",
+      "subhead": "Close your eyes and think about what you want your future to be. What activities do you want to be doing? Where do you want to be living? What job do you want to have? What ambitions do you have for yourself? No one knows you like you do! To make these dreams come true, you need to set goals along the way to help you get to this future. Planning these goals should be person centered, which means that your thoughts and experiences matter the most and that you have the power to decide your goals.",
+      "bullets": "<li>Have you had chances to learn about strengths and interests? What have you found out?</li><li>What activities do you want to experience to reach your goals for work, more education or living independently? </li><li>Aside from yourself, who in your life knows you best? How could they help with setting goals for your future?</li><li>What can the adults in your life do to help you advocate for yourself in your transition planning meetings?</li>",
+      "image": "img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What do person and family centered planning practices include?",
+      "subhead": "Your transition team can help you take charge of your planning by making sure that you...",
+      "bullets": "<li>Explore your personal interests and preferences in and outside of school</li><li>Lead all or parts of your IEP meeting</li><li>Advocate for what should and shouldn’t be in your transition plan</li><li>Pick courses in high school that match your strengths, interests and goals</li><li>Plan activities, clubs, or programs you can join in your community</li>",
+      "image": "img3.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "xKbfwg0zHcQ",
+    "heading": "What are person centered practices all about? Let’s unpack it together!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can person and family centered planning practices do for you?",
+    "subheading": "When your transition team supports your family, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Academic Options",
+      "content": "Knowing what courses and training programs you should be completing that will prepare you with the skills and knowledge you need based on your interests"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Employment Options",
+      "content": "Exploring different careers and knowing which options match your strengths, interests, goals and personality"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Living Options",
+      "content": "Understanding different future living options and how to make them happen based upon your strengths, needs and goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Self-Advocacy",
+      "content": "Leading your IEP meeting and speaking up for what you want so that your plan is always about your goals now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "The most important thing to me is to go to college and then graduate. From now and through college, I know I want a lot of stuff. I want to get my own place, get a car, and get married eventually, and have kids. I have a plan and great people with me who believe in me.",
+        "url": "3-1planning.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

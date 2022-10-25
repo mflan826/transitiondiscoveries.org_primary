@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Independent and Community Living",
+    "abcid": "independent-living"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What does living independently mean to you?",
+      "subhead": "It’s your right to choose what living independently will look like for you. You might live with friends, family, your partner or by yourself! Not to mention there are a bunch of types of places that you can live in! Where and how you live depends on your strengths, interests, goals for work and school and your responsibilities. You’ll definitely want to learn some skills along the way for things like being healthy, managing your time and traveling where you want to go. Your transition team can help you get started!",
+      "bullets": "<li>How do you take care of yourself so that you’re physically and mentally healthy?</li><li>Which transportation options are you really comfortable with using by yourself to get to places that you want to go to? Which new ones do you want to learn how to use?</li><li>Do you know how to manage your money and schedule? What new things could you learn to do this even better?</li><li>What responsibilities do you have at home right now? What new things could you learn to take care of the place that you live in?</li>",
+      "image": "independent-community-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does independent and community living include?",
+      "subhead": "Your transition team can help you explore different options for living independently and help you learn the skills that you need to be a part of your community",
+      "bullets": "<li>Learning about different living options (by yourself, with family, with friends, with your partner), the types of places that you can live and the steps you need to take to make them happen.</li><li>Learning how to use different transportation options by yourself like driving or taking a bus, train, taxi, rideshare or plane so that you can get where you want to go. </li><li>Learning how to manage your savings so that you can pay your bills and still have money to buy things that you want or to do things that you want to do.</li><li>Learning about how to vote in elections</li><li>Learning how to manage your health on your own, like when and how to set up going to the doctors and eating a healthy, balanced diet</li>",
+      "image": "independent-community-img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "c0qoqdk_Ko0",
+    "heading": " What’s living independently all about? Let’s unpack it together!",
+    "imageName": "independent-community-img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can preparing for independent and community living do for you?",
+    "subheading": "Your transition team will help you explore options, make a plan and learn new skills so that you have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Home Skills",
+      "content": "Knowing how to take care of the place that you live in"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Transportation Skills",
+      "content": "Knowing which transportation options will work best for where you want to go and being confident in how to use them"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Health Skills",
+      "content": "Being able to manage your diet, exercise, sleep, mental health both independently and with the help of medical professionals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Money Skills",
+      "content": "Knowing how to set up a bank account, track your spending, keep a good credit score, choose loans that match your needs and to save your money for big purchases"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "“As for me, I already finished college. But I would like a few things that are important to me now that I’m out of college. I would like to have a job that’s right for me, that’s going to fit, that I’m going to be successful at. And I’m going to want to get married obviously because I think I would make a great husband. And I would also like friends. I may want to start my own foundation one day. That’s something I’m thinking about. To support people with autism because that’s what I have, so that’s what I’m thinking about doing, starting my own non-profit organization.”",
+        "url": "1.3.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

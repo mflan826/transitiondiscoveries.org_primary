@@ -1,0 +1,45 @@
+.ProjectsList {
+  padding: 60px 0;
+}
+.ProjectsList .horizontleIconText {
+  display: grid;
+  max-width: 100%;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 2%;
+}
+.ProjectsList .hIT-1 {
+  display: grid;
+  margin-top: 0%;
+  align-content: center;
+  grid-template-columns: 1fr;
+}
+.ProjectsList .hIT-1 .hit-11 {
+  display: grid;
+  padding: 0%;
+  align-content: center;
+}
+.projectcont {
+  padding: 5px;
+  background: #f7f7f7;
+  transition: 0.3s;
+}
+.ProjectsList .hIT-1:hover .projectcont {
+  background: #355960;
+}
+.ProjectsList .hIT-1:hover .projectcont p,
+.ProjectsList .hIT-1:hover .projectcont h4 {
+  color: #fff;
+}
+.ctaproject,
+.ctaproject:hover {
+  border: solid 2px #f7f7f7;
+  padding: 0 5px;
+  display: inline-block;
+  color: #fff;
+  color: #fff;
+  margin: 10px 0;
+  opacity: 0;
+}
+.ProjectsList .hIT-1:hover .ctaproject {
+  opacity: 1;
+}

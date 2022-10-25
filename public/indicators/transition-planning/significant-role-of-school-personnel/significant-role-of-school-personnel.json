@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": " Significant Role of School Personnel"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "Who are significant school staff?",
+      "subhead": "Success after you graduate from high school is not just about what you know and what you can do, it’s also about who you know! Your network of people who can mentor and support you should start with adults in your school, like teachers, counselors, coaches and other staff. Your transition team should include teachers and other adults in school who take the time to really understand who you are, what’s important to you and what you want to accomplish. ",
+      "bullets": "<li>When you have questions about your disability and the accommodations or supports that can help you in school, which adults in your school do you ask?</li><li>Which adults in your school can help you learn more about different career pathways and how they might match your goals and interests?</li><li>When you want to get out in the community and try out different jobs, which adults in your school can you ask to help you get started?</li><li>Who can you ask in your school to learn about different programs for getting more education and training after high school?</li>",
+      "image": "img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "It’s important to have mentors in school!",
+      "subhead": "What does it look like when you have school staff support you?",
+      "bullets": "<li>Adults in school helping you learn about your strengths, disability and the accommodations or supports that can help you succeed in reaching your goals </li><li>Having adults in your school that want to help you explore different career pathways and how they might match your goals and interests</li><li>Having adults in your school that want to help you get out in the community and try out different jobs</li><li>Having adults in your school that want to help you learn about different programs for getting more education and training</li>",
+      "image": "img3.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "MXg_b8fEAFs",
+    "heading": "Who are adult mentors in school? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can having significant school personnel do for you?",
+    "subheading": "When you have adults in your school who focus on what you want and need, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Self-Awareness",
+      "content": "Knowing all about what your strengths, interests, needs and disability are so that you can make decisions about goals for life after high school"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Career Readiness",
+      "content": "Learning about different careers and building the skills that you’ll need to get hired and succeed at a job that matches your strengths and goals"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Postsecondary Education",
+      "content": "Choosing a program after high school that can provide you with more knowledge and skills for getting the job that you want now and in the future"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Living Independently",
+      "content": "Knowing how to find a place to live that matches your strengths, goals and needs while also having the skills to take care of that place, your own health and to travel in a way that works best for you."
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "“My high school was a supportive environment. I had a lot of support systems. When I had a problem, I always went to my social worker or guidance counselor. I could ask the teacher. Even in my personal life, if something was going on, I would talk to my friends about it.",
+        "url": "1.4%20School-Personnel.m4a ",
+        "audio": true
+      }
+    ]
+  }
+}

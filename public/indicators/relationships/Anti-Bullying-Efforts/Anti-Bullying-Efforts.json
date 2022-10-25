@@ -1,0 +1,75 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Anti-Bullying Efforts "
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are anti-bullying efforts?",
+      "subhead": "Bullying usually happens because people don’t really understand each other's experiences and feelings. While we’re all unique, you’d be surprised at how much we all have in common! Anti-bullying is about everyone taking time to understand and respect each other's experiences and beliefs. This takes time so anti-bullying is also about people standing up against bullying when they see it happening. Anti-bullying is super important because when everyone is respected, we can work together toward shared goals.",
+      "bullets": "<li>How can you and your friends act as role models against bullying?</li><li>Have you ever learned ways to stop bullying in school and beyond?</li><li>Who are some adults that you feel comfortable with talking about bullying situations?</li><li>Have you and peers in school had opportunities to learn about all of the things that you have in common? What was it like?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does anti-bullying efforts include?",
+      "subhead": "Your transition team can help stop bullying by making sure that you...",
+      "bullets": "<li>Learn why bullying happens and how to know when it’s happening</li><li>Practice speak up for yourself and your peers</li><li>Talk to friends and adults about bullying experiences</li><li>Share your beliefs and experiences freely while also learning all about your peers</li><li>Practice anti-bullying strategies for school and at work</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "HNPrxEB-iL0",
+    "heading": "What’s anti-bullying all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can anti-bullying do for you?",
+    "subheading": "When your team supports you with anti-bullying, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Self-Advocacy Skills ",
+      "content": "Learning and knowing when to speak up for yourself"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Safe Environments",
+      "content": "Safe spaces to share your experiences and beliefs"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Sharing Opportunities ",
+      "content": "Opportunities to connect with others that have had similar experiences within your school "
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Interpersonal Skills ",
+      "content": "Learning how to get along with others by finding what you have in common and respecting your differences"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "https://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth ",
+        "description": "I got accused of talking behind a friend’s back, which I wasn’t. I was upset, I was crying. I went to the guidance office at school. They handled it, and I told my friend that I wasn’t talking about her. Then it felt a lot better. We’re still friends.",
+        "url": "5.4.1_Take_1.mp4",
+        "audio": true
+      },
+      {
+        "title": "Transition-age youth ",
+        "description": "In 5th grade, this kid was calling me names that are like banana, nerd, like picking on names. I didn’t like him. Probably the boy was picking on me because I was in a special room. I told my grandma, and she told the principal, and the principal took care of it.",
+        "url": "5.4.2.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

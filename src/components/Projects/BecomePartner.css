@@ -1,0 +1,44 @@
+.BecomePartner {
+  display: grid;
+  grid-template-columns: 5fr 3fr;
+}
+.BecomePartnerB {
+  display: grid;
+  align-content: center;
+  grid-template-rows: 1fr 4fr 1fr;
+}
+.BecomePartnerB .B1 {
+  display: grid;
+
+  background: #45662f;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  align-content: center;
+  padding: 5%;
+  /* margin-right: -3%; */
+  z-index: 99;
+}
+.ctapartners,
+.ctapartners:hover,
+.ctapartners:focus {
+  border: solid 2px #f7f7f7;
+  padding: 0 5px;
+  display: table;
+  color: #fff;
+  color: #fff;
+  margin: 10px 0;
+  width: 200px;
+  font-size: 20px;
+  background: #45662f;
+}
+#partnerPage .BecomePartnerB {
+  display: grid;
+  align-content: center;
+  grid-template-rows: 1fr 12fr 1fr;
+}
+
+@media (max-width: 767px) {
+  .BecomePartnerSection .container.BecomePartner {
+    grid-template-columns: 5fr 5fr;
+  }
+}

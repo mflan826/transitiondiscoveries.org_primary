@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "On-the-Job Training"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is on-the-job training?",
+      "subhead": "Have you ever had a class where a teacher taught you how to build something and showed you each step so that you could confidently do it on your own? Did you know that we can learn job skills the same way? Yep! On-the-job training gives you the opportunity to get step-by-step instructions from a pro for how to do a specific skill at a job. This will help you to feel more confident about completing tasks and will help you to build your own professional knowledge of important skills for your dream career! ",
+      "bullets": "<li>Think of a skill you’re really good at now. What steps did you need to take to get good at that skill?</li> <li>Have you ever had a professional teach you a new skill step-by-step? What did you learn how to do?</li><li>Think about the jobs that you want soon or in the future, what skills would you like on-the-job training for?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does on-the-job training include?",
+      "subhead": "Your transition team can help you explore what on-the-job training can look like for you by making sure that you",
+      "bullets": "<li>Complete activities to identify which careers align with your interests and goals</li><li>Identify which skills you’ll need to learn in order to succeed in the job that you want</li><li>Set up meetings with employers that offer on-the-job training for the jobs that you want</li><li>Schedule when you will participate in on-the-job training that works with your school and life goals</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "DOxPruSVno0",
+    "heading": "What’s on-the-job training all about? Let’s unpack it!",
+    "imageName": "img3.png"
+  },
+  "IconTile2Heading": {
+    "heading": "What can on-the-job training do for you?",
+    "subheading": "When your transition team helps you to map out action steps for your career goals and connects you with employers who offer on-the-job training, you are able to develop the skills and knowledge necessary to be successful in your dream career."
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Options ",
+      "content": "Understanding how your interests, preferences, and values align with various careers will help you to explore employment opportunities that would be a good fit for you."
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Career Experience",
+      "content": "Working in real employment settings allows you to learn the skills and knowledge required to complete work tasks, give you opportunities to socialize with others, and provide you with time and task management practice. "
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Paid Employment ",
+      "content": "Receiving pay for the skills and knowledge you provide to an employer that align with your career goals. "
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Self-Determination ",
+      "content": "Learning and mastering skills so that you are able to take control of your life and feel confident about the work you are doing. "
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "I met with my OVR counselor when I was getting ready to graduate. I wanted to work in Butler since I could get there every day for a job. I really knew I wanted to learn how to work in an office. My counselor set up a job interview and I got the job! Since I didn’t know how to do the job, OVR paid my new boss to give me training. It was great!",
+        "url": "8.11.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

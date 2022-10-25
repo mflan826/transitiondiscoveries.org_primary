@@ -1,0 +1,158 @@
+{
+  "banner": {
+    "image":"independent-living.jpg",
+    "imageName": "Banner-icon-Recovered.png",
+    "content": "What does living independently mean to you? It’s your right to define it!",
+    "videoUrl": "https://www.youtube.com/embed/A-F3aCFs4Q4?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "indicator-2.png",
+    "heading": "What is Independent Living?",
+    "content": "It’s your right to define what being independent means for you, including where and how you want to live! This is going to require some help from your transition team to explore options, make a plan and learn new skills along the way. <br /> <br /> Your transition team can help you figure out what works best for you when managing your health, setting up where and how you want to live, learning how to get to the places and managing your life, like your money and schedule.  Your transition team should always teach you these skills in the places where you’ll actually be using them, like at work, home, school, stores and beyond!<br /><br /><ul class='checkli'> <li>What kind of responsibilities do you have right now where you live?</li><li>How do you take care of yourself so that you’re physically and mentally healthy?</li><li>Which transportation options are you really comfortable with using by yourself to get to places that you want to go to? Which new ones do you want to learn how to use?</li><li>Do you know how to manage your money and schedule? What new things could you learn to do this even better?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "indicator-3.jpg",
+    "content": "You've got the tools - Now What? Click here to find out ways to put them to work!",
+    "VideoLink": "U1v-cjn2x2w"
+  },
+  "indicatordetails": {
+    "heading": "Independent Living and Community Engagement",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals a reality!"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Independent Living Skills Development",
+      "link": "/Independent-Living-Skills-Development",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "icons/independent-living-skills-development-icons.png"
+    },
+    {
+      "id": 2,
+      "title": "Planning for Future Living Arrangements",
+      "link": "/Planning-for-Future-Living-Arrangements",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "icons/planning-for-future-living-arrangements-icons.png"
+    },
+    {
+      "id": 3,
+      "title": "Travel and Transportation Skills",
+      "link": "/Travel-and-Transportation-Skills",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "icons/travel-and-transportation-skills-icon.png"
+    },
+    {
+      "id": 4,
+      "title": "Recreation and Leisure",
+      "link": "/Recreation-and-Leisure",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/recreation-and-leisure-icon.png"
+    },
+    {
+      "id": 5,
+      "title": "Community Based Experiences",
+      "link": "/Community-Based-Experiences",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "icons/community-based-experiences-icon.png"
+    },
+    {
+      "id": 6,
+      "title": "Faith Based Experiences",
+      "link": "/Faith-Based-Experiences",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "icons/faith-based-experiences-icon.png"
+    },
+    {
+      "id": 7,
+      "title": "Civic Engagement",
+      "link": "/Civic-Engagement",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "icons/civic-engagement-icons.png"
+    },
+    {
+      "id": 8,
+      "title": "Mental Health Supports",
+      "link": "/Mental-Health-Supports",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/mental-health-supports-icons.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Transition Conferences",
+    "abcid": "transition-conferences"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is a Transition Conference?",
+      "subhead": "Ever heard of an event where people who are all interested in the same thing get together to talk, earn and just geek out? Well a transition conference is like that, but for people that want to geek out about transition and get empowered to live their best life. Under one roof there are all types of people, organizations, programs and businesses that will have resources and information for you and your family to learn about transition. You get to take your pick of where you would like to explore and focus on. You could just hang out  with other young people and learn with them too! ",
+      "bullets": "<li>Have you ever been to a transition conference? What did you learn about?</li> <li>Which people, organizations or businesses would you want to meet at a transition conference?</li><li>If you attend a transition conference, what are three big questions about planning your future that you would want to get help with?</li><li>If you could teach other young people at conferences about planning for the future, what would it be? What would you do?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What happens when you go to a transition conference?",
+      "subhead": "Your transition team can help you prepare for the jobs that you want by making sure that you...",
+      "bullets": "<li>Learn how to be a leader in your own transition process</li><li>Connect with people and programs in your community to get what you need to support your transition to adulthood</li><li>Learn why it is important to be your own advocate and how you can develop your skills to speak up and make sure that your transition plan is preparing you for the life you want</li><li>Learn about new rules, laws and learning that can help you have the best experience as you plan for life after high school</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "vQ9PXW-Lnkk",
+    "heading": "What’s a transition conference all about? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can attending a transition conference do for you? ",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:    "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Knowing Options",
+      "content": "Knowing who is providing transition programming, services and supports outside of your school and what kinds of things they have that match your goals"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Program Applications",
+      "content": "Applying to programs that are available to you based on your disability, income, age, address or other factors"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Goal Setting ",
+      "content": "When you have conversations about your transition plan and decide what your team can do to best support your goals, you take control of your future (maximum adulting)!"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Making Connections",
+      "content": "Meeting professionals from outside of your school who can help you build skills and access programs that match your strengths, interests and goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "At the transition conference, there’s a youth strand, so your son can be with the young people, and they do a youth fair and they talk about what they want, they develop plans, they have specific things catered towards what their needs are. And then there’s an adult strand, so you can hear about what works. And there’s a couple of young men there that are…I’ve seen them speak a couple times. And they really, really speak to the youth and they say things like, ‘If you don’t speak up for yourself, nobody’s going to. You’re leaving your mom at home, you’re a grown up, you have to tell them, I need a ramp, I need this, I need a break every 5 minutes, this is my disability.’ You know, so they really stress to the kids to–you’ve got to be your own advocate, or you’re not going to get anywhere in the world. They don’t listen to us, but they’ll listen to them, because they’re funny. They respect them, I think. I’ve watched the kids in the room listen to them, and they really connect with the youth, so if you can get them to go with you, that’s good.",
+        "url": "7_7_Final.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

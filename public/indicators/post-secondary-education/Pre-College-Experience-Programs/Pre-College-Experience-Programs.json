@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Postsecondary Education",
+    "subindicatorname": "Pre-College Programs"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are pre-college programs?",
+      "subhead": "Thinking about more education after highschool, maybe at community college or a university either close by or further away? There are so many options out there and you might still be figuring out if college is right for you. There are a bunch of colleges out there where you can go to a pre-college program there for a few weeks, usually during the summer, and live on campus while taking a class or a few and learn from a mentor on how to be independent and to succeed in college. Here’s the cool part, a pre-college program helps you to prepare for college and earn college credits even before you apply there!",
+      "bullets": "<li>Have you visited a college or university? What was it like and what did you learn?</li><li>Which colleges or universities would you like to visit soon or in the future?</li><li>Share three things about succeeding in college that you would want to learn more about if you attended a pre-college program during the summer</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "Ideally, this planning and preparation includes",
+      "subhead": "This Transition Planning Infographic collection describes the 4 sub-indicators through definitions, characteristics, outcomes, and meaningful stories.",
+      "bullets": "<li>Different college degree programs, including the courses and how to apply</li><li>Disability services and other supports on campus to help you succeed</li><li>What it’s like to live on campus and build your skills for living independently</li><li>Social, working and learning opportunities on campus</li><li>How to pay for your college education</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "1uJxjbhrHtI",
+    "heading": "What are pre-college programs all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can a pre-college program do for you?",
+    "subheading": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Program Knowledge",
+      "content": "Understanding of the different college programs that are available and how to apply to them"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Support Knowledge",
+      "content": "Understanding about the different supports and services on campus to help you succeed, like disability services!"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "College Credits",
+      "content": "Earning college credits for the school and program that you are interested in before you graduate high school"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Campus Skills",
+      "content": "Skills for living independently on campus"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "One of the things I did with the support of my mom was to attend a college program at the University at Penn last year. It was free for me to attend, because a grant paid for it. What they did was they matched me up with a grad student and we went down there, I think it was five Saturdays. And they were down there the whole day, it was like 10-4. And they did different things on campus to look at what different jobs are available. They went in to the city down to Reading Terminal, we learned how to use transportation. I had to do this with the Penn student not with my mom or dad. And I wondered, ‘Oh my gosh, how nice would that be if this grant, if there’s more of them, that more local schools like more local colleges who might have these programs.",
+        "url": "9.1.wav",
+        "audio": true
+      }
+    ]
+  }
+}

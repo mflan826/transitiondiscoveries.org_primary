@@ -1,0 +1,217 @@
+.contentsec-grid2 {
+  display: grid;
+  grid-template-columns: 7fr 3fr;
+  align-content: center;
+  padding: 10px 0;
+  align-content: center;
+}
+.contentsec-grid2 .item-a {
+  display: grid;
+  align-content: center;
+}
+.contentsec-grid2 .item-ab {
+  padding-right: 2%;
+}
+.sub-txt {
+  font-size: 1.5rem;
+}
+div#projectDetail .purpbg {
+  background: #f7f7f7;
+  padding: 3% 2%;
+}
+
+.box-grid-icons-1.advisory p.green {
+  color: #000 !important;
+}
+.box-grid-icons-1 {
+  padding: 10px;
+}
+.box-grid-icons-1 img {
+  display: block;
+}
+.purpose .container.grid {
+  display: grid;
+  grid-template-columns: 4fr 7fr;
+  align-content: center;
+}
+.ProjectsListLeftImgRightBullets {
+  background: #f7f7f7;
+}
+.ProjectsListLeftImgRightBullets .grid {
+  display: grid;
+  grid-template-columns: 3fr 5fr;
+  align-content: center;
+}
+
+#projectDetail .owl-item .item {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+@media screen and (max-width: 480px) {
+  .contentsec-grid2 {
+    display: block;
+    grid-template-columns: auto;
+  }
+  .bgboxgrid .box-grid-icons {
+    display: block !important;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .bgboxgrid {
+    display: block;
+  }
+  .lead-txt {
+    font-size: 27px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .ProjectslistContentImg .contentsec-grid {
+    padding: 0px !important;
+  }
+  .projectbanner {
+    padding-top: 110px !important;
+  }
+  .BecomePartnerB {
+    grid-template-rows: auto !important;
+  }
+  .BecomePartner {
+    grid-template-columns: auto !important;
+  }
+  .PartnersRightBox ul li img {
+    width: 100px !important;
+  }
+  .PartnersLeftBox {
+    grid-template-rows: auto !important;
+  }
+  section {
+    padding: 30px 0px !important;
+  }
+  .ProjectsList .horizontleIconText {
+    grid-template-columns: 5fr 5fr !important;
+  }
+  .ProjectsList .horizontleIconText img.hiticn {
+    width: 100%;
+    padding: 0px 0px;
+  }
+  .ctaproject,
+  .ctaproject:hover {
+    border: solid 2px #649140 !important;
+    color: #649140 !important;
+    opacity: 1 !important;
+  }
+  .PartnersBox {
+    grid-template-columns: auto !important;
+  }
+}
+.advisory img {
+  width: 103px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-sm-12 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+
+  .PartnersSection {
+    padding: 20px 0 !important;
+  }
+  .BecomePartnerB h3.white {
+    font-size: 1.4rem;
+  }
+  .BecomePartnerB {
+    grid-template-rows: 0.1fr 4fr 0.1fr !important;
+  }
+  .container.BecomePartner .BecomePartnerA {
+    align-items: center;
+    display: grid;
+  }
+  .BecomePartnerSection {
+    padding: 20px 0 !important;
+  }
+  .BecomePartner {
+    grid-template-columns: auto !important;
+  }
+  .PartnersLeftBox {
+    grid-template-rows: auto !important;
+  }
+  .sub-txt {
+    font-size: 22px;
+    line-height: 1.7rem;
+  }
+  .projectcont h4.dark {
+    font-size: 20px;
+  }
+  .ProjectsListLeftImgRightBullets .grid {
+    grid-template-columns: auto;
+  }
+  .hero-slider-content.text-left {
+    padding: 68px 0px;
+  }
+  .projectbanner .col-md-6.col-lg-6 {
+    flex: 0 0 80% !important;
+    max-width: 80% !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  ul.service-left-menu p {
+    font-size: 1.5rem;
+  }
+  ul.service-left-menu li a {
+    padding: 1rem;
+    width: 100%;
+    float: left;
+    color: #333;
+    font-size: 14px;
+    line-height: normal;
+  }
+  .becom-ptn {
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    float: left;
+  }
+  h4 {
+    font-size: 0.9em !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1600px) {
+  .PartnersSection {
+    padding: 10px 0 !important;
+  }
+  .container.BecomePartner .BecomePartnerA {
+    display: grid;
+    align-items: center;
+  }
+  .container.BecomePartner .BecomePartnerB {
+    grid-template-rows: 0.1fr 4fr 0.1fr;
+  }
+  .PartnersLeftBox {
+    grid-template-rows: auto !important;
+  }
+  .projectbanner {
+    padding: 100px 0px !important;
+  }
+}
+.projectDetal .bgboxgrid {
+  display: grid;
+  grid-template-rows: 1fr 3fr;
+}
+.projectDetal .bgboxgrid2 {
+  display: grid;
+  grid-template-rows: 1fr 9fr;
+}
+.bgboxgrid2 .box-grid-icons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.bgboxgrid2 .boxgridhead {
+  margin-bottom: 4%;
+  text-align: center;
+}
+#cc,
+#md,
+#si {
+  display: none;
+}

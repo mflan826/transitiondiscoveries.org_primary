@@ -1,0 +1,109 @@
+.TeamMembers {
+  padding-top: 60px;
+}
+.TeamMembers .horizontleIconText {
+  display: grid;
+  max-width: 100%;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  max-width: 80%;
+  grid-gap: 2%;
+}
+.TeamMembers .hIT-1 {
+  display: grid;
+  margin-top: 0%;
+  align-content: center;
+  grid-template-columns: 1fr;
+  margin-bottom: 20px;
+}
+.TeamMembers .hIT-1 .hit-11 {
+  display: grid;
+  padding: 0%;
+  align-content: center;
+}
+.TeamMembers .hIT-1 .hit-11 img {
+  border: solid 4px #474123;
+}
+
+.TeamMembers .owl-carousel .owl-nav button.owl-prev,
+.TeamMembers .owl-carousel .owl-nav button.owl-next {
+  background: #45662f;
+  color: #fff;
+  padding: 0px 14px !important;
+  border-radius: 0px;
+  font-size: 18px;
+}
+
+.TeamMembers .owl-theme .owl-nav {
+  position: relative;
+  top: -48px;
+}
+div#modalResources .btn-primary.disabled,
+div#modalResources button.btn.btn-primary.mx-2 {
+  color: #fff;
+  background-color: #63913e;
+  border-color: #63913e;
+}
+
+div#modalResources .btn-primary.focus,
+div#modalResources .btn-primary:focus {
+  color: #fff;
+  background-color: #63913e;
+  border-color: #63913e;
+  box-shadow: 0 0 0 0.2rem #63913eb0;
+}
+
+div#modalResources .modal-header {
+  display: table;
+  padding-bottom: 0px;
+}
+div#modalResources {
+  z-index: 9999;
+  background: #00000091;
+}
+div#modalResources p {
+  color: #fff;
+}
+div#modalResources h5.modal-title {
+  color: #fff;
+  margin-bottom: 0px;
+}
+.SocialIcons {
+  width: auto;
+  margin: 0 auto;
+  display: table;
+  /* background: #64913f; */
+  padding: 3px;
+  margin-top: -12%;
+  margin-bottom: 4%;
+  border-radius: 10px;
+  min-height: 35px;
+}
+.teamname {
+  font-size: 21px;
+  min-height: 50px;
+}
+
+.designtion {
+  font-size: 0.8em;
+  line-height: 1.2em;
+  font-weight: 600;
+  min-height: 60px;
+}
+.green.designtion {
+  color: #3d5b29;
+}
+.SocialIcons li {
+  display: inline;
+  margin: 0 4px;
+}
+.SocialIcons li img {
+  width: 30px;
+  border: none !important;
+  vertical-align: middle;
+  background: #64913f;
+  padding: 4px;
+  border-radius: 5px;
+}
+.contpic {
+  cursor: default !important;
+}

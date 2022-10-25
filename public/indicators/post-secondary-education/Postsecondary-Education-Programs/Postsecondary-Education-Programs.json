@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Postsecondary Education",
+    "subindicatorname": "Postsecondary Education Programs"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are postsecondary education programs?",
+      "subhead": "Community college, online colleges, 4-year universities, graduate school..there are so many options if you want to go to college after high school. Remember, college is just one of a bunch of options that you can pick from to prepare you for the career that you want. If you’re interested in more education or training after high school, your transition team should work with you to make sure that you know about how different programs that are out there will match up with what you want to accomplish now and down the road. ",
+      "bullets": "<li>What things are important to you when choosing a program?</li><li>If you’ve thought about the different types of programs, which one's interest you the most? Why?</li><li>Let’s think about the people who work in the career that you want to go into. What certifications or degrees do they have?</li><li>Name 1 thing that you have to do when applying to a program for more education or training after high school. Bonus points if you know more!</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What can postsecondary education programs include?",
+      "subhead": "This Transition Planning Infographic collection describes the 4 sub-indicators through definitions, characteristics, outcomes, and meaningful stories.",
+      "bullets": "<li>Choosing a major that you are passionate about that matches your career goals</li><li>Taking classes that teach you information and skills that you’ll need in your future career</li><li>Taking classes (called electives) that teach you things you’ve always wanted to learn about (they might not be related to your career - that's fine!)</li><li>Getting opportunities to learn job skills out in the field with your peers and professors</li><li>All different kinds of social and recreational activities - teams, sports, clubs and more!</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "yHXiygNZKgg",
+    "heading": "The Guide is available to youth, families, and transition stakeholders to create pathways to success for transition youth.",
+    "imageName": "img3.png"
+  },
+  "IconTile2Heading": {
+    "heading": "What can postsecondary education do for you?",
+    "subheading": ""
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Potential",
+      "content": "Gain the specific skills and knowledge that you’ll need to get hired in the career that you want and to keep advancing in it"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Advanced Knowledge",
+      "content": "Having strong writing and speaking skills and knowing about many topics, including other languages, sciences, mathematics and history"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Professional Connections",
+      "content": "A strong network of relationships with peers, mentors and employers who are in your field that you can use to get hired and advance your career"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Social Connections",
+      "content": "Lifelong friendships and relationships with a diverse group of people from your community and maybe even all over the country and world!"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "And one of our programs that we have is for students ages 18 to 21 at the community college, and many of them are transitioning into college classes with needed support. You know, it’s individualized according to their post-secondary needs or their goals, but there’s many opportunities for them to go on campus and participate with many of the things on campus. And there’s a game room after lunch, a lot of the college students will interact with our students; it’s wonderful to see the progress that they make with their social skills. We also have community-based vocational training. We have approximately 25 businesses within the community that provide opportunities for our students. And they gain the soft skills in interacting with the business people, peers that they’re working with as well as the mentors. So, that I think, and also education. Reaching out into the community and educating others about persons with disabilities so that fear and that barrier is dropped.",
+        "url": "9.3.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Disability Awareness "
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What does disability awareness look like?",
+      "subhead": "You might’ve had adults mention that you or someone you know have a disability. What’s that? Did you know that literally millions of people have disabilities? Yup! Having a disability means that you have strengths and specific needs that are totally normal but that the places where you go were designed for strengths and needs that are different than yours. Because these places can and should change, we change them! Speaking of changing places, not people, if you have a disability, there are several laws that make sure that you have the same opportunities in school, at work and in the community that everyone else has.",
+      "bullets": "<li>What does it mean to have a disability? </li><li>What do you know about your disability?</li><li>What are some things you would like to know more about with your disability?</li><li>Have you ever learned about your disability rights in school, at work and in the community?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does disability awareness include?",
+      "subhead": "Your transition team can help you explore what disability awareness can look like for you and help prepare for your transition goals by making sure that you...",
+      "bullets": "<li>Gain awareness, acceptance and respect from the people around you</li><li>Understand your disability and your rights </li><li>Develop the skills to identify supports for yourself in school, community, and the workplace that help you reach your goals</li><li>Have confidence in who you are and the ability to speak up for yourself</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "7gCf9ITMa9E",
+    "heading": "What's disability awareness about? Let's unpack it together!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can disability awareness do for you?",
+    "subheading": "When your transition team supports your disability awareness, you’ll have:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Disability knowledge ",
+      "content": "Knowing more about your specific disability"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Advocacy skills",
+      "content": "Speaking up for equal access to opportunities at school, work and in the community"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Accomodation & Supports Identification",
+      "content": " Knowing what supports and accommodations you need to be successful based upon your strengths, needs and goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Disability Rights Knowledge",
+      "content": "Knowing your rights and how you and others are protected under law"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "I found out in my junior year that I had a learning disability. That was the best experience I could have. I went through elementary school, went through middle school, went through most of my high school, you know, struggling, opening my mouth and saying, ‘Hey, there’s something wrong here.’ And I had no help. We found out that I had a learning disability, that I comprehended everything but it just took me a longer time to comprehend.",
+        "url": "Indicator2.2.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

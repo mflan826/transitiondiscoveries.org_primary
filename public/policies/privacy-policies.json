@@ -1,0 +1,43 @@
+{
+  "Banner": {
+    "imageName": "BannerPP.jpg",
+    "heading": "Privacy Policies",
+    "ID": "PP"
+  },
+  "ProjectLeftBar": {
+    "heading": "Policies",
+    "CtaHead": "Become Our Partners",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/contactus",
+    "Leftmenu": [
+      {
+        "id": 1,
+        "label": "Privacy Policies",
+        "link": "/policies/privacy-policies",
+        "isActive": "active"
+      },
+      {
+        "id": 2,
+        "label": "Accessibility Policy",
+        "link": "/policies/accessibility-policy",
+        "isActive": ""
+      },
+      {
+        "id": 3,
+        "label": "Non-Discrimination Policy",
+        "link": "/policies/Non-Discrimination-Policy",
+        "isActive": ""
+      },
+      {
+        "id": 4,
+        "label": "UDL Policy",
+        "link": "/policies/UDL-Policy",
+        "isActive": ""
+      }
+    ]
+  },
+  "PoliciesContent": {
+    "PolicyName": "Privacy Policies",
+    "PolicyContent": "Our privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.<br><br><h4 class='greentxt'>When and what personal information do we collect from the people that visit our website?</h4> <p>On our site, if you choose to utilize the “contact us” feature, you will be asked to voluntarily share your name, phone number and email address. You may also choose to share your email address only through the “subscribe” feature in the bottom page menu.   <br><br>  </p> <p>On this site there is an opportunity for you to take the Transition Discoveries Quality Indicator Survey. Detailed information about this survey, including informed consent is automatically provided prior to data collection by the website. This survey does not collect the following personally identifiable information: Name, Address, Phone Number, IP Address. The survey collects the following demographic information: </p> <ul><li>Age</li><li>Disability</li><li>Professional Role</li><li>Ethnicity</li><li>School District</li></ul>    <br> Users will also have the opportunity to share information about their transition experiences through the website’s blog, gallery and social media feeds. All opportunities to share such information, which may be written text, video and/or audio recordings, are always considered “volunteering” and therefore, at no point are individuals compensated for these contributions. All individuals have the right to keep their identity anonymous and unassociated with the content that they contribute.  <br><br> <h5 className='green'>How do we use your information?</h5> <ul><li>To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li><li>To improve our website in order to better serve you.</li><li>To allow us to better service you in responding to your customer service requests.</li><li>To send periodic emails regarding your order or other products and services.</li><li>To follow up with them after correspondence (live chat, email or phone inquiries) </li> </ul><br> <h5 className = 'green'> How do we protect your information? </h5> Your personal information is contained behind the George Washington University's secured network, safeguarded by highly trained information security professionals and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.<br><br><h5  className = 'green'> Do we use “cookies”? </h5> Our Site may use 'cookies' to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. The use of cookies is an industry standard.<br><br>Your browser is probably set to accept cookies. If you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function properly when you view them.    <br><br><h5  className = 'green'>  Third Party Disclosure</h5> Transition Discoveries uses a number of third-party providers to host our website, share resources and manage our communication with site users related to their involvement within the site and the TD initiative. However, under no circumstances do we sell, trade, or otherwise transfer your Personally Identifiable Information collected via the “contact us” form of this site to any outside parties.    <br><br><h5  className = 'green'>  Third Party Links</h5> At times, the TD initiative may include or offer third-party information, products or services related to transition on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  <br><br><h5  className = 'green'>   Child Online Privacy Protection (COPPA)</h5> The primary goal of COPPA is to place parents in control over what information is collected from their young children online. The Rule was designed to protect children under age 13 while accounting for the dynamic nature of the Internet. We strictly follow these federal guidelines.    <br><br><h5  className = 'green'>  Fair Information Practices</h5> In the case of a data breach, we will notify you via email within 7 business days and we will notify the users via in-site notification within 7 business days. We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.   <br><br><h5  className = 'green'>  CAN-SPAM Act</h5>In respecting your right to control the email and messages that you receive from the TD initiative, we will: <ul><li>Not use false or misleading subjects or email addresses.</li><li>Identify the message as an advertisement in some reasonable way.</li><li>Include the physical address of our business or site headquarters.</li><li>Monitor third-party email marketing services for compliance, if one is used.</li><li>Honor opt-out/unsubscribe requests quickly.</li><li>Allow users to unsubscribe to any and all notifications</li > </ul>"
+  }
+}

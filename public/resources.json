@@ -1,0 +1,64 @@
+{
+  "Resources": [
+    {
+      "_id": { "$oid": "5ed262cedefdce616010014f" },
+      "name": "testThumbnail45",
+      "path": "hdjsk",
+      "thumbnailPath": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/thumbnails/file_example_JPG_500kB_1590846155384.jpg",
+      "contenttype": "video",
+      "indicator": "Relationships",
+      "subindicator": "Independent Community Living",
+      "description": "test description",
+      "tags": ["tagged2"],
+      "files": {
+        "url": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/file_example_MP4_480_1_5MG_1590846146969.mp4",
+        "filename": "file_example_MP4_480_1_5MG.mp4"
+      }
+    },
+    {
+      "_id": { "$oid": "5ed262cedefdce616010014f" },
+      "name": "testThumbnail45",
+      "path": "hdjsk",
+      "thumbnailPath": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/thumbnails/file_example_JPG_500kB_1590846155384.jpg",
+      "contenttype": "video",
+      "indicator": "Relationships",
+      "subindicator": "Independent Community Living",
+      "description": "test description",
+      "tags": ["tagged2"],
+      "files": {
+        "url": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/file_example_MP4_480_1_5MG_1590846146969.mp4",
+        "filename": "file_example_MP4_480_1_5MG.mp4"
+      }
+    },
+    {
+      "_id": { "$oid": "5ed262cedefdce616010014f" },
+      "name": "testThumbnail45",
+      "path": "hdjsk",
+      "thumbnailPath": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/thumbnails/file_example_JPG_500kB_1590846155384.jpg",
+      "contenttype": "video",
+      "indicator": "Relationships",
+      "subindicator": "Independent Community Living",
+      "description": "test description",
+      "tags": ["tagged2"],
+      "files": {
+        "url": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/file_example_MP4_480_1_5MG_1590846146969.mp4",
+        "filename": "file_example_MP4_480_1_5MG.mp4"
+      }
+    },
+    {
+      "_id": { "$oid": "5ed262cedefdce616010014f" },
+      "name": "testThumbnail45",
+      "path": "hdjsk",
+      "thumbnailPath": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/thumbnails/file_example_JPG_500kB_1590846155384.jpg",
+      "contenttype": "video",
+      "indicator": "Relationships",
+      "subindicator": "Independent Community Living",
+      "description": "test description",
+      "tags": ["tagged2"],
+      "files": {
+        "url": "https://test-bucket-s3-upload.s3.amazonaws.com/Relationships/file_example_MP4_480_1_5MG_1590846146969.mp4",
+        "filename": "file_example_MP4_480_1_5MG.mp4"
+      }
+    }
+  ]
+}

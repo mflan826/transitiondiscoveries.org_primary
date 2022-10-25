@@ -1,0 +1,36 @@
+.ProjectslistContentImg .contentsec-grid {
+  display: grid;
+  grid-template-columns: 8fr 2fr;
+  align-content: center;
+  padding: 40px 0;
+}
+.ProjectslistContentImg .item-a {
+  background: #f7f7f7;
+  padding: 0% 3% !important;
+}
+
+@media screen and (max-width: 480px){
+  img{
+    width: 100%;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+ 
+ 
+}
+
+@media (min-width: 992px) and (max-width: 1024px){
+
+}
+
+@media (min-width: 1200px) and (max-width: 1600px){
+
+  
+}
+
+
+
+
+

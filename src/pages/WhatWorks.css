@@ -1,0 +1,82 @@
+.tile {
+  background-color: #f2f2f2;
+  padding: 1.5rem;
+}
+
+.chart-box {
+  padding: 1rem 1rem 3rem 1rem;
+  background: #f2f2f2;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+
+.MuiSlider-root {
+  color: #658f42 !important;
+  height: 8px;
+}
+#whatworksbx h6 {
+  font-weight: bold;
+  color: #284263;
+}
+.MuiSlider-markLabel {
+  font-weight: bold !important;
+}
+.MuiSlider-thumb {
+  background-color: #658f42 !important;
+}
+.css-yk16xz-control {
+  width: 200px;
+}
+#GetConnectedPage .css-2b097c-container,
+#GetConnectedPage .css-yk16xz-control,
+#resourcepage .css-2b097c-container,
+#resourcepage .css-yk16xz-control {
+  width: 100% !important;
+  margin-left: 0px;
+}
+.css-2b097c-container {
+  width: 200px;
+  margin-left: 20px;
+}
+
+.big-font {
+  font-size: x-large;
+}
+
+.filter-bg {
+  background-color: #3e552b;
+}
+
+.filter-bg > select {
+  background-color: #3e552b;
+  color: #fff;
+  border-bottom: 0;
+}
+
+.filter-btn {
+  background-color: #fff;
+  color: #3e552b;
+}
+
+.select-mac-fix {
+  -webkit-appearance: none;
+}
+
+.whatWorks-banner {
+  background: url("https://transitiondiscoveries.s3.amazonaws.com/images/static/resources-banner.jpg")
+    no-repeat top center / cover;
+}
+
+@media (min-width: 767px) {
+  .makeStyles-root-1 {
+    width: 80% !important;
+  }
+}
+@media (max-width: 767px) {
+  .MuiSlider-markLabel {
+    font-size: 0.7rem !important;
+  }
+}

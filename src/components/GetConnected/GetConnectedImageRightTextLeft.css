@@ -1,0 +1,37 @@
+.youngget-grid {
+  display: grid;
+  grid-template-columns: 6fr 5fr;
+  align-content: center;
+}
+.youngget-grid .item-a {
+  background: #f7f7f7;
+  align-content: center;
+  display: grid;
+  padding: 0 5%;
+}
+
+@media screen and (max-width: 480px){
+.youngget-grid {
+  grid-template-columns: auto;
+  padding: 40px 15px !important;
+  display: block !important;
+  grid-gap: 1rem;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+  .youngget-grid {
+    display: block;
+}
+}
+@media (min-width: 992px) and (max-width: 1024px){
+.youngget-grid .item-a {
+  padding: 0 5%;
+  margin: -22px 0 0;
+}
+}
+@media (min-width: 1200px) and (max-width: 1600px){
+
+}
+
+

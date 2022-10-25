@@ -1,0 +1,33 @@
+{
+  "banner": {
+    "heading": "Frequently Asked Questions",
+    "text": "(FAQs)",
+    "imageName": "/faq-banner-right.png"
+  },
+  "faqList": [
+    {
+      "title": "What is Transition Discoveries?",
+      "description": "Through the power of collaboration, young people, families, and the stakeholders  who support them can work together to form successful practices for transition to life after high school! Visit our <a href='/aboutus'>About Us</a> page to learn more! "
+    },
+    {
+      "title": "What is the Transition Discoveries Framework?",
+      "description": "Young people, families and stakeholders have identified the key areas of transitioning to life after high school, we call them indicators! This collection was developed to help you turn each area into action steps to lead you to success! Visit <a href='/our-framework'>Our Framework </a> page to learn more! "
+    },
+    {
+      "title": "Where can I search for transition resources?",
+      "description": "We have a growing library of resources collected from our partners, community members, and developed by our team. Young people, families, and stakeholders can find activities, lesson plans, info and more on <a href='/resources'>our Resource</a> page!"
+    },
+    {
+      "title": "Where can I find information about effective transition practices? ",
+      "description": "Our work is driven by data to highlight what is working well for transitioning to life after high school and identifying those areas for growth so that young people have the best chance for success. To see how communities are best supporting young people, check out our <a href='/what-works'>What Works </a> page! "
+    },
+    {
+      "title": "What are some of the ways Transition Discoveries connects communities?  ",
+      "description": "The capacity to make change comes from empowering local teams to develop and implement action planning based upon the knowledge that youth, families and transition stakeholders have about “what works” in transition. To learn more about how communities are coming together, check out our <a href='/projects/connecting-communities'>Connecting Communities</a> page!"
+    },
+    {
+      "title": "Where can I learn more about opportunities available right now?  ",
+      "description": "Check out <a href='/story-listings'>transition stories</a> from real people! Find out what <a href='/events'>events</a> are happening! Follow us and take a look at our social <a href='/gallery'> media gallery</a>"
+    }
+  ]
+}

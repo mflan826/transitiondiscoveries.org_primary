@@ -1,0 +1,1231 @@
+{
+  "Banner": {
+    "image": "contr-banner.jpg",
+    "breadcrumbLink": "Team",
+    "heading": "Contributors",
+    "text": "We have an amazing team, with shared values of TD.  We believe in a youth-led, youth driven model of transition.  Relationships and collaboration are the key to the success of building and expanding communities. ",
+    "imageName": "Team-Banner-Right-Image.png",
+    "link": { "url": "/get-connected", "text": "Join Now" }
+  },
+  "TeamMembers": [
+    {
+      "heading": "Interns",
+      "subheading": "A group of GW scholars became part of our TD team during their internship. They worked rigorously with our team and gained research and collaboration experience.  We want to thank you all for your contributions you made to the website. Your support and tenacity allowed us to provide a website with valuable resources to the community.",
+      "Team": [
+        {
+          "id": "1",
+          "TeamMemberName": "Ryan Baldwin",
+          "TeamMemberJobTitle": "Special Education Teacher",
+          "WorkPlace": "VA School System",
+          "TeamMemberImage": "Contributors/Intern/Ryan-Baldwin.jpg",
+          "slug": "/team/erin",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "2",
+          "TeamMemberName": "Nora Garcia",
+          "TeamMemberJobTitle": "SAHM",
+          "WorkPlace": "Home",
+          "TeamMemberImage": "Contributors/Intern/nora.png",
+          "slug": "/team/matt",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "3",
+          "TeamMemberName": "Kimberly Hinkey",
+          "TeamMemberJobTitle": "Middle School Science Teacher",
+          "WorkPlace": "Brooke Charter School ",
+          "TeamMemberImage": "Contributors/Intern/Kimberly-Hinkey.JPG",
+          "slug": "/team/missy",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "4",
+          "TeamMemberName": "Cassidy Love",
+          "TeamMemberJobTitle": "Community Integration Coordinator",
+          "WorkPlace": "CORE Foundations at Kennedy Krieger Institute ",
+          "TeamMemberImage": "Contributors/Intern/Cassidy-Love.jpg",
+          "slug": "/team/allen",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "5",
+          "TeamMemberName": "Enitte Rivera",
+          "TeamMemberJobTitle": "High School Transition Teacher",
+          "WorkPlace": "Mayagüez Academy, Puerto Rico",
+          "TeamMemberImage": "Contributors/Intern/Enitte-Rivera.jpg",
+          "slug": "/team/erin-weierbach",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "6",
+          "TeamMemberName": "Haylee Watson",
+          "TeamMemberJobTitle": "Elementary Special Education Teacher",
+          "WorkPlace": "Harrisonburg City Public Schools",
+          "TeamMemberImage": "Contributors/Intern/Haylee-Watson.JPG",
+          "slug": "/team/jeannine-brinkley",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        }
+      ]
+    },
+    {
+      "heading": "Videos",
+      "subheading": "Video recordings were produced by individuals who are actively involved in the Transition Discovery initiative. These participants consist of individuals of all walks of life including young people, family members, and stakeholders from across the country. We would like to thank you for sharing your insight with current and future visitors of this site and our YouTube Channel.",
+      "Team": [
+        {
+          "id": "1",
+          "TeamMemberName": "Mathew Flanagan",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Career Exploration Planning and Preparation",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/erin",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "2",
+          "TeamMemberName": "Harlie Pedrosa",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Post Secondary and College Planning",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/matt",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "3",
+          "TeamMemberName": "Katie Smith",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Independent/Community Living by Michelle",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/missy",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "4",
+          "TeamMemberName": "Missy Guardado-Eastridge",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Significant Role of School Personnel",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/allen",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "5",
+          "TeamMemberName": "Brandon Snyder",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Self-Awareness",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/erin-weierbach",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "6",
+          "TeamMemberName": "Josie Badger",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Disability Awareness",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/jeannine-brinkley",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "7",
+          "TeamMemberName": "Chris Deans",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Independent Living Skill Development ",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/ali-hrasok",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "8",
+          "TeamMemberName": "Ali Hrasok",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Self-Determination Skill Development ",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "9",
+          "TeamMemberName": "Missy Guardado-Eastridge",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Family Respite",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "10",
+          "TeamMemberName": "Alexis Gonzalez",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Friendships",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "11",
+          "TeamMemberName": "Missy Guardado-Eastridge",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Sense of Belonging",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "12",
+          "TeamMemberName": "Everett and Ashley Deibler",
+          "TeamMemberJobTitle": "Stakeholders",
+          "WorkPlace": "Social Skills Development",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "13",
+          "TeamMemberName": "Erickson Gonzalez",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Anti-Bullying Efforts",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "14",
+          "TeamMemberName": "Brandon Snyder",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Independent Living Skill Development",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "15",
+          "TeamMemberName": "Chris Deans",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Planning for Future Living Arrangements",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "16",
+          "TeamMemberName": "Alexis Gonzalez",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Travel and Transportation Skills",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "17",
+          "TeamMemberName": "Nate Colosimo",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Recreation and Leisure",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "18",
+          "TeamMemberName": "Josie Badger",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Community Based Experiences",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "19",
+          "TeamMemberName": "Randy Lyster",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Faith Based Experiences",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "20",
+          "TeamMemberName": "Elisabeth Kutscher",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Civic Engagement",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "21",
+          "TeamMemberName": "Ashley Deibler",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Mental Health Supports",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "22",
+          "TeamMemberName": "Jessica McKenty",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Agencies in Schools",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "23",
+          "TeamMemberName": "Jacki Lyster",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Transition Coordinating Councils",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "24",
+          "TeamMemberName": "Hillary Mangis",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Community Agency Nights about Employment ",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "25",
+          "TeamMemberName": "MichaelAnn Byrne",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Transition Staffings",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "26",
+          "TeamMemberName": "Chris Deller",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Employment Expos",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "27",
+          "TeamMemberName": "Matthew Flanagan",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Transition Fairs",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "28",
+          "TeamMemberName": "Michael Stoehr",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Transition Conferences",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "29",
+          "TeamMemberName": "Alexis Gonzalez",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Career Development Classes",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "30",
+          "TeamMemberName": "MichaelAnn Byrne",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Career Clubs",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "31",
+          "TeamMemberName": "Randy Lyster",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Career and Technical Education ",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "32",
+          "TeamMemberName": "Michael Stoehr",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Career Exploration",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "33",
+          "TeamMemberName": "Hillary Mangis",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Discovery Process",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "34",
+          "TeamMemberName": "Nate Colosimo",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Unpaid Work Experience",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "35",
+          "TeamMemberName": "Andrea Black",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Paid Work Experience by",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "36",
+          "TeamMemberName": "Katie Smith",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "OVR Services",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "37",
+          "TeamMemberName": "Chris Deller",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Job Coaching Services",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "38",
+          "TeamMemberName": "Chris Deans",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Summer Employment",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "39",
+          "TeamMemberName": "Jessica McKenty",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "On-the-Job Training",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "40",
+          "TeamMemberName": "Matthew Flanagan",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Employer Partnerships",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "41",
+          "TeamMemberName": "Elisabeth Kutscher",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "University Partnerships",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "42",
+          "TeamMemberName": "Ali Hrasok",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Pre-College Experience Programs",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "43",
+          "TeamMemberName": "Elisabeth Kutscher",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "College-Based Transition Programs ",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "44",
+          "TeamMemberName": "Michelle Mitchell",
+          "TeamMemberJobTitle": "",
+          "WorkPlace": "Postsecondary Education Programs",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "45",
+          "TeamMemberName": "Erickson Gonzalez",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Postsecondary Career Training Programs",
+          "TeamMemberImage": "Contributors/Video-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        }
+      ]
+    },
+    {
+      "heading": "Audio",
+      "subheading": "Audio recordings were courtesy of participants who volunteered their time for the Transition Discovery initiative. These individuals consist of voices from young people, family members, or stakeholders from across the country. We would like to thank you for lending your voice to this project and for bringing to life the voices of the young people, stakeholders, and families of the Transition Discoveries initiative.",
+      "Team": [
+        {
+          "id": "1",
+          "TeamMemberName": "Zach Mulvey",
+          "TeamMemberJobTitle": " Youth",
+          "WorkPlace": "Career Exploration Planning and Preparation ",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/erin",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "2",
+          "TeamMemberName": "Randy Lyster",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Post Secondary and College Planning",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/matt",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "3",
+          "TeamMemberName": "Michelle Lubetsky",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Independent/Community Living ",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/missy",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "4",
+          "TeamMemberName": "Nathan Creveling",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Significant Role of School Personnel",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/allen",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "5",
+          "TeamMemberName": "Alison White and Lilian Sellers",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Self-Awareness",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/erin-weierbach",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "6",
+          "TeamMemberName": "Joe Kleppick",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Disability Awareness by PYLN",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/jeannine-brinkley",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "7",
+          "TeamMemberName": "Alison White",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Independent Living Skill Development by PYLN",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/ali-hrasok",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "8",
+          "TeamMemberName": "Lillian Sellers",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Self-Determination Skill Development by PYLN",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "9",
+          "TeamMemberName": "Lillian Sellers",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Self-Management Skill Development by PYLN",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "10",
+          "TeamMemberName": "Joe Kleppick",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Leadership Skill Development by PYLN",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "11",
+          "TeamMemberName": "Sean Mahan",
+          "TeamMemberJobTitle": "Family member",
+          "WorkPlace": "Youth Engagement in Transition Planning ",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "12",
+          "TeamMemberName": "Alison White",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Significant Role of Adult",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "13",
+          "TeamMemberName": "Nathan Creveling",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Authentic Person and Family Centered Planning Practices",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "14",
+          "TeamMemberName": "Kris Creveling",
+          "TeamMemberJobTitle": "Family member",
+          "WorkPlace": "Person and Family Centered Program Design",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "15",
+          "TeamMemberName": "Meaghan Duffy",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Family Engagement in Transition Planning",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "16",
+          "TeamMemberName": "Patricia Duffy",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Family Information Sharing Activities by",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "17",
+          "TeamMemberName": "Shenita (Nickie) Brown",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Peer to Peer Family Support",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "18",
+          "TeamMemberName": "Bernadette Miller",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": " Family Respite",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "19",
+          "TeamMemberName": "Zach Mulvey",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Friendships",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "20",
+          "TeamMemberName": "Gina Reiss and Mathew Reiss (part 1 and 2)",
+          "TeamMemberJobTitle": "Family Member and Youth",
+          "WorkPlace": "Sense of Belonging",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "21",
+          "TeamMemberName": "Michelle Lubetsky",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Social Skills Development",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "22",
+          "TeamMemberName": "Nate Colosimo part 1 and Shonn Brown Jr. part II",
+          "TeamMemberJobTitle": "Youth and Family Member",
+          "WorkPlace": "Anti-Bullying Efforts",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "23",
+          "TeamMemberName": "Sean Mahan",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Independent Living Skill Development",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "24",
+          "TeamMemberName": "Nate Colosimo",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Planning for Future Living Arrangements",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "25",
+          "TeamMemberName": "Rachel Romero Fritz",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Travel and Transportation Skills",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "26",
+          "TeamMemberName": "Nathan Creveling (part 1) and Temperance Fair (part II)",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Recreation and Leisure",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "27",
+          "TeamMemberName": "Becky Mahan",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Community Based Experiences",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "28",
+          "TeamMemberName": "Bernadette Miller",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Faith Based Experiences",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "29",
+          "TeamMemberName": "Kyle A. Whitehouse",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Civic Engagement",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "30",
+          "TeamMemberName": "Joy Lamont",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Mental Health Supports",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "31",
+          "TeamMemberName": "Rachel Romero Fritz",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Agencies in Schools",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "32",
+          "TeamMemberName": "Becky Mahan",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Transition Coordinating Councils",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "33",
+          "TeamMemberName": "Trina Poole",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Community Agency Nights about Employment",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "34",
+          "TeamMemberName": "Missy Guardado-Eastridge",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Transition Staffings",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "35",
+          "TeamMemberName": "Trina Poole",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Employment Expos",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "36",
+          "TeamMemberName": "Chris Eastridge",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Transition Fairs",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "37",
+          "TeamMemberName": "Sean Mahan",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Transition Conferences",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "38",
+          "TeamMemberName": "Shonn Brown Jr.",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Career Development Classes",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "39",
+          "TeamMemberName": "Becky Mahan",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Career Clubs",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "40",
+          "TeamMemberName": "Nate Colosimo",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Career and Technical Education",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "41",
+          "TeamMemberName": "Michelle Lubetsky",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Career Exploration",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "42",
+          "TeamMemberName": "Bernadette Miller",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Discovery Process",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "43",
+          "TeamMemberName": "Nate Colosimo",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Unpaid Work Experience",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "44",
+          "TeamMemberName": "Kyle A. Whitehouse",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Paid Work Experience",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "45",
+          "TeamMemberName": "Randy Lyster",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "OVR Services",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "46",
+          "TeamMemberName": "Jasper Fair",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Job Coaching Services",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "47",
+          "TeamMemberName": "Zach Mulvey",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Summer Employment",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "48",
+          "TeamMemberName": "Kyle A. Whitehouse",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "On-the-Job Training",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "49",
+          "TeamMemberName": "Trina Poole",
+          "TeamMemberJobTitle": "Family Member",
+          "WorkPlace": "Employer Partnerships",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "50",
+          "TeamMemberName": "Jasper Fair",
+          "TeamMemberJobTitle": "Family member",
+          "WorkPlace": "University Partnerships",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "51",
+          "TeamMemberName": "Zach Mulvey",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Pre-College Experience Programs",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "52",
+          "TeamMemberName": "Kris Creveling",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "College-Based Transition Programs",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "53",
+          "TeamMemberName": "Carmen Romero",
+          "TeamMemberJobTitle": "Stakeholder",
+          "WorkPlace": "Postsecondary Education Programs",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        },
+        {
+          "id": "54",
+          "TeamMemberName": "Kyle A. Whitehouse",
+          "TeamMemberJobTitle": "Youth",
+          "WorkPlace": "Postsecondary Career Training Programs",
+          "TeamMemberImage": "Contributors/Audio-Recording-Volunteers/advisory-icon.png",
+          "slug": "/team/everett-deibler",
+          "fbLink": "#",
+          "twLink": "#",
+          "InstaLink": "#"
+        }
+      ]
+    }
+  ],
+  "ImageAndDescriptionRow": {
+    "imageName": "team-left.png",
+    "heading": "Success after High School is a Team Effort",
+    "content": "We provide opportunities to build a network of connections built on strong community relationships. This foundation leads to collaboration where everyone plays an equal role in leadership to use data-driven community action planning to identify what’s working in their communities. Ready to link up with our growing network of community leaders?",
+    "link": { "url": "/get-connected", "text": "Join Now" }
+  },
+  "PartnersList": {
+    "heading": "Our Partners",
+    "subheading": "Our success depends on our growing web of partnerships between young people with disabilities, families and stakeholders working in schools, agencies and organizations throughout communities. ",
+    "PartnersLeftBoxImg": "ProjectsLeftBoxImg.png",
+    "LeftBoxDesc": "Through the power of our partnerships, we work to support communities through resource development, data-driven community action planning and local leadership teams of young people with disabilities, families and stakeholders.",
+    "TabTitle1": "Schools",
+    "Tabdata1": [
+      {
+        "image": "School/Logos-1.jpg"
+      },
+      {
+        "image": "School/Logos-2.jpg"
+      },
+
+      {
+        "image": "School/Logos-4.jpg"
+      }
+    ],
+    "TabTitle2": "Organizations",
+    "Tabdata2": [
+      {
+        "image": "Organizations/Logos-1.jpg"
+      },
+      {
+        "image": "School/Logos-3.jpg"
+      },
+      {
+        "image": "Organizations/Logos-2.jpg"
+      },
+      {
+        "image": "Organizations/Logos-3.jpg"
+      }
+    ]
+  },
+  "BecomePartner": {
+    "BecomePartnerLeft": "BecomePartnerLeft.png",
+    "JoinUsText": "Interested in Joining the TD Initiative",
+    "ProjectLinkText": "Join Now",
+    "ProjectLink1": "/get-connected"
+  }
+}

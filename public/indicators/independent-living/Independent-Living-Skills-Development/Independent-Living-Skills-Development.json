@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living and Community Engagement",
+    "subindicatorname": "Independent Living Skills Development"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is independent living skills development?",
+      "subhead": "Wouldn’t it be great if our homes would manage themselves? Automatic cleaning, cooking, fixing things...Sign me up! In reality, there are a lot of other things that we need to know how to do in order to live independently. You’ll need to know how to stay healthy, take care of the place that you live in and travel to the places you need to get. It’s super important to know the best ways for managing your money, time and responsibilities, just to name a few!",
+      "bullets": "<li>Aright, you’re officially the chef of the house this week. How would you make sure that you cook food that represents a balanced diet each night? </li><li>When something breaks in the house and it’s definitely too big of a job, how do you get the right expert to come in and fix it? </li><li>There are a lot of phone and internet plans out there. How could you find out which is the best deal for the feature that you need (amount of data, etc.)?</li><li>What are some ways to track how much money you spend each month?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does independent living skills development include?",
+      "subhead": "Your transition team can help build your independence by making sure that you..",
+      "bullets": "<li>Learn how to shop for food and cook healthy meals that are in your budget</li><li>Learn how to fix basic things around the house and that you know how to get the right expert to come in and fix the big things that happen</li><li>Learn about ways to track your spending, save money and keep a good credit score</li><li>Learn how to take care of your taxes each year</li><li>Learn tips, tricks and strategies for keeping track of the essential items in your home (bathroom supplies, cleaning supplies, etc) so that you don’t run out of the things that you need</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "9wkIzvNLCRk",
+    "heading": "What are independent living skills all about? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can preparing for living independently do for you?",
+    "subheading": "When your transition team supports you with learning to be independent, you’ll have:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "House Maintenance",
+      "content": "Being able to fix things that break, keep your home clean and transform where you live into a place that fits your goals, needs (like accessibility) and interests"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Healthy Cooking",
+      "content": "Being able to plan out meals that make up a healthy diet that fits your goals and needs"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Money Management",
+      "content": "Being able to use a bank and phone applications to save money and track spending so that you can afford both the basics and reach your long term goals for what you want to buy or experience"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Smart Shopping",
+      "content": "Knowing how to shop around for the best option before you buy something by finding and comparing reviews of the product, checking prices and looking for discounts"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth.",
+        "description": "He still lives at home with us. He’s always talked about moving out. We’ve done a lot of person-centered planning around him, like a PATH process, and he has taken a lot of ownership of that. He does get some in-home supports through the waiver services throughout the week as well. So they continue to help with him with his home goals as far as living on his own, what that looks like for him at home and then out in the community, doing all kinds of activities. He goes to the gym every day. He loves to work out.",
+        "url": "6_1_Final.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Banner": {
+    "imageName": "state-initiatives-banner.jpg",
+    "breadcrumbLink": "Projects",
+    "heading": "Statewide Initiative",
+    "text": "Scaling up Transition Discoveries",
+    "projectID": "state-initiatives"
+  },
+  "ProjectLeftBar": {
+    "headin": "Our Projects",
+    "CtaHead": "Become Our Partners",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/get-connected",
+    "Leftmenu": [
+      {
+        "label": "Connecting Community",
+        "link": "/projects/connecting-communities",
+        "isActive": ""
+      },
+      {
+        "label": "TQEP",
+        "link": "/projects/tqep",
+        "isActive": ""
+      },
+      {
+        "label": "State Initiatives",
+        "link": "/projects/state-initiatives",
+        "isActive": "active"
+      },
+      {
+        "label": "Metric Development",
+        "link": "/projects/metric-development",
+        "isActive": ""
+      }
+    ]
+  },
+  "first_section": {
+    "imageName": "state-initiatives.jpg",
+    "heading": "Transition Discoveries Statewide Initiative ",
+    "content": "<h4 class='sub-txt mb-3'>Transition from Compliance to Community-Led, Data-Driven Innovation </h4><p>Planning for life after high school and reaching goals takes a village of people working together across schools, agencies and community partners. We support school districts in implementing a multi-stage community-driven action planning model that empowers young people, families and stakeholders to co-create improvements to current transition programs and opportunities. </p><ul class='checkli'> <li> Partnership with the Pennsylvania Training and Technical Assistance Network (PaTTAN), PA bureau of Special Education (BSE)</li><li>Multiple school districts across the state all implementing the Transition Discoveries model to community-driven action planning    </li> </ul>"
+  },
+  "second_section": {
+    "heading": "The Core Components of the Statewide Initiative",
+    "subheading": "Building local capacity through collaborative learning and shared leadership",
+    "points": [
+      {
+        "image": "purpose-icon-5.png",
+        "heading": " Train-the-Trainer",
+        "description": "Building local capacity for sustained change by state and local transition stakeholders learning how to implement data-driven, community-led transition action planning"
+      },
+      {
+        "image": "purpose-icon-6.png",
+        "heading": "Elevating Voices",
+        "description": "Using the Transition Discoveries Quality Indicator Survey Metric (TDQI) to highlight 'what works' and what can be improved in transition through local collaboration"
+      },
+      {
+        "image": "purpose-icon-7.png",
+        "heading": "Data-Driven Community Action",
+        "description": "Establishing Transition Change Agent Teams (T-CATs) of young people, families and stakeholders who lead community-action plans to improve transition"
+      },
+      {
+        "image": "purpose-icon-8.png",
+        "heading": "Communities of Practice",
+        "description": "A network of stakeholders across the state who share effective strategies for community-led, data-driven action planning to improve transition programs and opportunities"
+      }
+    ]
+  },
+  "third_section": {
+    "heading": "Project Outcomes",
+    "LeftImg": "ProjectsLeftBoxImg.jpg",
+    "subheading": "A statewide network of districts championing community-driven efforts to improve to transition outcomes",
+    "content": "<p class='dark'> When districts empower their communities of young people with disabilities, families and stakeholders join together in implementing the TQEP</p> <ul class='checkli'> <li>Knowledge and decision making about what’s working in transition and what can be improved is shared between all community members</li><li>    Data-driven decision making evolves from compliance to being response to the strengths, goals and needs of the community</li><li>    Youth-led, youth-driven programs are developed and expanded</li><li>    Links are strengthened between school and community to prepare for success after high school</li><li>    Schools, agencies and community partners collaborate to design new opportunities for preparing for work, more school or training and living independently      </li> </ul>"
+  },
+  "fourth_section": {
+    "testimonialList": [
+      {
+        "title": "Transition Stakeholder",
+        "description": "“<h5 class='greencolor' align='left'>Transition Discoveries in PA – Statewide Rollout</h5>  Partnering with the Transition Discoveries team has allowed PaTTAN [Pennsylvania Training and Technical Assistance Network]  to train a cadre of trainers to help PA schools use data based decision making to improve transition practices.  Through a fantastic collaborative relationship, modules aligned to the 9 indicators and 54 sub-indicators [of the Transition Discoveries Framework] have been created to expand knowledge of transition best practices.  Trainers will also be able to access toolkits with evidence based practices to help teams action plan for transition program improvements!”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“<h5 class='greencolor' align='left'>OSEP State Personnel Development Grant and TD Make great partners!</h5>Middle School Success: The Path to Graduation seeks to help middle school teams develop better outcomes for students with emotional support needs. On the way to graduation, many students face barriers that to them seem just too big to get over! Getting a working knowledge and clearer picture of the future helps students to see a path that matters to them. Transition Discoveries is one very effective way to build that vision for both students and school communities. Our partnership with the Transition Discoveries team is helping to shape the way we think about secondary transition as a youth-led, youth-driven experience involving partners at all levels of collaboration.”"
+      }
+    ]
+  },
+  "fifth_section": {
+    "projectID": "si",
+    "heading": "",
+    "subheading": "",
+    "points": []
+  }
+}

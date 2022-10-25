@@ -1,0 +1,204 @@
+{
+  "Banner": {
+    "imageName":"tqep-banner.jpg",
+    "breadcrumbLink": "Projects",
+    "heading": "TQEP",
+    "text": "Transition Quality Empowerment Project ",
+    "projectID": "tqep"
+  },
+  "ProjectLeftBar": {
+    "headin": "Our Projects",
+    "CtaHead": "Join Our Work",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/get-connected",
+    "Leftmenu": [
+      {
+        "label": "Connecting Community",
+        "link": "/projects/connecting-communities",
+        "isActive": ""
+      },
+      {
+        "label": "TQEP",
+        "link": "/projects/tqep",
+        "isActive": "active"
+      },
+      {
+        "label": "State Initiatives",
+        "link": "/projects/state-initiatives",
+        "isActive": ""
+      },
+      {
+        "label": "Metric Development",
+        "link": "/projects/metric-development",
+        "isActive": ""
+      }
+    ]
+  },
+  "first_section": {
+    "imageName": "TQEPState.jpg",
+    "heading": "Transition Quality Empowerment Project (TQEP)",
+    "content": "<h4 class='sub-txt mb-3'>Your Voice. Your Story. Your Future.  </h4><p>Young people disabilities, their families, and transition stakeholders together make up the ultimate network of “know-how” on what works in planning and reaching goals for life after high school! In TQEP, young people, families and stakeholders uncover effective transition practices, programs and opportunities, dream about what could be and make a detailed community-wide action plan to achieve them.    <ul class='checkli'> <li> Funded and supported by the PA Developmental Disabilities Council </li> <li> Builds upon research that created the Transition Discoveries Framework and Infographic Guide </li> <li> Follows a step-by-step community-led and data-driven action planning model </li></ul></p>"
+  },
+  "second_section": {
+    "heading": "The Core Components of TQEP",
+    "subheading": "Building local capacity through collaborative learning and shared leadership",
+    "points": [
+      {
+        "image": "purpose-icon-5.png",
+        "heading": " Learning Experiences",
+        "description": "Young people and families learning together about planning for success after high school and throughout life through workshops online and in-person"
+      },
+      {
+        "image": "purpose-icon-6.png",
+        "heading": "Elevating Voices",
+        "description": "Using the Transition Discoveries Quality Indicator Survey Metric (TDQI) to highlight “what works” and what can be improved in transition through local collaboration"
+      },
+      {
+        "image": "purpose-icon-7.png",
+        "heading": "Youth Leadership",
+        "description": "Young people with disabilities joining together in order to participate in advocacy, service learning projects and mentorship "
+      },
+      {
+        "image": "purpose-icon-8.png",
+        "heading": "Data-Driven Community Action",
+        "description": "Establishing Transition Change Agent Teams (T-CATs) of young people, families and stakeholders who lead community-action plans to improve transition"
+      }
+    ]
+  },
+  "third_section": {
+    "heading": "Project Outcomes",
+    "subheading": "A community-driven model of designing and continuously improving transition practices and opportunities for all young people and their families",
+    "LeftImg": "ProjectsLeftBoxImg.jpg",
+    "content": "<p class='dark'>When communities of young people with disabilities, families and stakeholders join together in implementing the TQEP <ul class='checkli'><li> Knowledge and decision making about what’s working in transition and what can be improved is shared between all community members </li><li>Data-driven decision making evolves from compliance to being response to the strengths, goals and needs of the community </li> <li>Youth-led, youth-driven programs are developed and expanded </li> <li>Links are strengthened between school and community to prepare for success after high school</li><li>Partners collaborate to design new opportunities for preparing for work, more school or training after high school and living independently  </li> </ul>"
+  },
+  "fourth_section": {
+    "testimonialList": [
+      {
+        "title": "Warrior Run School District",
+        "description": "“TQEP has helped the Warrior Run School District grow our transition program despite the barriers of our rural setting.  Our community, staff and students are grateful for the opportunity we have been given and we look forward to sharing our successes with other districts.”"
+      },
+      {
+        "title": "Berks County Transition Coordinating Council",
+        "description": "“What TQEP has provided the council is valuable resources and information that youth need to be successful in life. The things we learned and continue to learn throughout this process will indeed help youth in Berks County and beyond for years to come.”"
+      },
+      {
+        "title": "Pittsburgh Public Schools",
+        "description": "“The Pittsburgh Public Schools' partnership with TQEP has provided guidance and opportunities to promote youth leadership and family engagement activities, as well as created a framework that will allow us to take an introspective look at current practices. Through this work, we will continue to grow and expand transition services in the District.”"
+      },
+      {
+        "title": "Berks County Transition Coordinating Council",
+        "description": "“TQEP has provided Berks Transition Coordinating Council with data that is extremely valuable in planning to develop new and improve existing transition services and practices to benefit Berks County students, young adults and families.”"
+      },
+      {
+        "title": "Warrior Run School District",
+        "description": "“Warrior Run is thankful to have been chosen to participate in this TQEP project.  We value the feedback we have received and strive to improve the educational/social-emotional opportunities for our students.  We look forward to continuing to work in these partnerships with the goal of increasing the impact of the voices from our youth.”"
+      }
+    ]
+  },
+  "fifth_section": {
+    "heading": "Advisory Board Members",
+    "subheading": "Advisory Board Members for Connecting Communities",
+    "points": [
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Gretchen Daugherty",
+        "description": "Family Member"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Kaitlin Salvati",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Joshua Halberstein",
+        "description": "Youth"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Jennifer Halberstein",
+        "description": "Family Member"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Everett Deibler",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Ben Stauffer",
+        "description": "Youth"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Kristin Stauffer",
+        "description": "Youth"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Bob Stauffer",
+        "description": "Family Member"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Hillary Mangis",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Kayla Donaher",
+        "description": "Youth"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Keegan Donaher",
+        "description": "Youth"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Deana Devincenzo",
+        "description": "Family Member"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Diana Steel",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Carly Wolf",
+        "description": "Youth"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "John seely",
+        "description": "Family Member"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Jacki Lyster",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Melissa Allen",
+        "description": "Family Member"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Michael Stoehr",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-femail-icon.png",
+        "heading": "Ali Hrasok",
+        "description": "Transition Stakeholder"
+      },
+      {
+        "image": "advisory-icon.png",
+        "heading": "Kevin Burrell",
+        "description": "Transition Stakeholder"
+      }
+    ]
+  }
+}

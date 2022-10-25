@@ -1,0 +1,158 @@
+{
+  "banner": {
+    "image": "Youth-Development.jpg",
+    "imageName": "youth-banner-icon.png",
+    "content": "Learning about your strengths, preferences, goals and how to take charge of your life!",
+    "videoUrl": "https://www.youtube.com/embed/giKpzXFwRLk?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "youth-development-img1.png",
+    "heading": "What is Youth Development?",
+    "content": "A big part of transition planning is making decisions about your life and how you want to accomplish your goals.   But, sometimes it can be hard to figure out the best way to get all the things that we want and need.<br /> <br /> If you understand your strengths, preferences, personality, disability and what you’re interested in, it’s a lot easier to set goals for your future and to ask others to help you reach them!<br /><br /><ul class='checkli'> <li>What do you know about your strengths, personality, interests, preferences, needs or disability?</li><li>What are some strategies that you use to keep track of your responsibilities at school, work, home or in the community?</li><li> Have you had opportunities to practice being a leader? What did you learn about yourself and working with others?</li><li>Do you have adult mentors in your life who can help you take responsibility for planning your future?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "youth-development-img2.jpg",
+    "content": "You've got the tools - Now What? Click here to find out ways to put them to work ! ",
+    "VideoLink": "4yMHm0LSBXg"
+  },
+  "indicatordetails": {
+    "heading": "Youth Development",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals a reality!"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Self Awareness",
+      "link": "/Self-Awareness",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "Icon/self-awareness.png"
+    },
+    {
+      "id": 2,
+      "title": "Disability Awareness",
+      "link": "/Disability-Awareness",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "Icon/disability-awareness.png"
+    },
+    {
+      "id": 3,
+      "title": "Independent Living Skill Development",
+      "link": "/independent-living-skill-development",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "Icon/independent-living--skill-development.png"
+    },
+    {
+      "id": 4,
+      "title": "Self-Determination Skill Development",
+      "link": "/Self-Determination-Skill-Development",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icon/self-determination skill development.png"
+    },
+    {
+      "id": 5,
+      "title": "Self-Management Skill Development",
+      "link": "/Self-Management-Skill-Development",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icon/self-management skill development.png"
+    },
+    {
+      "id": 6,
+      "title": "Leadership Skill Development",
+      "link": "/Leadership-Skill-Development",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icon/leadership-skill-development.png"
+    },
+    {
+      "id": 7,
+      "title": "Youth Engagement in Transition",
+      "link": "/Youth-Engagement-in-Transition",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icon/youth-engagement-in-transition.png"
+    },
+    {
+      "id": 8,
+      "title": "Significant Role of Adult",
+      "link": "/Significant-Role-of-Adult",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icon/significant-role-of-adult.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

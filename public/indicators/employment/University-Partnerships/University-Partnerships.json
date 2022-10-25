@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "University Partnerships"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are university partnerships?",
+      "subhead": "Right now your life is probably busy balancing academics, exploring jobs, living your daily life and just getting closer to being out of high school! It’s also important to explore what more school or training after high school you’ll need to get the job that you want. When your transition team includes professionals from universities and colleges, you’ll have help finding programs that match you best. They can give you information sessions about their programs, help you meet with students in programs you’re interested in, and set you up with people like college admissions and disability services who can answer you questions for how to apply and succeed!",
+      "bullets": "<li>What are you really interested in learning a lot more about after high school? (bonus points if you can say something that matches your career goals!)</li> <li>If you could design your program for more education and training after high school, what would it be? What activities and supports would be offered?</li><li>What are three big questions that you want to ask a professional about college and universities to help you decide which program is right for you?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": " What do university partnerships include?",
+      "subhead": "Your transition team can help you explore postsecondary education by making sure that you",
+      "bullets": "<li>Take online college and university quizzes to figure out what types of programs, college environment, and activities are right for you.</li><li>Go on campus tours of different colleges and universities that have programs that align with your future career goals.</li><li>Meet and talk with a student in a program you are interested in to ask them questions about their experience, responsibilities of the program, and how the program is helping them for their future goals. </li><li>Set up a meeting with an admissions director to identify the steps needed to apply to the college or university. </li><li>Plan for when and how your transition team will help you to get your application ready and submitted.</li>",
+      "image": "img4.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "ZJ_krogPSJc",
+    "heading": "What are university partnerships all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can university partnerships do for you?",
+    "subheading": "When your transition team partners with universities, you’re able to select programs that align with your future career goals "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Exploring Programs",
+      "content": "Having opportunities, like visiting colleges and talking with staff while you’re in high school so that you can learn about different programs that match you"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Get Accepted",
+      "content": "Enroll in a program that aligns with your career and life goals"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Academic Supports",
+      "content": "Get help by a professional at the school who can make sure that you get accommodations for succeeding in your classes"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "College Credits",
+      "content": "Taking classes while still in high school that count towards the college program that you want to enroll in after you graduate"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "Penn State has a local program where the students might come for a week in the summer or for a couple of weekends during the year to learn about work. Students go to classes and also work in different jobs on campus. It helps them know what kind of work they want to do when they graduate.",
+        "url": "8.13.mp4",
+        "audio": true
+      }
+    ]
+  }
+}

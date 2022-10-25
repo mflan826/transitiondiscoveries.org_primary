@@ -1,0 +1,39 @@
+.owl-carousel {
+  width: 100%;
+  /* transform: rotate(90deg); */
+}
+
+.owl-item {
+  width: 100%;
+}
+
+.player-wrapper {
+  width: auto !important;
+  height: 244px !important; /* Player ratio: 100 / (1280 / 720) */
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROBmkzKVX0YMnXSLuGEsEuo0b25opNt8TKXg&usqp=CAU'); */
+}
+
+.player-wrapper video {
+  height: 244px !important;
+  background: #000;
+}
+
+.player-wrapper audio {
+  /* width: auto !important; */
+  height: 244px !important;
+  background-image: url(https://transitiondiscoveries.s3.amazonaws.com/our-framework/transition-planning/career-exploration-planning-and-preparation/images/vedio-bg.jpg);
+  background-size: cover;
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.owl-dots {
+  transform: rotateZ(0deg) !important;
+  position: absolute !important;
+  left: 10% !important;
+  top: 100% !important;
+}

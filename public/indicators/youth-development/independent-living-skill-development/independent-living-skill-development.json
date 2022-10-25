@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Independent Living Skills Development"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is Independent Living Skills Development?",
+      "subhead": "Growing up comes with more independence in all major parts of life. Living independently is not just living on your own or doing things by yourself; learning how to manage everyday responsibilities and tasks is all part of the process! As your transition team helps you in planning, they can also guide you in developing necessary skills to manage daily responsibilities. Living independently and having the responsibility to care for yourself takes practice! Don’t worry, your transition team can give you what you need to become an expert!",
+      "bullets": "<li>What kind of responsibilities do you have right now where you live?</li><li>How do you take care of yourself so that you’re physically and mentally healthy?</li><li>Do you know how to manage your money and schedule? What new things could you learn to do this even better?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does independent living skills developments include? ",
+      "subhead": "Your transition team can help you explore what Independent living skills development can look like for you by making sure that you...",
+      "bullets": "<li>Gain independence with tasks essential in daily life, like managing your schedule and getting to the places you need to go to</li><li>Understand how to manage your time and money</li><li>Have awareness and knowledge of strategies for good health and hygiene</li><li>Build skills to remain safe and conscious of your surroundings </li><li>Finding a place to live, either on your own or with other people</li>",
+      "image": "img1.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "9sTzwEXADqc",
+    "heading": "What are independent living skills? Let’s unpack it together!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can independent living skill development do for you?",
+    "subheading": "When your transition team supports you with how to live independently, you’ll "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Time Management",
+      "content": "The ability to manage your time, daily schedule, and other routines effectively "
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Learning skills",
+      "content": "Being knowledgeable of what is considered safe, how to remain safe, and being aware of your surroundings"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Good health & hygiene",
+      "content": "Taking care of basic needs such as eating well and having proper hygiene habits "
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Daily living skills",
+      "content": "Skills to take care of basic household duties-laundry, cleaning, cooking, etc."
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "I moved out on my own last year. Finding a place to live and living by yourself is scary. It’s like you don’t really realize it’s going to happen until it happens. It’s actually like you’re afraid to be by yourself and then you are. And then, it’s not so bad. That first couple weeks you’re unsure and then you’re like, ‘I’m still here. I actually showered. I ate food. I’m okay.’ It’s actually pretty cool. Like ‘My parents aren’t here. They’re not going to tell me what to do.’ It was awesome. I come home. I could like throw my shirt here, shoes over there, cook what I want, eat what I want. It was awesome",
+        "url": "Indicator-2.3.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

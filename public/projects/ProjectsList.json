@@ -1,0 +1,107 @@
+{
+  "Banner": {
+    "breadcrumbLink": "Projects",
+    "heading": "Our Projects",
+    "text": "The Transition Discoveries Guide was developed by The Pennsylvania Youth Leadership Network. Discoveries Guide was developed by The Pennsylvania Youth Leadership Network."
+  },
+  "ProjectsListContentImg": {
+    "heading": "About Our Projects",
+    "subhead": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,consectetur, adipisci velit",
+    "content": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, Neque porro\r\n    quisquam est qui dolorem ipsum quia dolor sit amet, onsectetur, adipisci velit dolorem ipsum\r\n    quia dolor sit amet, onsectetur, adipisci velit dolorem ipsum quia dolor sit amet, onsectetur,\r\n    adipisci velit. <ul class='checkli'> <li>Sucessfully transition to the role of productive, participating  adult citizens\r\n    </li>\r\n    <li>\r\n    Are empowered to recognize their talents, strengths and voice\r\n    </li>\r\n    <li>\r\n    Have equal access to resources that will promote full\r\n    participation in the communities of their choice.\r\n    </li><li>\r\n    Are empowered to recognize their talents, strengths and voice\r\n    </li>\r\n    <li>\r\n    Have equal access to resources that will promote full\r\n    participation in the communities of their choice.\r\n    </li>\r\n    </ul>",
+    "RightImg": "projects-Listing-2.jpg"
+  },
+  "ProjectLeftImageRightBullets": {
+    "heading": "Purpose of the project",
+    "subheading": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,consectetur",
+    "content": "<p class='dark'>Peque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur Neque porro quisquam est qui dolorem ipsum quia dolor sit met, consectetur Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur Neque porro quisquam est qui dolorem ipsum quia dolor sit amet nsectetur<br></p><ul class='checkli'><li>Having a team to help you become aware of careers</li><li> Giving you many opportunities to explore careers through meeting wiofessionals, visiting job sites, volunteering, work study, internships, and getting a paid job while in high school</li><li>Sucessfully transition to the role of productive, participating  adult citizens\r\n    </li>\r\n    <li>\r\n    Are empowered to recognize their talents, strengths and voice\r\n    </li>\r\n    <li>\r\n    Have equal access to resources that will promote full\r\n    participation in the communities of their choice.\r\n    </li><li>\r\n    Are empowered to recognize their talents, strengths and voice\r\n    </li>\r\n    <li>\r\n    Have equal access to resources that will promote full\r\n    participation in the communities of their choice.\r\n    </li>  </ul>",
+    "LeftImg": "Projects-Listing-3.png"
+  },
+  "ProjectsList": {
+    "heading": "Our Projects",
+    "subheading": "Learning about and getting the services and supports to help you succeed at work",
+    "Projects": [
+      {
+        "id": "1",
+        "ProjectImageName": "Projects-1.jpg",
+        "ProjectName": "Connecting Community",
+        "ProjectDesc": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur",
+        "ProjectLink": "/projects/connecting-communities"
+      },
+      {
+        "id": "2",
+        "ProjectImageName": "Projects-1.jpg",
+        "ProjectName": "TQEP",
+        "ProjectDesc": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur",
+        "ProjectLink": "/projects/tqep"
+      },
+      {
+        "id": "3",
+        "ProjectImageName": "Projects-1.jpg",
+        "ProjectName": "State Initiatives",
+        "ProjectDesc": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur",
+        "ProjectLink": "/projects/state-initiatives"
+      },
+      {
+        "id": "4",
+        "ProjectImageName": "Projects-1.jpg",
+        "ProjectName": "Metric Development",
+        "ProjectDesc": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur",
+        "ProjectLink": "/projects/metric-development"
+      }
+    ]
+  },
+  "PartnersList": {
+    "heading": "Our Partners",
+    "subheading": " We have a robust team of progressive scholars who are knowledgeable in the field of monetary reform and who can keep important issues at the forefront of the conversation.",
+    "PartnersLeftBoxImg": "ProjectsLeftBoxImg.jpg",
+    "LeftBoxDesc": "We have a robust team of progressive scholars who are knowledgeable in the field of monetary reform and who can keep important issues at the forefront of the conversation.",
+    "TabTitle1": "Schools",
+    "Tabdata1": [
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      }
+    ],
+    "TabTitle2": "Organizations",
+    "Tabdata2": [
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      },
+      {
+        "image": "school-icon.jpg"
+      }
+    ]
+  },
+  "BecomePartner": {
+    "BecomePartnerLeft": "BecomePartnerLeft.jpg",
+    "JoinUsText": "Want to Become Our Partner?",
+    "ProjectLinkText": "Join Now",
+    "ProjectLink1": "/contactus"
+  }
+}

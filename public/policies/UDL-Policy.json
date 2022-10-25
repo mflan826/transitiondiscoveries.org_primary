@@ -1,0 +1,42 @@
+{
+  "Banner": {
+    "heading": "UDL Policy",
+    "ID": "UDL"
+  },
+  "ProjectLeftBar": {
+    "heading": "Policies",
+    "CtaHead": "Become Our Partners",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/contactus",
+    "Leftmenu": [
+      {
+        "id": 1,
+        "label": "Privacy Policies",
+        "link": "/policies/privacy-policies",
+        "isActive": ""
+      },
+      {
+        "id": 2,
+        "label": "Accessibility Policy",
+        "link": "/policies/accessibility-policy",
+        "isActive": ""
+      },
+      {
+        "id": 3,
+        "label": "Non-Discrimination Policy",
+        "link": "/policies/Non-Discrimination-Policy",
+        "isActive": ""
+      },
+      {
+        "id": 4,
+        "label": "UDL Policy",
+        "link": "/policies/UDL-Policy",
+        "isActive": "active"
+      }
+    ]
+  },
+  "PoliciesContent": {
+    "PolicyName": "UDL Policy",
+    "PolicyContent": "Transition Discoveries Universal Design for Learning (UDL) policy is to consider the learning needs of all individuals.  Because one of its primary objectives is to engage all youth/young adults, families, and transition stakeholders, UDL stipulates this website and its content present information in a variety of ways.  This allows many options for learning and incorporates practices that maximize engagement. In this way, UDL enables visitors with a range of abilities to access the content and skills. For additional information about UDL, please visit the <a href='http://www.cast.org/'>CAST website.</a>"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Youth Engagement in Transition"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is youth engagement in transition?",
+      "subhead": "We’ve probably all been in situations where we felt like decisions about us were being made without us. Well, planning your life now and the future (like after high school and beyond) is all about your wants, needs and goals and you’re the one who should decide what the future looks like for you! This means learning about your options and making decisions about future jobs, getting more education/training or how you want to live independently.",
+      "bullets": "<li>What are some areas of planning for your life after high school that you make decisions about right now? What do you want to have more control over?</li><li>Have you participated in your IEP meetings? What has this been like for you? </li><li>How can your teachers and adults help you be the leader of your transition planning?</li>",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does youth engagement in transition include?",
+      "subhead": "Your transition team can make sure that you take charge of planning your future by making sure that you….",
+      "bullets": "<li>Explore various opportunities to learn more about what you want for your future</li><li>Set high but realistic expectations for your life now and in the future</li><li>Are actively involved in your IEP meetings </li><li>Take ownership of your choices and decisions at school, home, work and beyond</li>",
+      "image": "img1.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "mGvfXNUnV-8",
+    "heading": "What’s being engaged in your transition planning? Let’s unpack it together!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can being engaged in your transition planning do for you?",
+    "subheading": "When your transition team supports your engagement, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "IEP Involvement ",
+      "content": "Learning about what your IEP and transition plan includes and how to lead your IEP meetings and transition team"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Self-awareness",
+      "content": "Being an active part of your planning process helps you learn more about your strengths, needs, personality, interests, values and disability"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Leadership Skills",
+      "content": "Confidence to speak up and teach your transition team about who you are and what you need them to do to help you reach your goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Self-Determination Skills",
+      "content": "Being able to compare your options and chose the ones that best match your strengths, interests and needs so that you can decide on a plan to achieve your goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "He started going to his IEP meetings when he was in 5th grade. He didn’t sit there for the whole time. I didn’t want him sitting there for the whole time. He would take an index card and, before the meeting, he would write down what his strengths were, what his needs were, and then what his goals were. In 6th grade, his goals were to talk to girls. And he’d read those at his IEP meetings, he was prepared that way. When he was 12, we went to one of our first transition fairs, and he heard someone from Community College of Allegheny County (CCAC) speaking and he loved it. Then he decided that’s what he wanted to do. Go to CCAC.",
+        "url": "2_7_Final.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

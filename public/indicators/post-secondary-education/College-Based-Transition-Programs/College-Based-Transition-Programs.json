@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "College-Based Transition Programs"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": " What is a college-based transition program?",
+      "subhead": "Did you know that college isn’t just about getting a degree? Yep, that’s right! If getting a specific degree doesn’t match your goals for life after high school but you really want to gain all of the things that college has to offer, then a college-based transition program might be right for you! These programs focus on learning about topics that you’re most interested in, learning work skills (and getting hired) and building your skills for living independently.",
+      "bullets": "<li>What things about college-based transition programs would you like to learn more about?</li> <li>What job skills would you want to learn by participating in a college-based transition program?</li><li>What skills for being independent would you want to learn by participating in a college-based transition program?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does going to a college-based transition program include?",
+      "subhead": "",
+      "bullets": "<li>Taking college courses that teach you about the topics you’re most interested in</li><li>Getting hands-on training to learn the skills for the job that you want to have after you graduate from college</li><li>Learning how to live independently, like taking care of your health, eating well and travel to the places that you want to go to, like work, spending time with friends and participating in hobbies</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "7SokNqj1JbI",
+    "heading": "What are pre-college programs all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can a college-based transition program do for you?",
+    "subheading": ""
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Job Skills",
+      "content": "Knowing how to complete tasks for the job that you work at or want to work at in the future"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Living Skills",
+      "content": "Knowing how to keep track of your schedule, eat healthy, travel the places you want to go and take care of where you live"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Social Connections",
+      "content": "Relationships with friends and other community members who respect you, help you reach your goals and share your interests"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "New Knowledge",
+      "content": "Knowing more about the topics and things that you are interested in"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "There’s a program at West Chester University called Aspire. It’s a two-week program where the youth actually live in the dorms for two weeks. And my son loved it. And it doesn’t cost that much. And they do get subsidized. He did stay there for two weeks; I didn’t get any phone calls with an issue. First time in his life. And he loved it. He had a roommate. I think he just liked being with kids his own age, being accepted, he went to the gym a couple times, they took him to the gym, he ate with everybody, he liked eating in the lunch room with everybody, where everybody eats in the dorms. These experiences, I think that any experience where they have to go out in the community and navigate with somebody other than mom or dad is huge. And peace of mind that they’re in a safe place.",
+        "url": "9-2.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Self-Awareness"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What does it mean to have self-awareness?",
+      "subhead": "It’s important to learn more about yourself, like what you’re really good at, what you enjoy doing, and even aspects of life that you could grow or improve in. Why? Well, having self awareness helps you figure out which options for careers, education and living life after high school might match your strengths, personality, interests and needs. When you know more about yourself, it also makes it easier to tell others what you need in school, out in the community and at work. ",
+      "bullets": "<li>When are you at your best?</li><li>What activities are so interesting that they make it feel like time flies by?</li><li>What are some of your favorite subjects in school? </li><li>In the next year, what are some things you’d like to learn more about? </li><li>What is a job you’ve always wanted to do or try out?</li>",
+      "image": "self-awareness-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does self-awareness include? ",
+      "subhead": "Your transition team can help you learn about yourself by helping you….",
+      "bullets": "<li>Discover your interests, preferences, personality and even things you don’t like!</li><li>Figure out strategies that work for you to succeed in tough situations </li><li>Identify what you’re really good at (strengths) and areas in your life that you can improve/grow in (school, socially, working, etc.) </li><li>Understand what goals you want to have for your future</li><li>Tell others around you about who you are </li><li>Advocate for what you want in your life!</li>",
+      "image": "self-awareness-img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "6K1t9dL-_RM",
+    "heading": "What's self-awareness? Let's unpack it together!",
+    "imageName": "self-awareness-img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can having self-awareness do for you?",
+    "subheading": "When your transition team supports you learning about yourself, you’ll have:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Self-Knowledge",
+      "content": "Understanding your strengths, interests, areas of growth"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Goal Identification",
+      "content": "Making plans for today, the next year, and for your future "
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Advocating Skills ",
+      "content": "Speaking up for what you want and the supports you need to be successful"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Decision Making",
+      "content": "Being able to look at different options and choose the ones that match your strengths, interests and needs "
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth1",
+        "description": "“I’m good at organizing and good with computers, and hard worker, and good organizer.”",
+        "url": "Indicator-2.1.1.m4a",
+        "audio": true
+      },
+      {
+        "title": "Transition-age youth",
+        "description": "“I know what my strengths and weaknesses are.”",
+        "url": "Indicator-2.1.2.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

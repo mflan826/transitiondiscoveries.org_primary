@@ -1,0 +1,65 @@
+.blogLink :hover {
+  background-color: #649140;
+  color: white;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.reslinks h4,
+.reslinks .card-title,
+.reslinks .card-text {
+  text-align: left;
+}
+.blogLink .card {
+  margin-bottom: 10px;
+  min-height: 340px;
+  transition: all 0.3s ease-in-out 0s;
+  background: #f7f7f7;
+}
+.blogLink .card:hover {
+  transition: all 0.3s ease-in-out 0s;
+  background: #649140;
+}
+.blogLink .card-title {
+  position: absolute;
+  transition: all 0.3s ease-in-out 0s;
+  display: block;
+  background: #649140;
+  left: 0;
+  top: 63%;
+  padding: 2px 10px;
+  font-size: 1rem;
+  color: #fff;
+}
+.blogLink .card:hover .card-title {
+  transition: all 0.3s ease-in-out 0s;
+  background: #fff;
+  color: #649140;
+}
+.blogLink .card-text {
+  color: #000;
+  transition: all 0.3s ease-in-out 0s;
+}
+.blogLink .card:hover .card-text {
+  color: #fff;
+  transition: all 0.3s ease-in-out 0s;
+}
+.btn-blogs {
+  width: 200px;
+  margin: 10px 0 20px 0;
+  border: none;
+  border-radius: 1px;
+  font-size: 14px;
+  color: #fff;
+  background: #3d5b29;
+  font-weight: 800;
+  height: 45px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+.storybanner {
+  background: url('https://transitiondiscoveries.s3.amazonaws.com/images/static/story-banner.jpg')
+    no-repeat top center / cover;
+  height: 450px;
+  padding-top: 180px;
+}

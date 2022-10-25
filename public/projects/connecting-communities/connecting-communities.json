@@ -1,0 +1,92 @@
+{
+  "Banner": {
+    "imageName": "connecting-communities-banner.jpg",
+    "breadcrumbLink": "Projects",
+    "heading": "Connecting Communities",
+    "text": "Scaling up Transition Discoveries",
+    "projectID": "connecting-communities"
+  },
+  "ProjectLeftBar": {
+    "headin": "Our Projects",
+    "CtaHead": "Join Our Work",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/get-connected",
+    "Leftmenu": [
+      {
+        "label": "Connecting Community",
+        "link": "/projects/connecting-communities",
+        "isActive": "active"
+      },
+      {
+        "label": "TQEP",
+        "link": "/projects/tqep",
+        "isActive": ""
+      },
+      {
+        "label": "State Initiatives",
+        "link": "/projects/state-initiatives",
+        "isActive": ""
+      },
+      {
+        "label": "Metric Development",
+        "link": "/projects/metric-development",
+        "isActive": ""
+      }
+    ]
+  },
+  "first_section": {
+    "imageName": "get-connected-formbanner.jpg",
+    "heading": "Connecting Communities",
+    "content": "<p >Together, our projects represent a coordinated effort to build the many components of a comprehensive youth-and family-driven community action planning model to improve transition programs and services at a systems level. Through cyclical and sustainable systems-level design we simultaneously create and pilot tools with communities and scale between schools, agencies and community partners.</p>    <ul class='checkli'> <li> Continuously refine our model for how teams of young people with disabilities, family members and stakeholders systematically develop improvements to transition programs at a systems-level</li> <li>Research for developing data tools for collecting information about transition programs, services and practices at the school, agency and community level.</li> </ul></p>"
+  },
+  "second_section": {
+    "heading": "Goals of the TD Initiative ",
+    "subheading": "Across communities and partners, our work shares these common goals",
+    "points": [
+      {
+        "image": "purpose-icon-1.png",
+        "heading": "Elevating Voices",
+        "description": "Gathering data to highlight “what works” and what can be improved in transition through local collaboration"
+      },
+      {
+        "image": "purpose-icon-2.png",
+        "heading": "Youth-Led Programs",
+        "description": "Young people with disabilities have access to transition programs that focus on their strengths, goals, interests and and link learning between school and community"
+      },
+      {
+        "image": "purpose-icon-3.png",
+        "heading": "Community-Driven Action",
+        "description": "Establishing Transition Change Agent Teams (T-CATs) of young people, families and stakeholders who lead community-action plans to improve transition"
+      },
+      {
+        "image": "purpose-icon-4.png",
+        "heading": "Community-Driven Research",
+        "description": "Tapping into the collective knowledge of communities to build evidence-based tools that improve transition programs, services and opportunities"
+      }
+    ]
+  },
+  "third_section": {
+    "heading": "Initiative Activities",
+    "subheading": "Building the components of community-action planning in transition",
+    "LeftImg": "ProjectsLeftBoxImg.jpg",
+    "content": "<p class='dark'> Leveraging technology, improvement science and the power of relationships to build local capacity to design youth-led, youth-driven transition programs </p> <ul class='checkli'> <li>Continuously working with communities to generate and refine online content to teach young people with disabilities and their families about the many aspects of transition</li><li>Building the capacity of local stakeholders to implement and design evidence-based transition programs through online learning modules and practical workshops </li> <li>Using a train-the-trainers approach to teach stakeholders the foundations of action research and data-driven program design for transition</li><li>Establishing local transition communities of practice, family information sharing networks and peer-to-peer mentorship networks</li> </ul>"
+  },
+  "fourth_section": {
+    "testimonialList": [
+      {
+        "title": "Transition Stakeholder",
+        "description": "“Transition Discoveries strengthens the voices of our young people and families by giving them a platform to share their experiences. It helps us to break down silos as we identify best practices from our peers, and learn from the young people we’re supporting.”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“Transition Discoveries provides a vehicle for authentic youth and family driven system change, and assists local communities in the collective planning and implementation of evidence based strategies to support transition age students with disabilities to excel in high school and adult life.”"
+      }
+    ]
+  },
+  "fifth_section": {
+    "projectID": "cc",
+    "heading": "",
+    "subheading": "",
+    "points": []
+  }
+}

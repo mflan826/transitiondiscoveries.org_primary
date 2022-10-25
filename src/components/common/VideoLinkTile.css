@@ -1,0 +1,26 @@
+.relatedbx {
+  border: 2px solid #a0cc3b;
+  padding: 10px;
+}
+.related-img {
+  position: relative;
+  overflow: hidden;
+}
+img.playicon {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  width: 65px;
+}
+.related-img:after {
+  position: absolute;
+  background: #16220da8;
+  content: "";
+  width: 90%;
+  height: 90%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

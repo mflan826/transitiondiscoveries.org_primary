@@ -1,0 +1,76 @@
+ul.service-left-menu {
+  background: #f7f7f7;
+  border: 1px solid #e0e0e0;
+  padding: 3rem 1rem 3rem 1rem;
+  width: 100%;
+  float: left;
+}
+.service-left-menu li.active {
+  background: rgb(9 43 80);
+  color: #fff;
+  position: relative;
+}
+.service-left-menu li.active a {
+  color: #fff !important;
+}
+ul.service-left-menu li {
+  background: #fff;
+  font-size: 20px !important;
+  margin-bottom: 1rem;
+  color: #5d5d5d;
+  font-weight: 500;
+  width: 100%;
+  float: left;
+  border: 1px solid rgb(9 43 80);
+}
+ul.service-left-menu li.active:after {
+  right: -23px;
+  top: 50%;
+  content: " ";
+  position: absolute;
+  transform: translate(0, -50%);
+  width: 0;
+  height: 0;
+  border-top: 28px solid transparent;
+  border-left: 22px solid rgb(9 43 80);
+  border-bottom: 28px solid transparent;
+}
+ul.service-left-menu li a {
+  padding: 1rem;
+  width: 100%;
+  float: left;
+  color: #333;
+}
+ul.service-left-menu p {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 24px;
+  color: #64913f;
+}
+.becom-ptn {
+  background: rgb(9, 43, 80);
+  text-align: center;
+  padding: 2rem 2rem;
+  margin-top: 2rem;
+  width: 100%;
+  float: left;
+}
+.becom-ptn .sublead-txt {
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 2.2rem;
+  margin-bottom: 20px;
+}
+.becom-ptn p.btn-join {
+  width: auto;
+  display: table;
+  margin: 0 auto;
+  padding: 0.4rem 2rem;
+  border: 1px solid #64913f;
+  background: #fff;
+  font-size: 20px;
+}
+
+.becom-ptn p.btn-join a {
+  color: #000;
+}

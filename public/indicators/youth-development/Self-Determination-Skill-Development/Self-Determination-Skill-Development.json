@@ -1,0 +1,75 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Self-Determination Skills Development"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What does it mean to have self-determination? ",
+      "subhead": "Being self-determined means that you are able to speak up for yourself, make decisions and communicate them to others in the classroom, community, and at work. Self-determination also means that you can make a plan to get yourself from where you are right now to who you want to be in the future. In order to be self-determined, you’ll need to know more about yourself (self awareness) and be able to identify goals that reflect what you want and what interests you. ",
+      "bullets": "<li>What are some things in your life that you make your own decisions on?</li><li>What are some activities or areas in your life that you’d like to have more choice in what/how you do something?</li><li>Do you feel confident in speaking up for yourself in school or in IEP meetings?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does self-determination skills development include?",
+      "subhead": "Your transition team can help you explore what self-determination skills development can look like for you, by making sure that you...",
+      "bullets": "<li>Have confidence in speaking up for your needs in all areas of life</li><li>Recognize your interests and goals for the future </li><li>Know how to look at different situations, break down the steps and figure out what work needs to be done to reach your goals</li><li>Know how to look at all your options and make choices for yourself now and for your future</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "So3n72nxs3k",
+    "heading": "What’s self-determination all about? Let’s unpack it together!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": " What can self-determination do for you?",
+    "subheading": "When your transition team supports you with being a decision maker, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": " Problem-Solving Skills",
+      "content": "Ability to find different solutions to problems and pick the one that helps you reach your goal with the least amount of challenges"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Self-Advocacy Skills",
+      "content": " Speaking up for yourself and what supports you need"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Choice-making skills",
+      "content": "Knowing how to get all the info that you need to compare the benefits and impacts of all your options when trying to reach a goal"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Goal Setting",
+      "content": "Understanding what you want to learn more about, achieve, and do now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "In Harrisburg I testified in front of legislators to advocate for myself and others around me.” Transition-age youth “He came to the realization that, ‘Okay, I’m an adult now. I have the ability to make those choices for myself.’ So he’s realizing as he goes along that he has a voice and his voice is being heard.",
+        "url": "Indicator-2.4.1.m4a",
+        "audio": true
+      },
+      {
+        "title": "Family of transition-age youth",
+        "description": "He came to the realization that, ‘Okay, I’m an adult now. I have the ability to make those choices for myself.’ So he’s realizing as he goes along that he has a voice and his voice is being heard.” Family of transition-age youth",
+        "url": "2.4.2.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

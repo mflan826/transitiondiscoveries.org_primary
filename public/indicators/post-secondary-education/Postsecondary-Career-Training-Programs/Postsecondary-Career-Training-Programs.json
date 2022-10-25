@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Postsecondary Education",
+    "subindicatorname": "Postsecondary Career Training Program"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is a career training program?",
+      "subhead": "Postsecondary education isn’t just about getting a college degree! Did you know that there are programs after high school where you can get trained for a specific job or career that you want to work in? These are called career training programs and usually involve taking hand-on learning classes so that you can qualify for a specialized certification. This makes you way more desirable to an employer who is looking to hire someone with more training and experience (like you!).",
+      "bullets": "<li>Which career are you interested in being trained to work in?</li><li>Does the career or job that you want require any specific certifications?</li><li>What job skills would you like to learn through a career training program?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does a postsecondary career training program include?",
+      "subhead": "This Transition Planning Infographic collection describes the 4 sub-indicators through definitions, characteristics, outcomes, and meaningful stories.",
+      "bullets": "<li>Opportunities to learn specialized skills for a specific job or career that you want </li><li>Courses that teach what you’ll need to know when working in a specific job or career</li><li>Networking with employers and other individuals who can help you get into the career that you want</li><li>Completing coursework that prepares you to complete exams for specialized certificates</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "K99iX0Myuxk",
+    "heading": "What’s career training all about? Let’s unpack it!",
+    "imageName": "img3.png"
+  },
+  "IconTile2Heading": {
+    "heading": "What can career training programs do for you?",
+    "subheading": ""
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Job Skills",
+      "content": "Having the specialized skills that you need to succeed in the job that you want"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Certifications",
+      "content": "Obtaining one or more certifications that not only make you able to get hired and succeed in specific jobs, but that also help you get promoted faster!"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Job Networking",
+      "content": "Building connections with potential employers who can hire you once you get your certification"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Competitive Jobs",
+      "content": "Being able to get hired in fields and careers that are competitive and that pay you a good salary with benefits"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "Part of the idea behind the program I attended was to help me earn a certificate in childcare. I had to sit in a classroom but also had chances to work with young kids, which I loved. After I graduated my vocational rehabilitation counselor helped me get a job working in a preschool program. It is always what I wanted to do and I am happy!",
+        "url": "9.4.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

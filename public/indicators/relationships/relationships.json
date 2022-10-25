@@ -1,0 +1,126 @@
+{
+  "banner": {
+    "image":"relationships.jpg",
+    "imageName": "Banner-icon.png",
+    "content": "It’s all about friends, family and a community to support you!",
+    "videoUrl": "https://www.youtube.com/embed/Znt_oftogHE?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "indicator-2.png",
+    "heading": "What are Relationships?",
+    "content": "Have you thought about who you have relationships with and how you can use those relationships to reach your goals for work, college or training and living independently? So, your transition team should make sure that you have all the opportunities that you want and need to connect with other people, like friends, professionals who can support you and mentors who can guide you. Relationships are totally the key to succeeding in school, living independently in the community and striving in the workplace!<br /> <br /> Your transition team should help you figure out the best ways for you to communicate (speaking, writing, ASL, email, texting, phone calls, etc.). They can also help you learn the specific social skills that you’ll need for being successful at work, with friends and in school. Practicing negotiation skills and getting honest feedback on how you use them is huge and your transition team can do this for you, too!<br /><br /><ul class='checkli'> <li>Which ways do you communicate best? Which do you want to get even better at using?</li><li>What tips and strategies do you know for working through conflicts with other people?</li><li>What are some things that make up a healthy relationship with friends or co-workers?</li> <li>What kind of boundaries do we have to set with friends, co-workers and people in the community?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "indicator-3.jpg",
+    "content": "You've got the info - Now What? Click here to find out ways to reach your goals",
+    "VideoLink": "1exgky7w9_0"
+  },
+  "indicatordetails": {
+    "heading": "Relationships",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals a reality"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Friendship",
+      "link": "/Friendship",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "Icons/friendship.png"
+    },
+    {
+      "id": 2,
+      "title": "Sense of Belonging",
+      "link": "/Sense-of-Belonging",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "Icons/sense-of-belonging.png"
+    },
+    {
+      "id": 3,
+      "title": "Social Skills Development",
+      "link": "/Social-Skills-Development",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "Icons/socia-skills-development.png"
+    },
+    {
+      "id": 4,
+      "title": "Anti-Bullying Efforts",
+      "link": "/Anti-Bullying-Efforts",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icons/anti-bullying-effort.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

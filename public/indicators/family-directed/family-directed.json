@@ -1,0 +1,110 @@
+{
+  "banner": {
+    "image": "Person-Family-Directed.jpg",
+    "imageName": "person-family-directed-banner-icon.png",
+    "content": "You and your family are the leaders of planning for life after high school.",
+    "videoUrl": "https://www.youtube.com/embed/IUDaDCtDdUo?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "indicator-2.png",
+    "heading": "What is Person and Family Directed Planning?",
+    "content": "Who’s in charge of your future? You are! When it comes to planning for life after high school, your transition team should make sure that you’re the leader of your IEP meetings. So, imagine you’ve made goals, now what? Next, it’s all about learning experiences in and outside of school that you choose to help you build skills to reach them!<br /> <br />Your transition team should make sure that all decisions about your future are based upon your goals, strengths, interests, preferences, personality, needs and disability. Awesome, right? You also have the power to tell your transition team what things they need to do differently to get you toward your goals. Remember, as you grow and reach goals, you should have new goals and the programs you participate in should change so that you can make moves to the next steps you want to reach!<br /><br /><ul class='checkli'> <li>Have you presented on your goals, experiences or needs to your transition team?</li><li>What decisions have you made about your goals for work, more education and training or living independently after high school?</li><li>Have you told teachers and other adults on your transition team about how classes and opportunities could better support you and your goals?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "indicator-3.jpg",
+    "content": "You've got the info - Now What? Click here to find out ways to take control of planning your future!",
+    "VideoLink": "tYja_9VxGXA"
+  },
+  "indicatordetails": {
+    "heading": "Person and Family Directed Planning",
+    "content": "You and your family are the leaders of planning for life after high school. Here are the main things that your transition team should do in order to make sure that you are in charge of your future."
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Authentic Person and Family Centered Planning Practices",
+      "link": "/Authentic-Person-and-Family-Centered",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "icons/authentic-person-and-family-centered-planning-practices.png"
+    },
+    {
+      "id": 2,
+      "title": "Person and Family Centered Program Design",
+      "link": "/Person-and-Family-Centered",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "icons/person-and-family-centered-program-design.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

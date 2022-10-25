@@ -1,0 +1,150 @@
+{
+  "banner": {
+    "image": "cross-agency-collaboration.jpg",
+    "imageName": "cross-agency-collaboration-banner-icon.png",
+    "content": "Success after Graduation Takes a Team, Who’s on Yours?",
+    "videoUrl": "https://www.youtube.com/embed/Y0-kzg2Jkd4?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "indicator-2.png",
+    "heading": "What is Cross Agency Collaboration?",
+    "content": "Pop question, does your transition team and transition plan only include things that you do with teachers, counselors and other school staff? Nope! It should always include professionals from organizations outside of your school - some of these are called “agencies”<br /><br />Your transition team should always help you make connections with professionals outside of school who can help you with your goals. Who can they be? You might work with professionals from outside of your school in order to learn job skills, academic skills and how to be independent at home and in the community.<ul class='checkli'> <li>Which professionals from outside of your school are supporting your goals for life after high school?</li><li>Have you ever worked with a Vocational Rehabilitation Counselor? What did they help you accomplish?</li><li>Who can you talk with to learn about colleges and training centers that match your goals?</li><li>Have you ever gotten help from a professional who taught you about access to “public benefits” that can help you pay for your bills and expenses?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "indicator-3.jpg",
+    "content": "You've got the info - Now What? Click here to find out ways to reach your goals!",
+    "VideoLink": "M6WEplRN1oU"
+  },
+  "indicatordetails": {
+    "heading": "Cross Agency Collaboration",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals a reality!"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Agencies in Schools",
+      "link": "/agencies-in-schools",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "icons/agencies-in-schools-icon.png"
+    },
+    {
+      "id": 2,
+      "title": "Transition Staffings",
+      "link": "/transition-staffings",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "icons/transition-staffings-icon.png"
+    },
+    {
+      "id": 3,
+      "title": "Transition Fairs",
+      "link": "/transition-fairs",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "icons/transition-fairs-icon.png"
+    },
+    {
+      "id": 4,
+      "title": "Transition Conferences",
+      "link": "/Transition-Conferences",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/transition-conferences-icons.png"
+    },
+    {
+      "id": 5,
+      "title": "Employment Expos",
+      "link": "/Employment-Expos",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/employment-expos-icons.png"
+    },
+    {
+      "id": 6,
+      "title": "Community Agency Nights about Employment",
+      "link": "/Community-Agency-Nights-about-Employment",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/community-agency-nights-about-employment-icons.png"
+    },
+    {
+      "id": 7,
+      "title": "Transition Coordinating Councils",
+      "link": "/Transition-Coordinating-Councils",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/transition-coordinating-councils-icons.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

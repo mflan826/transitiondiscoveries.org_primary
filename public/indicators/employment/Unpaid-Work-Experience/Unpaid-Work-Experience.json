@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Unpaid Work Experience"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are unpaid work experiences",
+      "subhead": "You might’ve heard from your transition team or seen on job applications that a specific level of experience is usually required for more advanced jobs. No worries, this is where unpaid work experiences can help. Internships are where you work for free in the job that you want to eventually be hired. During the internship you get mentorship, real-world training and needed experience. You might also have internships in different jobs! Internships are a great way to practice managing your time and social interactions with your boss and co-workers.",
+      "bullets": "<li>Have you ever had an internship? What new skills did you learn?</li> <li>What jobs or companies would you like to have an internship with? How could you get started with getting one?</li><li>If you do a really great job in an internship, how can you use that experience to help you get your next job?</li>",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do unpaid work experiences include?",
+      "subhead": "Your transition team can help with unpaid work experiences by.",
+
+      "bullets": "<li>Working with you to research different internship opportunities that match your career pathway, strengths, goals and needs</li><li>Teaching you how to succeed in an interview</li><li>Helping you create and update your resume before and after each internship</li><li>Being mentors who help you reflect on your internship experiences so that you can learn more about your skills and what you can learn how to do better</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "PmNyfmpWYqk",
+    "heading": "What’s unpaid work experience all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can unpaid work experiences do for you?",
+    "subheading": "When your transition team helps get internships, you’ll have "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Exploration",
+      "content": "Exploring careers based on your interests and preferences allows you to see what careers are out there and create goals for all the steps needed to get to that career"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Career Skills ",
+      "content": "Build the social skills, interviewing skills, and task management skills that you’ll need for jobs in the future"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Real Networking ",
+      "content": "Meeting people at your internship who can help you find out about future career options and help you get hired in paid jobs"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Job Experience",
+      "content": "Having real-world job experience for your resume when you graduate high school so that you get hired in paid jobs"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "I think it’s important to see the students’ capabilities rather than first looking at that disability because we’ve had experiences where students have gone into internships, and they end up doing really well. And they end up hiring them. They’re, like can we please put this student on our payroll? Just the whole idea of presumed competence. Businesses need to get that, students need to get that, families need to get that, we need to get that.",
+        "url": "8.6.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

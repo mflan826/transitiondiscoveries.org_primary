@@ -1,0 +1,59 @@
+{
+  "banner": {
+    "heading": "Get Connected",
+    "text": "We believe successful transitions happen when plans are made by young people with disabilities, families and stakeholders for young people, families and stakeholders. Tell us how you’d like to get involved below and participate in the TD Quality Indicator Survey (TDQI) to help you think about what’s working well in transition and identify opportunities for growth!",
+    "imageName": "get-connected-banner.jpg"
+  },
+  "first_section": {
+    "heading": "Hey, Young People!    ",
+    "subheading": " Ready to have your voices heard about what helps you in preparing for success after high school?    ",
+    "content": " <ul class=\"checkli\"><li>Check it out, we have a survey that you can take to share about what has helped you prepare for life after high school and what could be improved so that you can reach all of your goals!</li><li>We know that you’re the best person to ask when it comes to what schools and adults can do to support young people as they get ready for success after high school</li><li>The best part about the survey is that you get to download your results afterwards and share it with your transition team!  </li></ul>",
+    "linkHref": "/what-works",
+    "linkText": "Start Survey",
+    "imageName": "get-connected-img2.jpg"
+  },
+  "second_section": {
+    "heading": "Hey, Family Members!",
+    "subheading": "Ready to have your voices heard about what helps your young person in preparing for success after high school?",
+    "content": "<ul class=\"checkli\"><li> You’re an expert on what your young person wants and needs when it comes to preparing for life after high school and beyond!</li><li>We have a survey that you can take to share what stakeholders have done well and what can be improved to make sure that your young person and family has all the support they need to succeed</li><li>Best part is that you can use the survey results as a conversation starter at transition planning meetings!</li></ul>",
+    "linkHref": "/what-works",
+    "linkText": "Start Survey",
+    "imageName": "get-connected-img3.jpg"
+  },
+  "third_section": {
+    "heading": "Hey, Transition Stakeholders!",
+    "subheading": "Ready to share your knowledge about what helps young people with disabilities in preparing for success after high school?",
+    "content": " <ul class=\"checkli\"><li> As part of the team and village that supports young people with disabilities in preparing for success after high school, there is no doubt that you have a wealth of information to share on what works!</li><li>We have a survey that you can take to share about effective current transition practices are in your community</li><li>The results of this survey are a great conversation starter about what things you and your team might do more of or maybe even do differently!</li><li>Be sure to share all about your team and communities’ effective transition practices so that we can highlight these on our “What Works” data hub!</li></ul>",
+    "linkHref": "/what-works",
+    "linkText": "Start Survey",
+    "imageName": "get-connected-img4.jpg"
+  },
+  "form_section": {
+    "formheading": "Calling All Leaders!",
+    "formsubheading": "How do you want to get involved? ",
+    "imageName": "get-connected-formbanner.jpg",
+    "stepsheading": "We’re here!",
+    "stepssubheading": "What you can expect?"
+  },
+  "fourth_section": {
+    "video_url": "https://www.youtube.com/embed/k-jEtURz4-A?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1",
+    "testimonialList": [
+      {
+        "title": "Transition Stakeholder",
+        "description": "“PYLN partners with TQEP because they are working to amplify what matters: authentic youth voice.”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“Transition Discoveries provides a vehicle for authentic youth and family driven system change, and assists local communities in the collective planning and implementation of evidence based strategies to support transition age students with disabilities to excel in high school and adult life.”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“Transition Discoveries strengthens the voices of our young people and families by giving them a platform to share their experiences. It helps us to break down silos as we identify best practices from our peers, and learn from the young people we’re supporting. ”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“The Pittsburgh Public Schools' partnership with TQEP has provided guidance and opportunities to promote youth leadership and family engagement activities, as well as created a framework that will allow us to take an introspective look at current practices. Through this work, we will continue to grow and expand transition services in the District.”"
+      }
+    ]
+  }
+}

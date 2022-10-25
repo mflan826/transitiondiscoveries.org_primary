@@ -1,0 +1,127 @@
+{
+  "banner": {
+    "image": "Transition-Planning-bG.jpg",
+    "imageName": "indicator-1-1.png",
+    "content": "It’s All About Planning for Life After High School",
+    "videoUrl": "https://www.youtube.com/embed/XcIT29_xOd0?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "transition-planning-img2.png",
+    "heading": "What is Transition Planning?",
+    "content": " If you have an IEP (Individualized Education Program) and you’re in high school, then you should also have a transition plan and transition team to support you. Together, they help you decide what success after high school will look like for you, and how to make it happen!<br /> <br /> Your team should help you set goals for work, getting more school or training and living independently after you graduate from high school. They should help you make a plan that includes classes, activities, programs and other opportunities that will help you reach these goals.<br /><br /><ul class='checkli'> <li>How can you be a leader of your transition team and planning for your future?</li><li>What are your goals for work, more school and training or for how you’ll live after high school?</li><li> What are three new skills that you want to master so that you can reach your goals?</li><li>Which new experiences would you like to participate in so that you can reach your transition goals?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "transition-planning-img3.jpg",
+    "content": " You've got the info - Now What? Click here to find out ways to reach your goals",
+    "VideoLink": "XK6UY3Jb6vU",
+    "vedio":true
+  },
+  "indicatordetails": {
+    "heading": "Transition Planning",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals for life after high school a reality!"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Career Exploration Planning and Preparation",
+      "link": "/career-exploration-planning-and-preparation",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "icons/career-exploration-planning-preparation.png"
+    },
+    {
+      "id": 2,
+      "title": "Post Secondary and College Planning",
+      "link": "/post-secondary-and-college-planning",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "icons/postsecondary-and-college-planning.png"
+    },
+    {
+      "id": 3,
+      "title": "Independent/Community Living",
+      "link": "/independent-community-living",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "icons/independentcommunity-living.png"
+    },
+    {
+      "id": 4,
+      "title": "Significant Role of School Personnel",
+      "link": "/significant-role-of-school-personnel",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icons/significant-role-of-school-personnel.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

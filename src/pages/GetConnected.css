@@ -1,0 +1,92 @@
+.getconnectedbanner {
+  background: url("https://transitiondiscoveries.s3.amazonaws.com/images/static/get-connected-banner.jpg")
+    no-repeat top center / cover;
+
+  padding: 180px 0;
+}
+.container.youngget-grid.ptb-40 a.grtctatbg {
+  border: solid 2px #000;
+  color: #000;
+}
+
+.container.youngget-grid.ptb-40 a.grtctatbg:hover,
+.container.youngget-grid.ptb-40 a.grtctatbg:focus {
+  border: solid 2px #000;
+  color: #000;
+}
+.gcplayer {
+  height: 100% !important;
+  width: 100% !important;
+}
+#GetConnectedPage .owl-item.animated.owl-animated-out.slideOutUp {
+  min-height: 275px;
+  background: #fff;
+}
+
+@media (max-width: 767px) {
+  div#GetConnectedPage .owl-dots {
+    transform: rotateZ(90deg) !important;
+    position: absolute !important;
+    left: -20% !important;
+    top: 38% !important;
+  }
+  .container.youngget-grid.ptb-40 {
+    padding-top: 0px !important;
+  }
+  .getconnectedbanner {
+    height: 398px;
+  }
+  .getconnectedbanner p.lead.white {
+    font-size: 1rem;
+  }
+  .getconnectedbanner .hero-slider-content.text-left {
+    padding-top: 68px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  section.hero-equal-height.pt-165.gradient-overly-right-light.getconnectedbanner {
+    padding: 98px 0 14px 0;
+  }
+  h4 strong.green,
+  p strong.green {
+    font-size: 1.8rem;
+  }
+  .youngget-grid .item-a {
+    padding: 3% 5%;
+  }
+  h4 strong.green,
+  p strong.green {
+    font-size: 1.9rem;
+  }
+  div#GetConnectedPage .owl-dots {
+    left: -10% !important;
+  }
+  .getconnectedbanner .col-md-6.col-lg-6 {
+    flex: 0 0 80%;
+    max-width: 80%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .getconnectedbanner {
+    background: url(https://transitiondiscoveries.s3.amazonaws.com/images/static/get-connected-banner.jpg)
+      no-repeat top center / cover;
+    padding: 80px 0 !important;
+  }
+  h4 strong.green,
+  p strong.green {
+    font-size: 1.8rem;
+  }
+  .getconnectedbanner .col-md-6.col-lg-6 {
+    flex: 0 0 70%;
+    max-width: 70%;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+  h4 strong.green,
+  p strong.green {
+    font-size: 1.8rem;
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living and Community Engagement",
+    "subindicatorname": "Mental Health Supports",
+    "abcid": "mental-health"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are mental health supports?",
+      "subhead": "What does it mean to be healthy? Is it exercising, eating a balanced diet and making sure that you stay connected with medical professionals like doctors? Feeling good emotionally is a key part of being healthy, too. Sometimes you might have more significant challenges in your life that can impact your mental health. Mental health should be something that we are all proud of working on in our lives, just like the other things that we do to stay physically healthy, too.",
+      "bullets": "<li>What are some ways that you manage stress in your life?</li><li>If we want to work on coping with challenges, building healthy relationships and managing our moods, who can help us?</li><li>What are three big goals that you have for your mental health this year?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does support for mental health include?",
+      "subhead": "Your transition team can help you explore what mental health means to you and how to make it happen",
+      "bullets": "<li>Learning strategies to manage stress in your life</li><li>Finding ways to stay motivated toward your goals</li><li>Coping with challenging experiences</li><li>Avoiding and managing harmful situations</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "Sw8PgUyWzfA",
+    "heading": "What are mental health supports all about? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can mental health supports do for you?",
+    "subheading": "When your transition team helps you with mental health, you will have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Stress Management",
+      "content": "The ability to reduce stress in your life by taking care of things that you have control over and gaining control of the things that you can’t control yet"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Coping Strategies",
+      "content": "Understanding your emotions, what impacts them and doing things that help you make sense of challenging experiences"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Healthy Relationships",
+      "content": "Building relationships with others based upon mutual trust, respect and empathy."
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Motivation",
+      "content": "Staying focused on doing things that help you reach your goals now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "Several counties have drop-in centers for youth and young adults that are in mental health recovery. Those have proven to be successful. Peer support services and psychiatric rehabilitation services are very helpful for youth and young adults because many times they haven’t mastered certain developmental assets and so they don’t have the skills for independent living. So, psych rehab really goes back and teaches people those skills.",
+        "url": "6.8.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Person and Family-Directed Planning",
+    "subindicatorname": "Person and Family Centered Program Design"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "Person and Family Centered Program Design",
+      "subhead": "So you and your family have told your teachers and transition team about your interests, strengths, personality and preferences and together you’ve planned your goals. Great, but what’s next?! Now it’s time for you and your family to lead the way of choosing programs to help you reach your goals for work, more education and living independently after high school. You should have a choice of programs in school and in the community that match your goals, strengths and interests. When programs aren’t working for you, you have the right to speak up to your transition team about what needs to change.",
+      "bullets": "<li>Have you had opportunities to tell your transition team about the subjects, activities, or careers that are you interested in? </li><li>Have you participated in any school programs that help you prepare for your dream career, more education after high school or living independently? What was it like?</li><li>Have you talked with your transition team about ways the programs that you participate in could be improved to best match your strengths, goals and needs?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does person and family centered program design include? ",
+      "subhead": "Your transition team can help you make a person-centered program by making sure that you….",
+      "bullets": "<li>Sign up for classes and programs inside and outside of school that align with your future goals, personal strengths and interests, and your family values</li><li>Meet with advocates and professionals outside of your school to build relationships and networks with people who can help after high school</li><li>Set you up with internships, job-shadowing or work experiences that align with your future work goals and interests</li><li>Provide you with options outside of school, like hobbies and volunteering so you can choose how to become involved in your community</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "1G6-mcdzK5g",
+    "heading": " What’s person and family centered programming? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can person and family centered program design do for you?",
+    "subheading": "When your transition team supports your family, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Academic Options",
+      "content": "Participating in programs in high school and after you graduate that help you build skills for the job that you want"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Employment Options",
+      "content": "Getting involved in different types of work experiences before you graduate so that you can determine which ones aligned best with your work styles, preferences and help you explore strengths you might not have known you had before."
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Living Options",
+      "content": "Creating a plan will help you to define what “home” means to you, by exploring various living options and knowing how to apply for them"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Self-Determination",
+      "content": "Knowing about your strengths, needs, priorities and personality will allow you to continue to make choices where you make moves toward your goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "We really gravitated to that type of PATH planning for my son even before transition started. The end result helps you start with his dreams and create a plan to get there. I was able to have a good circle of support around that. And so we were pretty focused on where he wanted to go and what he wanted to do as far as planning. And then involving high school was a little tricky because I always wanted to individualize things for him. So even when we went to high school we were continuing that kind of planning for transitions. His teachers and his paraprofessional that he had at high school also attended the path planning.",
+        "url": "3.2-Program-Design.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+.Stakeget-grid {
+  display: grid;
+  grid-template-columns: 4fr 3fr 4fr;
+  align-content: center;
+  padding: 60px 0;
+}
+.Stakeget-grid .item-a {
+  background: linear-gradient(to right, #474123, #404a3b);
+  text-align: center;
+  padding: 4% 8%;
+}
+.grtctatbg2 {
+  background: #a0cb3a;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  float: right;
+  padding: 5px 10px;
+  font-size: 1.2rem;
+}
+.Stakeget-grid .item-c {
+  background: linear-gradient(to right, #3b504a, #35595f);
+  text-align: center;
+  padding: 4% 5%;
+  align-content: center;
+  display: grid;
+}
+.container.Stakeget-grid.ptb-40 .alert-danger {
+  background-color: transparent;
+  border-color: transparent;
+  padding: 0px;
+  color: #fff;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.css-26l3qy-menu {
+  text-align: left;
+}
+.Stakeget-grid .form-control {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  border-bottom: 1px solid #ced4da;
+  height: 38px;
+}
+
+.Stakeget-grid .form-group {
+  margin-bottom: 0px;
+}
+.fillform ul li {
+  padding: 10px 0px;
+  color: #fff;
+  line-height: 2rem !important;
+  text-align: left;
+}
+.fillform ul li span {
+  width: 30px;
+  height: 30px;
+  background: #fff;
+  border-radius: 50%;
+  display: block;
+  float: left;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  margin-right: 10px;
+  color: #000;
+  border: 1px solid #99c433;
+  position: relative;
+  z-index: 1;
+}
+.fillform ul li span:after {
+  position: absolute;
+  content: '';
+  background: #fff;
+  width: 2px;
+  height: 32px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  bottom: -28px;
+}
+.fillform ul li span:after:last-child {
+  content: none !important;
+}
+.fillform ul li span.linenot:after {
+  content: none;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .Stakeget-grid {
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+  }
+  .Stakeget-grid .item-b {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .Stakeget-grid .item-b {
+    display: none;
+  }
+  .Stakeget-grid {
+    grid-template-columns: 3fr 3fr;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1600px) {
+  .Stakeget-grid .item-b img {
+    height: 100%;
+  }
+}

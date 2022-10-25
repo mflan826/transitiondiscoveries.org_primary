@@ -1,0 +1,29 @@
+.videodescriptionbox {
+  display: grid;
+  grid-template-columns: 5fr 5fr;
+  align-content: center;
+  background: #41771c;
+}
+.videodescriptionbox .item-video-a {
+  display: grid;
+  padding-left: 3%;
+}
+.videodescriptionbox .item-iframe {
+  display: grid;
+  grid-row-start: 0;
+  grid-row-end: 3;
+  margin-top: -12%;
+}
+.videodescriptionbox .item-text-b {
+  display: grid;
+  grid-template-rows: 2fr 6fr 2fr;
+  align-content: center;
+}
+.videodescriptionbox .item-text-b .item-text {
+  display: grid;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  align-content: center;
+  padding: 0 5%;
+  align-content: center;
+}

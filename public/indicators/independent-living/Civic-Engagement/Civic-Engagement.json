@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living and Community Engagement",
+    "subindicatorname": "Civic Engagement"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": " What is civic engagement?",
+      "subhead": " Have you ever thought about how you could improve the lives of people living in your community? This is called civic engagement and might include volunteering with local organizations to advocate for the rights of others, helping others in need or to improving the environment. Civic engagement also means knowing how to vote and have a voice in your local, state and federal government.",
+      "bullets": "<li>What social causes are important to you?</li><li>Have you volunteered in your community or elsewhere to help others? </li><li>What would you like to help others to do or accomplish in your community or beyond?</li><li>What do you want to learn about voting and getting your voice heard?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does civic engagement include?",
+      "subhead": "Your transition team can help you explore what civic engagement can look like for you and to build the skills that you need to make it happen.",
+      "bullets": "<li>Learn about the different causes that are important to you</li><li>Learn about organizations that you can volunteer with in your community</li><li>Learn how to vote and about how local, state and federal systems work</li><li>Learn strategies for advocating for the rights of people in your community</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "aNVSsarYVTA",
+    "heading": "What’s civic engagement all about? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can civic engagement skills do for you?",
+    "subheading": "When your transition team helps you to learn how to get involved with civic engagement, you will be able to..."
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Volunteer",
+      "content": "Join organizations, groups and causes in your community that align with what you believe is important and help others"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Advocate",
+      "content": "Use speaking, writing and leadership skills to help others learn about your communities rights, goals and needs"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Vote",
+      "content": "Sign up to vote and understand how local, state and federal government work so that you can elect people who support your community"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Get Elected",
+      "content": "Understand the rights, goals and needs of your community or groups that you care about so that you can become a leader in movements to help them"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "I was a part of a bunch of different clubs, too. I did some volunteer clubs. I did some leadership based stuff. I worked. So I did like a bunch of things, I was in something called Leadership club. We did volunteer events and planned things for youth throughout our area. I also worked part-time after school. So it was just like one of the many things I did.",
+        "url": "6-7.mp3",
+        "audio": true
+      }
+    ]
+  }
+}

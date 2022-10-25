@@ -1,0 +1,142 @@
+{
+  "HomeSlider": [
+    {
+      "image": "HomeBanner11.jpg",
+      "title": "Transition Discoveries ",
+      "description": "Your Voice <span class=\"GreenDot\">.</span> Your Story<span class=\"GreenDot\">.</span> Your Future"
+    }
+  ],
+  "GetConnectedImageLeftTextRight": {
+    "heading": "We believe in the Power of...",
+    "subheading": "",
+    "content": "<ul class='checkli'> <li> <b>YOUTH/YOUNG ADULTS:</b> Look around, you will see and hear from young people like YOU because we believe in the power of youth voice!</li> <li><b>FAMILIES:</b> Be empowered to take a leadership role to support your youth/young adult to prepare for their future!</li><li> <b>STAKEHOLDERS:</b> A stakeholder is anyone who is invested in youth transitioning from high school to adult life. Find the tools to empower young people and share best practices!  </li><li><b>COMMUNITIES:</b> Learn to use a data-driven approach to discovering, dreaming, and delivering a plan to move forward as a community to expand effective transition practices! </li> </ul>",
+    "imageName": "HomeSection2Left.png",
+    "link": { "url": "aboutus/", "text": "Learn More" }
+  },
+  "HomePageGraphics": {
+    "Heading": "We have developed the tools and experiences to ensure that all young people with disabilities, families and professionals are empowered to take leadership roles in planning for success after high school. ",
+    "RightImage": "home-graphic-right.png",
+    "link": { "url": "resources/", "text": "View Resources" }
+  },
+  "HomegetInvolved": {
+    "Heading": "Get Involved",
+    "subheading": "Whether it’s learning about transition, sharing your experiences or becoming a leader in your community, there are so many ways to get involved with our initiative!",
+    "boxes": [
+      {
+        "heading": "Transition Discoveries Framework",
+        "text": " Like branches on a tree, the TD framework expands to help YOU grow! ",
+        "image": "home-get-involved-parent.jpg",
+        "type":"vedio", 
+        "link": { "url": "our-framework/", "text": "Explore" }
+      },
+      {
+        "heading": "Get Connected",
+        "text": "Tell us how you’d like to get involved to make sure you, or a young person you know is living their best life!",
+        "image": "home-get-involved-Connect.jpg",
+        "type":"vedio",
+        "link": { "url": "get-connected/",  "text": "Explore" }
+      },
+      {
+        "heading": "Connecting Communities",
+        "text": "Relationships are the key to success! ",
+        "image": "home-get-involved-Connecting-Communities.jpg",
+        "type":"vedio",
+        "link": {
+          "url": "projects/connecting-communities/",
+          "text": "Explore"
+        }
+      },
+      {
+        "heading": "What Works",
+        "text": " Find out what makes a successful transition from high school! ",
+        "image": "home-get-involved-What-Works.jpg",
+        "type":"vedio",
+        "link": { "url": "what-works/", "text": "Explore" }
+      }
+    ]
+  },
+  "TDHomeVideos": {
+    "Heading": "Let’s learn how to use this website!",
+    "subheading": "Ready to explore all things transition?",
+    "boxes": [
+      {
+        "heading": "What’s Here & How to Find It!",
+        "image": "video1.jpg",
+        "videoUrl": "aYB9yfd2jx8",
+        "type":"vedio"
+      },
+      {
+        "heading": "Welcome to Transition Discoveries!",
+        "image": "3.jpg",
+        "videoUrl": "2nCVtsdAwV8",
+        "type":"vedio"
+      },
+      {
+        "heading": "TD Framework that Drives Us!",
+        "image": "4.jpg",
+        "videoUrl": "NPtPHSyN2z0",
+        "type":"vedio"
+      }      
+    ]
+  },
+  "HomePageCaptionSection": {
+    "LeftHeading": "How our 9 indicators play the key role to change the life.",
+    "LeftCta": "Explore More",
+    "LeftCTALink": "our-framework",
+    "RightHeading": "",
+    "RightVideoLink": ""
+  },
+  "HomeTDGuide": {
+    "LeftHeading": "The Transition Discoveries Infographic Guide ",
+    "RightHeading": "",
+    "FaqRightImage": "HomePage-FaqRight.jpg",
+    "EnglishGuidePDFLink": "td-guide-english.pdf",
+    "SpanishGuidePDFLink": "TransitionDiscoverySpanishG.pdf",
+    "faqList": [
+      {
+        "title": "What is it?",
+        "description": "The TD guide is an easy-to-read learning tool that explains successful transition practices for all areas of preparing for life after high school, including careers, more school/training, living independently and being a connected community member. Through our work, we have developed the Transition Discoveries Quality Indicator <a href='our-framework'>Framework</a>. The TD Guide explains effective transition practices according to this framework."
+      },
+      {
+        "title": "How can I use it?",
+        "description": "The short answer is that the possibilities are endless! If you’re a professional, you might use the guide as part of conversations with young people and families before and during transition planning meetings. You can also use the guide to develop your own lessons and activities for young people to build their transition skills (we have done a lot of this for you! Check out our <a href='resources'>“resources”</a> page. Young people and families can use the guide to get in-the-know' before and during transition planning meetings so that they can take charge of the decision making process and ask questions about all the possible supports that exist! "
+      },
+      {
+        "title": "Is the guide research-based?",
+        "description": "Yes! The guide was developed through a rigorous, multi-year, statewide research study in which over 500 young people, families and stakeholders across different cultural groups and socioeconomic regions participated in semi-structured and structured qualitative data collection experiences. The guide’s content is well-aligned to current evidence-based predictors of post-school outcomes for young people with disabilities. For complete details and guidance on where to access scientific publications on the methodology of this study and related TD studies thereafter, please <a href='contactus'>contact our team!</a> See what our research has found <a href='what-works'>Explore!</a>"
+      },
+      {
+        "title": "How is this different from other resources?",
+        "description": "The Infographic Guide was made to speak directly to youth.  Many resources exist, but they primarily focus on transition stakeholders.  We have received feedback from families that when using the Guide it was the first time they really understood what transition was all about.  "
+      },
+      {
+        "title": "How can the guide be used to start conversations?",
+        "description": "The Guide, based upon research, gives youth and their families foundation knowledge to take a center role in transition planning.  They are empowered with new knowledge and can advocate based upon their dreams and goals."
+      }
+    ]
+  },
+  "HomeCurrentlyHappening": {
+    "Heading": "What’s New with TD?",
+    "subheading": "Check out the unique ways we’re connecting communities! ",
+    "boxes": [
+      {
+        "label": "Events",
+        "image": "events.jpg",
+        "title": "  Explore to find an event near you!",
+        "CTALink": "events"
+      },
+      {
+        "label": "Stories ",
+        "title": "Share your transition story or read about others’ here! ",
+        "image": "stories.jpg",
+        "CTALink": "story-listings"
+      },
+      {
+        "label": "Gallery",
+        "title": "Check Our Instagram",
+        "image": "gallery.jpg",
+        "CTALink": "gallery"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Youth Development",
+    "subindicatorname": "Leadership Skill Development"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is leadership skill development?",
+      "subhead": "How do we know a leader when we see one? Are they just the person telling other people what to do? Nope! True leaders are usually guiding and supporting others toward reaching a goal! How? By helping other people learn about their own strengths and to learn new skills so that they can find solutions to challenges. Leadership includes being a role model who has drive, commitment, is organized and makes decisions that consider the needs of other people first.",
+      "bullets": "<li>What makes a person a great leader? Think about examples from your life!</li><li>Do you know about different leadership styles and which one you want to learn how to become in your life?</li><li>What are some skills that you already have that can make you a strong leader in your school, work, or in the community? </li> <li>What are some ways that you can be a leader at school, home, work or in the community?</li>",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does leadership skill development include? ",
+      "subhead": "Your transition team can help you become a leader by helping you...",
+      "bullets": "<li>Gain confidence in who you are </li><li>Learn the skills to help others find solutions to challenges, learn about their own strengths and to learn new skills that help a team reach a goal</li><li>Developing organizational skills and the passion to get things done</li><li>Have opportunities to teach, mentor and support others</li><li>Take ownership of decisions and choices you make about your life </li><li>Learn the ways that you best communicate what you know to teach others</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "iir9nCTrJiI",
+    "heading": "What’s leadership all about? Let’s unpack it together!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can leadership skills do for you?",
+    "subheading": "When your transition team supports you becoming a leader, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Leadership Experiences",
+      "content": "Opportunities to lead others in various settings and programs "
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Self-Confidence",
+      "content": "Belief in yourself, your knowledge, and who you are"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Goal-Development",
+      "content": "Learning more about your own goals and dreams and how to help others learn about and create their own dreams and goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Leadership Style",
+      "content": "Knowing what your leadership style is and ways to help others become leaders, too!"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "My favorite out of all the things I was able to do in high school was being a leader among a lot of the youth. We did orientations for all the freshmen that were coming in every year. And the first day of school, all the freshmen already knew my name and I was able to help them out throughout the whole thing. That was a big deal for me. That was the biggest highlight of my high school experience. Because it allows you to see and help everybody else with their problems and you would learn from people when you’re helping them.",
+        "url": "Indicator2.6.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

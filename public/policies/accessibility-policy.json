@@ -1,0 +1,42 @@
+{
+  "Banner": {
+    "heading": "Accessibility Policy",
+    "ID": "AP"
+  },
+  "ProjectLeftBar": {
+    "heading": "Policies",
+    "CtaHead": "Become Our Partners",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/contactus",
+    "Leftmenu": [
+      {
+        "id": 1,
+        "label": "Privacy Policies",
+        "link": "/policies/privacy-policies",
+        "isActive": ""
+      },
+      {
+        "id": 2,
+        "label": "Accessibility Policy",
+        "link": "/policies/accessibility-policy",
+        "isActive": "active"
+      },
+      {
+        "id": 3,
+        "label": "Non-Discrimination Policy",
+        "link": "/policies/Non-Discrimination-Policy",
+        "isActive": ""
+      },
+      {
+        "id": 4,
+        "label": "UDL Policy",
+        "link": "/policies/UDL-Policy",
+        "isActive": ""
+      }
+    ]
+  },
+  "PoliciesContent": {
+    "PolicyName": "Accessibility Policy",
+    "PolicyContent": "Transition Discoveries is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant 508 accessibility standards."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living and Community Engagement",
+    "subindicatorname": "Community-Based Experiences"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are community-based experiences?",
+      "subhead": "Ever think to yourself, “how am I going to do this when I’m out of school? I need some adulting 101!” We’ve all been there. Just know, your transition team should give you opportunities to learn real-world skills out in the places that you’ll need to use them. These are called community-based experiences and they give you chances to learn and make mistakes with a mentor there to help you (which you want). This means that you get feedback without consequences like when you’re out on your own later down the road!",
+      "bullets": "<li>Have you ever learned skills for living independently (like shopping, traveling, etc.) by trying them out in the real-world? What was it like? </li><li>What are three new skills for living independently that you want to learn how to do by trying them out in real-world situations? </li><li>Who can you talk to in your school to learn more about learning skills for life to be independent outside of school?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do community-based experiences include?",
+      "subhead": "You and an adult from your transition team can practice real-world skills by...",
+      "bullets": "<li>Going to places like where you live now or the kind of place that you want to live in the future and practice all of the different skills that you’ll need to be independent there</li><li>Taking different transportation options (bus, taxi, rideshare, car, plane, train, etc.) while you learn the steps and skills needed to use them by yourself</li><li>Visiting stores in order to learn the skills that you’ll need to go there and complete your goals like buying things that you want or need</li><li>Going together to meet with professionals outside of your school that support you and practicing what and how to ask for what you need while you are there</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "fJkJiQ2TZ-k",
+    "heading": "What’s a community-based experience? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can community-based experiences do for you?",
+    "subheading": "When your transition team helps you with community-based experiences, you’ll be able to do:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": " House Maintenance",
+      "content": "Being able to fix things that break, keep your home clean and transform where you live into a place that fits your goals, needs (like accessibility) and interests"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Healthy Cooking",
+      "content": "Being able to plan out meals that together make up a balanced and healthy diet that fits your goals and needs"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Money Management",
+      "content": "Being able to use a bank and phone applications to save money and track spending so that you can afford both the basics and reach your long term goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Traveling",
+      "content": " Knowing how to independently use different types of transportation (car, bus, train, bike, ridesharing, planes, etc.) to get to work, school, places in your area and beyond"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "We help people find jobs. There really are a lot of opportunities out there that can really help youth be a meaningful part of their communities. It’s a lot of planning and thinking and I think one of the things I figured out most is having conversations and saying, ‘What do you want to do?’ That’s really overwhelming, it’s not meaningful, and you’re not going to get a great answer out of that. And we’ve had really nice experiences, where we’ve partnered with some schools and we get the students out of the schools and actually try different jobs out in the community so they can actually do it and see if they like it. Because it’s very different than sitting in the classroom, talking about it rather than experiencing it.",
+        "url": "6_6.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

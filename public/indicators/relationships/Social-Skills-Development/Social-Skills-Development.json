@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Relationships",
+    "subindicatorname": "Social Skills Development"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is social skills development?",
+      "subhead": " We might know how to chat it up with our friends but have we thought about how social skills help us at school, work, and in the community? Social skills are all about knowing which ways of communicating (speaking, ASL, writing, speech-to-text, etc.) work best for you and how to use them successfully at home, school, work and in your community. This way you can tell others what you know or think, want or need! Social skills are also about listening closely to learn about what others share with you. Don’t forget, social skills include being able to work through conflicts and to negotiate with people!",
+      "bullets": "<li>What are some ways that you communicate best?</li><li>Have you practiced social skills for interviewing for a job and interacting with co-workers? What did you learn?</li><li>How do you work out conflicts that you have with other people at school, work or in the community?</li><li>Which communication styles do you want to learn how to use even better?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does social skills development include? ",
+      "subhead": "Your transition team can help you build your social skills by making sure that you….",
+      "bullets": "<li>Learn the different ways to communicate and master the ways that match your goals for life after high school</li><li>Learn how to solve conflicts and negotiate with people at home, school, work and in the community</li><li>Practice social skills in real-world situations and get feedback on how you’re doing</li><li>Have opportunities to practice speaking up for what you think, want and need</li>",
+      "image": "img4.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "GEMkfitpbLo",
+    "heading": "What are social skills all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can social skills development do for you?",
+    "subheading": "When your team supports you with building your social skills, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Communication Skills",
+      "content": "Clearly and effectively communicating your thoughts and feelings with others at home, school, work and beyond"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Listening Skills ",
+      "content": " The ability to actively listen when someone else is speaking and wait for your turn to speak"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Networking",
+      "content": "The ability to build relationships with people that lead to new opportunities you might not otherwise experience, like job opportunities"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Negotiation Skills",
+      "content": "Being able to work through social situations with other people in a respectful way while also getting what you want and need"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth ",
+        "description": "I go to work-based learning every afternoon. We learn examples of how you get a job. A big one is your attitude— how you work and how you act around others",
+        "url": "5.3.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

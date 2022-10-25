@@ -1,0 +1,559 @@
+[
+  {
+    "name": "T Planning",
+    "ALL_QIS": 1.39,
+    "ALL_sdev": [1.39, 1.51],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "Career Exploration Planning",
+        "ALL_QIS": 2.37,
+        "ALL_sdev": [2.36, 2.38],
+        "FAMILY_QIS": 2.18,
+        "FAMILY_sdev": [2.13, 2.23],
+        "YOUTH_QIS": 2.25,
+        "YOUTH_sdev": [2.21, 2.28],
+        "SH_QIS": 2.59,
+        "SH_sdev": [2.56, 2.62]
+      },
+      {
+        "name": "Postsecondary College Planning",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.9,
+        "FAMILY_sdev": [1.84, 1.97],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 2.35,
+        "SH_sdev": [2.32, 2.37]
+      },
+      {
+        "name": "Independent/Community Living",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2.13,
+        "FAMILY_sdev": [2.07, 2.19],
+        "YOUTH_QIS": 2.03,
+        "YOUTH_sdev": [1.98, 2.07],
+        "SH_QIS": 2.35,
+        "SH_sdev": [2.32, 2.38]
+      },
+      {
+        "name": "Role of School Personnel",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2,
+        "FAMILY_sdev": [1.95, 2.04],
+        "YOUTH_QIS": 2.12,
+        "YOUTH_sdev": [2.08, 2.16],
+        "SH_QIS": 2.56,
+        "SH_sdev": [2.53, 2.59]
+      }
+    ]
+  },
+  {
+    "name": "Y Development",
+    "ALL_QIS": 1.39,
+    "ALL_sdev": [1.39, 1.51],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "Self-Awareness",
+        "ALL_QIS": 1.26,
+        "ALL_sdev": [1.1, 2],
+        "FAMILY_QIS": 2.45,
+        "FAMILY_sdev": [2.41, 2.49],
+        "YOUTH_QIS": 2.5,
+        "YOUTH_sdev": [2.46, 2.54],
+        "SH_QIS": 2.43,
+        "SH_sdev": [2.4, 2.45]
+      },
+      {
+        "name": "Disability Awareness",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2.27,
+        "FAMILY_sdev": [2.22, 2.32],
+        "YOUTH_QIS": 2.34,
+        "YOUTH_sdev": [2.29, 2.38],
+        "SH_QIS": 2.37,
+        "SH_sdev": [2.34, 2.4]
+      },
+      {
+        "name": "IL Skill Development",
+        "ALL_QIS": 1.36,
+        "ALL_sdev": [1.2, 1.45],
+        "FAMILY_QIS": 2.22,
+        "FAMILY_sdev": [2.18, 2.27],
+        "YOUTH_QIS": 2.37,
+        "YOUTH_sdev": [2.33, 2.41],
+        "SH_QIS": 2.66,
+        "SH_sdev": [2.4, 2.8]
+      },
+      {
+        "name": "SD Skill Development",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2,
+        "FAMILY_sdev": [1.94, 2.05],
+        "YOUTH_QIS": 2.56,
+        "YOUTH_sdev": [2.52, 2.59],
+        "SH_QIS": 2,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SM Skill Development",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2.18,
+        "FAMILY_sdev": [2.12, 2.23],
+        "YOUTH_QIS": 2.46,
+        "YOUTH_sdev": [2.43, 2.5],
+        "SH_QIS": 2.34,
+        "SH_sdev": [2.21, 2.32]
+      },
+      {
+        "name": "Leadership Skill Development",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.95,
+        "FAMILY_sdev": [1.89, 2.01],
+        "YOUTH_QIS": 2.34,
+        "YOUTH_sdev": [2.3, 2.38],
+        "SH_QIS": 1.86,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "Youth Engagement in Transition",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2.45,
+        "FAMILY_sdev": [2.39, 2.51],
+        "YOUTH_QIS": 2.53,
+        "YOUTH_sdev": [2.48, 2.57],
+        "SH_QIS": 2.11,
+        "SH_sdev": [2.0, 2.2]
+      },
+      {
+        "name": "Role of Adult",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 2.36,
+        "FAMILY_sdev": [2.3, 2.42],
+        "YOUTH_QIS": 2.31,
+        "YOUTH_sdev": [2.27, 2.35],
+        "SH_QIS": 2.29,
+        "SH_sdev": [2.09, 2.39]
+      }
+    ]
+  },
+  {
+    "name": "P Planning",
+    "ALL_QIS": 2.06,
+    "ALL_sdev": [1.8, 2.2],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  },
+  {
+    "name": "F Engagement",
+    "ALL_QIS": 1.7,
+    "ALL_sdev": [1.6, 1.8],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  },
+  {
+    "name": "Relationships",
+    "ALL_QIS": 1.5,
+    "ALL_sdev": [1.4, 1.7],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  },
+  {
+    "name": "I Living",
+    "ALL_QIS": 1.7,
+    "ALL_sdev": [1.6, 1.8],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  },
+  {
+    "name": "CA Collaboration",
+    "ALL_QIS": 1.62,
+    "ALL_sdev": [1.5, 1.7],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  },
+  {
+    "name": "Employment",
+    "ALL_QIS": 1.32,
+    "ALL_sdev": [1.2, 1.4],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  },
+  {
+    "name": "PS Education",
+    "ALL_QIS": 0.62,
+    "ALL_sdev": [0.5, 0.75],
+    "FAMILY_QIS": 1.86,
+    "FAMILY_sdev": [1.8, 2],
+    "YOUTH_QIS": 1.86,
+    "YOUTH_sdev": [1.8, 2],
+    "SH_QIS": 1.86,
+    "SH_sdev": [1.8, 2],
+    "subIndicators": [
+      {
+        "name": "CEP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "SRSP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "ILCE",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      },
+      {
+        "name": "PCP",
+        "ALL_QIS": 1.86,
+        "ALL_sdev": [1.8, 2],
+        "FAMILY_QIS": 1.36,
+        "FAMILY_sdev": [1.8, 2],
+        "YOUTH_QIS": 1.66,
+        "YOUTH_sdev": [1.8, 2],
+        "SH_QIS": 1.66,
+        "SH_sdev": [1.8, 2]
+      }
+    ]
+  }
+]

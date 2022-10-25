@@ -1,0 +1,81 @@
+.projectbanner {
+  background: url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/connecting-communities-banner.jpg)
+    no-repeat top center / cover;
+  height: 450px;
+  padding-top: 180px;
+}
+.ProjectsListLeftImgRightBullets {
+  padding: 60px 0;
+}
+
+div#projectDetail section#connecting-communities {
+  background-image: linear-gradient(
+      rgb(0 0 0 / 10%) 100%,
+      rgb(0 0 0 / 10%) 100%
+    ),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/connecting-communities-banner.jpg) !important;
+}
+.ProjectsListLeftImgRightBullets .grid .item-a {
+  padding: 0 3%;
+  display: grid;
+  grid-template-rows: 1fr 4fr;
+  align-items: center;
+}
+.PartnersSection {
+  padding: 60px 0;
+}
+.BecomePartnerSection {
+  padding: 60px 0;
+}
+
+@media (max-width: 767px) {
+  h3.green {
+    font-size: 1.4rem;
+    line-height: 1.88rem;
+  }
+  section#tqep,
+  section#state-initiatives,
+  section#connecting-communities,
+  section#metricdev {
+    min-height: 338px !important;
+    height: auto !important;
+    padding-top: 124px !important;
+  }
+  .projectDetal .bgboxgrid {
+    display: grid;
+    grid-template-rows: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .checkli li {
+    padding-top: 8px;
+  }
+  h3.green {
+    font-size: 1.6rem;
+    line-height: 2rem;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .checkli li {
+    padding-top: 8px;
+  }
+  section#tqep,
+  section#state-initiatives,
+  section#connecting-communities,
+  section#metricdev {
+    height: 308px;
+    padding: 77px 0px !important;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+  .checkli li {
+    padding-top: 8px;
+  }
+  h3.green {
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+  }
+}

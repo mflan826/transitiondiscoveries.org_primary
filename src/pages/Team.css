@@ -1,0 +1,255 @@
+.TeamBanner {
+  background: #f7f7f7;
+  height: 350px;
+  padding-top: 75px;
+}
+.TeamBanner .grtctatbg {
+  float: left;
+  margin-top: 10px;
+}
+
+section#TeamListPage .hero-slider-content.text-left h1.slider-lead.white {
+  color: #649140 !important;
+}
+
+section#TeamListPage .breadcrumb-item + .breadcrumb-item::before {
+  color: #649140 !important;
+}
+
+.TeamBanner .hero-slider-content .breadcrumb-item span {
+  color: #000;
+}
+.TeamBanner .hero-slider-content h1,
+.TeamBanner .hero-slider-content .lead {
+  color: #000;
+}
+.teamdetail {
+  background: #f7f7f7;
+  padding: 50px 0;
+}
+.teamdetail .BlogBanner {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-column-gap: 20px;
+}
+.teamdetail .MemberInfo {
+  display: grid;
+  grid-template-rows: 1fr 2fr;
+  grid-row-gap: 20px;
+}
+.teamdetail .membername {
+  margin-bottom: 5px;
+}
+.PartnersRightBox {
+  background: url(https://transitiondiscoveries.s3.amazonaws.com/Home/trusted_by_bg.png)
+    center bottom no-repeat #fff;
+  background-size: contain;
+  border: 1px solid #eeee;
+}
+.PartnersRightBox .react-tabs__tab {
+  font-family: sans-serif;
+}
+.teamdetail .MemberInfo .SocialIcons {
+  padding: 4px 4px 0px 4px;
+  margin: 0 !important;
+  background: transparent;
+  margin-bottom: 20px !important;
+}
+.teamdetail .MemberInfo .SocialIcons li img {
+  width: 35px;
+}
+.teamdetail .BlogThumb img {
+  border: solid 2px #000;
+  box-shadow: 2px 2px 14px 2px #a19b9b4d;
+}
+.memberMoreDetail {
+  padding: 20px 0;
+}
+.memberMoreDetail ul {
+  list-style-image: url(data:image/png;base64,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) !important;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+@media (max-width: 767px) {
+  .teamname {
+    font-size: 1em;
+    min-height: 39px;
+  }
+  .teamdetail .BlogBanner {
+    grid-template-columns: auto !important;
+    margin-top: 71px;
+  }
+  .SocialIcons {
+    padding: 4px 4px 0px 4px;
+    margin-top: -26%;
+  }
+  .projectcont ul.SocialIcons li a img {
+    width: 21px;
+  }
+
+  section.PartnersSection {
+    padding-top: 10px !important;
+  }
+  .TeamMembers .horizontleIconText {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: 5fr 5fr;
+    max-width: 100%;
+    grid-gap: 2%;
+  }
+
+  section.green-text-box .grid-dark .item-a {
+    grid-template-rows: auto;
+  }
+
+  .TeamBanner .hero-slider-content h1 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 0px;
+  }
+
+  .TeamBanner .hero-slider-content .lead {
+    font-size: 1rem;
+  }
+  .col-md-6.col-lg-6.mt-minus-5 {
+    margin-top: 18px;
+  }
+  .TeamBanner ol.breadcrumb {
+    margin-bottom: 0;
+  }
+  .TeamBanner {
+    padding: 100px 0px !important;
+  }
+
+  .TeamMembers p.sub-txt.mb-3 {
+    font-size: 1rem !important;
+  }
+  .TeamMembers h3.green {
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .teamdetail {
+    background: #f7f7f7;
+    padding: 140px 0 42px 0;
+  }
+  .teamdetail .MemberInfo {
+    display: grid;
+    grid-template-rows: 1fr 1.2fr;
+    grid-row-gap: 20px;
+  }
+  .TeamBanner {
+    padding-top: 44px !important;
+    height: 448px;
+  }
+  .hero-equal-height {
+    padding: 0px;
+  }
+  .TeamBanner .col-md-6.col-lg-6.mt-minus-5 {
+    margin-top: -5%;
+  }
+  .TeamMembers {
+    padding-top: 30px;
+  }
+  .TeamMembers .horizontleIconText {
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 100%;
+  }
+  .SocialIcons {
+    padding: 6px 14px 0px 14px;
+    margin-top: -12%;
+    width: 76%;
+  }
+
+  .projectcont ul.SocialIcons li a img {
+    width: 21px;
+  }
+  .TeamBanner .hero-slider-content h1 {
+    color: #000;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0px;
+    line-height: 34px;
+  }
+
+  .TeamBanner .hero-slider-content .lead {
+    color: #000;
+    font-size: 1rem;
+  }
+  .TeamBanner .hero-slider-content.text-left {
+    padding-top: 111px;
+  }
+  .TeamBanner .col-md-6.col-lg-6.mt-minus-5 img {
+    margin-top: 177px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .partnerLogoList img {
+    width: 28%;
+  }
+  .TeamBanner {
+    padding-top: 30px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .TeamBanner {
+    padding: 45px 0px;
+  }
+  .TeamBanner .col-md-6.col-lg-6.mt-minus-5 img {
+    padding-top: 48px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1599px) {
+  .sub-txt {
+    font-size: 1.2rem !important;
+    line-height: 1.8rem;
+  }
+
+  section.hero-equal-height.pt-165.pb-150.gradient-overly-right-light.TeamBanner {
+    padding: 30px 0px !important;
+    height: auto;
+  }
+}
+@media (min-width: 1600px) and (max-width: 1800px) {
+  .TeamMembers h2.green {
+    font-size: 36px;
+  }
+  .TeamBanner {
+    padding: 8px 0px;
+  }
+  .TeamBanner .col-md-6.col-lg-6.mt-minus-5 img {
+    margin-top: 74px;
+  }
+  .sub-txt {
+    font-size: 1.3rem !important;
+    line-height: 1.6rem;
+  }
+  .TeamBanner .hero-slider-content.text-left {
+    padding: 44px 94px 44px 0px;
+  }
+  section.hero-equal-height.pt-165.pb-150.gradient-overly-right-light.TeamBanner {
+    padding: 30px 0px !important;
+    height: auto;
+  }
+}
+#TeamListPage .grtctatbg {
+  border: solid 2px #000;
+  color: #000;
+  padding: 3px 19px;
+  display: inline-flex;
+}
+.contributorBanner {
+  background: url(https://transitiondiscoveries.s3.amazonaws.com/images/static/contr-banner.jpg)
+    no-repeat top center / cover;
+  height: 450px;
+  padding-top: 114px;
+}
+.contrthumb {
+  border-radius: 50%;
+  border: none !important;
+}

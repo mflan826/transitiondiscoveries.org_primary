@@ -1,0 +1,126 @@
+{
+  "banner": {
+    "image": "Family-Engagement.jpg",
+    "imageName": "Banner-icon.png",
+    "content": "Families lead the way in planning for life after high school!",
+    "videoUrl": "https://www.youtube.com/embed/OL-Se3OblfM?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "indicator-2.png",
+    "heading": "What is Family Engagement?",
+    "content": "<h4 class='sub-txt mb-3'> Who’s part of your team for getting ready for success after high school?</h4><br>Well, it’s you (of course) but also your family, teachers, counselors and other professionals from outside of your school all working together. Your family members should be involved and they can play a big role in your success but they need support, too, just like you!<br /> <br />Your transition team should always help your family learn about the transition planning process from teachers and even other families! When they do this, your family members are able to help you compare your strengths, needs and interests with options so that you can make goals that match you best. Family members know a lot about you and your transition team should always ask them to share what they know. Just like you, your family should be able to do things that help them relax from stress in life.<br /><br /><ul class='checkli'><li>What are the ways that your family is involved in your transition planning? How could they get more involved?</li><li>Do your family members know about your goals and the classes or programs that you participate in?</li><li>What opportunities does your family have to learn from other families about things that could help you reach your goals?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "indicator-3.jpg",
+    "content": "You've got the info - Now What? Click here to find out ways to reach your goals",
+    "VideoLink": "zfDBqxMjrVg"
+  },
+  "indicatordetails": {
+    "heading": "Family Engagement",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals a reality!"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Family Engagement in Transition Planning",
+      "link": "/Family-Engagement-in-Transition-Planning",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "Icons/family-engagement-transition-planning.png"
+    },
+    {
+      "id": 2,
+      "title": "Family Information Sharing Activities",
+      "link": "/Family-Information-Sharing-Activities",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "Icons/family-information-sharing-activities.png"
+    },
+    {
+      "id": 3,
+      "title": "Peer to Peer Family Support",
+      "link": "/Peer-to-Peer-Family-Support",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "Icons/peer-to-peer-family-support.png"
+    },
+    {
+      "id": 4,
+      "title": "Family Respite",
+      "link": "/Family-Respite",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "Icons/family-respite.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Career Exploration Planning and Preparation",
+    "abcid": "career-exploration"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is career exploration planning and preparation?",
+      "subhead": "Quick, name all of the potential jobs out there... just kidding! Even if we could, would we know which match our goals, strengths and passions right away? Probably not. This is what is so great about career exploration! It helps us find which jobs we want to work in now and in the future! Career exploration includes learning about the responsibilities and benefits of different jobs. While we explore, we can start preparing for jobs too by getting internships, working with professionals in the field and taking career classes in school.",
+      "bullets": "<li>Why do you want to work?</li><li>How do you get to know yourself, like your interests, personality, preferences, strengths?</li><li>What type of support might you want or need to succeed in a job that you want?</li><li>How can you explore jobs to find out which is right for you?</li>",
+      "image": "career-exploration-img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does preparing for careers include?",
+      "subhead": "Your transition team can help you prepare for the jobs that you want by making sure that you...",
+      "bullets": "<li>Explore career options based on your personal strengths, interests, abilities and goals</li><li>Practice interview skills, social skills with co-workers, keeping track how many hours you work and managing your paycheck</li><li>Take classes in highschool and after you graduate that teach you the knowledge and skills that you’ll need for the jobs and career that you’re interested in</li><li>Work in a paid job where you also get on-going training for how to do that job</li>",
+      "image": "career-exploration-img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "rEj4ziMJGOk",
+    "heading": "What's career exploration and preparation about? Let's unpack it together!",
+    "imageName": "career-exploration-img3.png"
+  },
+  "IconTile2Heading": {
+    "heading": "What can preparing for careers do for you?",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Options",
+      "content": "Knowing how your strengths, interests and needs match up with the requirements for getting hired and succeeding in different career pathways"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Job Exploration",
+      "content": "Trying out different jobs while you’re still in highschool to figure out which match your goals, strengths and needs."
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Career Skills",
+      "content": "Knowing how to make a resume, succeed in an interview, manage work-place situations and complete tasks for a specific job"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Paid Employment",
+      "content": "Getting paid at least minimum wage in a job matches your  goals now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "Starting in 10th grade we do Planning for the Future and Start on Success. In class, my teacher every couple of weeks is like, ‘Hey, what do you want to do in your career’? You start there and you do different things every year and it builds up to an internship in your senior year. It might not be exactly what you want, but it’ll be along the line of what you’re like trying to get into. It’ll be in your field. And if you wanted to, or a different position opened up, they would move you.",
+        "url": "1.1.wav",
+        "audio": true
+      }
+    ]
+  }
+}

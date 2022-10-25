@@ -1,0 +1,86 @@
+{
+  "Banner": {
+    "imageName": "Banner.jpg",
+    "heading": "Our Partners"
+  },
+  "Partners": [
+    {
+      "id": 1,
+      "heading": "The George Washington University",
+      "link": "https://gsehd.gwu.edu/programs/masters-interdisciplinary-secondary-transition-services",
+      "content": "The George Washington University, Graduate School of Education & Human Development, Dept. of Special Education & Disabilities, Interdisciplinary Secondary Transition Services Program spearheads the Transition Discoveries Initiatives.  Within GW, the faculty and research staff have envisioned the initiative, obtained funding, and engaged community partners to carry out our vision and mission. ",
+      "RightImg": "gw-logo.jpg",
+      "RightImgAltTag": "The George Washington University Logo"
+    },
+    {
+      "id": 2,
+      "heading": "The Pennsylvania Developmental Disabilities Council (PADDC)",
+      "link": "https://www.paddc.org/",
+      "content": "The Pennsylvania Developmental Disabilities Council (PADDC) is an instrumental partner to the Transition Discoveries Initiative. In providing guidance, funding and resources, the PADDC continues to ensure that the TD initiative has the capacity to create tools and resources for young people, families and takeholders to learn about the many aspects of transition and become leaders in efforts to capitalize on what works in order to make what “could be” a reality. The Council engages in advocacy, systems change and capacity building for people with developmental disabilities and their families in order to:<br><br>       <ul class='checkli'>      <li>     Support people with disabilities in taking control of their own lives </li>       <li> Ensure access to goods, services, and supports </li>       <li>Build inclusive communities </li>       <li>Pursue a cross-disability agenda </li>       <li>Change negative societal attitudes towards people with disabilities            </li>       </ul>",
+      "RightImg": "paddc-logo.jpg"
+    },
+
+    {
+      "id": 3,
+      "heading": "The Parent Education, Advocacy and Leadership (PEAL) Center",
+      "link": "https://pealcenter.org/",
+      "content": "Parent Education, Advocacy & Leadership (PEAL) Center is a primary partner in the Transition Quality Empowerment Project, wherein they contribute knowledge and expertise in the areas of youth and family engagement. The mission of the PEAL Center is to educate and empower families to ensure that children, youth and young adults with disabilities and special health care needs lead rich, active lives as full members of their schools and communities.  ",
+      "RightImg": "peal-center.jpg"
+    },
+    {
+      "id": 4,
+      "heading": "The Pennsylvania Youth Leadership Network (PYLN)",
+      "link": "http://pyln.org/",
+      "content": "Pennsylvania Youth Leadership Network (PYLN) provides a “youth voice” in the Transition Discoveries Initiative. The mission of the is to coordinate a network that is led and driven by inclusive organizations of youth and young adults with and without disabilities across Pennsylvania. PYLN promotes advocacy, self-determination, leadership, empowerment, and service learning in the areas of transition, employment, education, and community engagement.  The PYLN Governing Board is an inclusive group of youth and young adults, aged 18-35. PYLN helps to support the development of PYLN Affiliated Groups, which build inclusive leadership skills and focus on service to their communities. ",
+      "RightImg": "pyln-logo.jpg"
+    },
+    {
+      "id": 5,
+      "heading": "The Pennsylvania Training & Technician Assistance Network",
+      "link": "https://www.pattan.net/",
+      "content": "The PA Bureau of Special Education, PA Training & Technical Assistance Network (PaTTAN) is a lead collaborator in the Transition Discoveries State Initiative.  Working with the Bureau of Special Education (BSE), Pennsylvania Department of Education (PDE), PaTTAN provides a full array of professional development and technical assistance targeted to improving student results. This professional development and technical assistance takes many forms in order to meet the varied needs of young people with disabilities, family members and the professionals who support their success after high school. ",
+      "RightImg": "Pattan-logo.jpg"
+    }
+  ],
+  "PartnersList": {
+    "heading": "Our Partners",
+    "subheading": " Our success depends on our growing web of partnerships between young people with disabilities, families and stakeholders working in schools, agencies and organizations throughout communities. ",
+    "PartnersLeftBoxImg": "ProjectsLeftBoxImg-(1).jpg",
+    "LeftBoxDesc": "Through the power of our partnerships, we work to support communities through resource development, data-driven community action planning and local leadership teams of young people with disabilities, families and stakeholders.",
+    "TabTitle1": "Schools",
+    "Tabdata1": [
+      {
+        "image": "School/Logos-1.jpg"
+      },
+      {
+        "image": "School/Logos-2.jpg"
+      },
+
+      {
+        "image": "School/Logos-4.jpg"
+      }
+    ],
+    "TabTitle2": "Organizations",
+    "Tabdata2": [
+      {
+        "image": "Organizations/Logos-1.jpg"
+      },
+      {
+        "image": "School/Logos-3.jpg"
+      },
+      {
+        "image": "Organizations/Logos-2.jpg"
+      },
+      {
+        "image": "Organizations/Logos-3.jpg"
+      }
+    ]
+  },
+  "BecomePartner": {
+    "BecomePartnerLeft": "Want-to-Become-Our-Partner.jpg",
+    "JoinUsText": "Want to Become a Partner?",
+    "Subheading": "",
+    "ProjectLinkText": "Get Connected",
+    "ProjectLink1": "/get-connected"
+  }
+}

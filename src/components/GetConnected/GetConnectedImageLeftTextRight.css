@@ -1,0 +1,130 @@
+.contentget-grid {
+  display: grid;
+  grid-template-columns: 4fr 6fr;
+  align-content: center;
+  padding: 60px 0;
+  grid-gap: 2rem;
+}
+.container.contentget-grid .item-a {
+  align-content: center;
+  display: grid;
+}
+.container.contentget-grid .item-ab {
+  display: grid;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  align-content: center;
+  z-index: 99;
+}
+.grtctatbg {
+  border: solid 2px #659141;
+  color: #2C3F1C !important;
+  padding: 3px 19px;
+  display: inline-flex;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-top: 25px;
+  float: right;
+  /* background: #63913e;
+  color: #fff;
+  width: 154px;
+  text-align: center;
+  float: right;
+  padding: 5px 10px;
+  font-size: 1.2rem;
+  font-weight: 600; */
+}
+.grtctatbg:hover,
+.grtctatbg:focus {
+  /* background: #63913e;
+  color: #fff;
+  font-weight: 600; */
+  border: solid 2px #ffffff;
+  color: #ffffff;
+  padding: 3px 19px;
+  display: inline-flex;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.float-right {
+  float: right;
+}
+
+img {
+  width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+  .owl-item .item {
+    margin-left: 10px !important;
+    padding-left: 20px !important;
+  }
+
+  .owl-dots {
+    left: -25% !important;
+    top: 38% !important;
+  }
+
+  .grtctatbg {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  h4 {
+    font-size: 1.363em !important;
+  }
+  .sub-txt {
+    font-size: 1.2rem !important;
+  }
+
+  .contentget-grid {
+    grid-template-columns: auto;
+    padding: 40px 15px !important;
+    display: block;
+  }
+  .contentget-grid img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .Stakeget-grid {
+    display: block !important;
+    grid-template-columns: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .contentget-grid {
+    display: block;
+    grid-template-columns: auto;
+  }
+
+  /*For testimonial*/
+  .owl-item .item {
+    margin-left: 0 !important;
+    background: #fff;
+    padding-left: 61px;
+  }
+  .owl-dots {
+    left: -10% !important;
+    top: 38% !important;
+  }
+  .owl-dots:before {
+    background: #64913f;
+    width: 82%;
+    position: absolute;
+    left: 16px;
+    content: "";
+    height: 1px;
+    top: 50%;
+    z-index: -1;
+  }
+  /*end of  testimonial*/
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+}
+
+@media (min-width: 1200px) and (max-width: 1600px) {
+}

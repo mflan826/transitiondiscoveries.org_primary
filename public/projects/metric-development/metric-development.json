@@ -1,0 +1,100 @@
+{
+  "Banner": {
+    "imageName": "metric-development-banner.jpg",
+    "breadcrumbLink": "Projects",
+    "heading": "Metric Development",
+    "text": "Tools created to determine what works in transition.",
+    "projectID": "metricdev"
+  },
+  "ProjectLeftBar": {
+    "headin": "Our Projects",
+    "CtaHead": "Become Our Partners",
+    "CtaLinkText": "Join Now",
+    "CtaLinkHref": "/get-connected",
+    "Leftmenu": [
+      {
+        "label": "Connecting Community",
+        "link": "/projects/connecting-communities",
+        "isActive": ""
+      },
+      {
+        "label": "TQEP",
+        "link": "/projects/tqep",
+        "isActive": ""
+      },
+      {
+        "label": "State Initiatives",
+        "link": "/projects/state-initiatives",
+        "isActive": ""
+      },
+      {
+        "label": "Metric Development",
+        "link": "/projects/metric-development",
+        "isActive": "active"
+      }
+    ]
+  },
+  "first_section": {
+    "imageName": "metric-development.jpg",
+    "heading": "Transition Discoveries Quality Indicator Metric Validation",
+    "content": "<h4 class='sub-txt mb-3'>Through collaboration with young people, families and stakeholders across the state of Pennsylvania, we have created the Transition Discoveries Quality Indicator (TDQI) Survey. This research-based tool is a powerful resource for communities to capture all of the knowledge that young people with disabilities, their families and stakeholders have about “what works” in preparing for a successful life after high school. <ul class='checkli'> <li> A single online data tool designed to measure effective transition practices (as defined by the TD framework) from the perspectives of youth with disabilities (14 - 25), families and stakeholders across schools, agencies and community partners </li> <li> Measures how often and how effective practices are across 9 domains of successful transition according to the <a href='our-framework'>Transition Discoveries Framework</a></li><li>If you would like to share your experiences through the TDQI and contribute to our metric validation process, please head over to our <a href='get-connected'>“Get Connected”</a> page!</li> </ul></p>"
+  },
+  "second_section": {
+    "heading": "Validating the TDQI    ",
+    "subheading": "Ensuring that our metric is a valid and reliable measure of effective transition",
+    "points": [
+      {
+        "image": "purpose-icon-1.png",
+        "heading": "Construct Validity",
+        "description": "Ensuring that the TDQI strongly measures both the 9 domains of the TD Framework and evidence-based practices in secondary transition"
+      },
+      {
+        "image": "purpose-icon-2.png",
+        "heading": "Reliability",
+        "description": "Ensuring that the questions on the TDQI are designed to be free of systematic sources of error that impact the trustworthiness of it’s quantitative results"
+      },
+      {
+        "image": "purpose-icon-3.png",
+        "heading": "Generalizability",
+        "description": "Ensuring that the TDQI is a valid for use by a diverse range of young people, families and stakeholders across schools, agencies and community partners "
+      },
+      {
+        "image": "purpose-icon-4.png",
+        "heading": "Stability",
+        "description": "Ensuring that the TDQI is a stable measure over time for tracking changes in the frequency and effectiveness transition practices, programs, services and opportunities "
+      }
+    ]
+  },
+  "third_section": {
+    "heading": "Project Outcomes",
+    "LeftImg": "ProjectsLeftBoxImg.jpg",
+    "subheading": "Measuring “what works” in transition according to young people, families and stakeholders    ",
+    "content": "<p class='dark'> Revolutionizing system-level data collection on transition practices and programs </p> <ul class='checkli'> <li>A practical, dynamic and accessible tool to continually tap into the knowledge of young people, families and stakeholders about what’s working in transition and what can be improved</li><li>Moving beyond compliance measures to systems-level data collection approaches that directly inform a broad range of daily practices across districts, agencies and communities</li><li>Significant contributions to research literature on methods for engaging communities of young people, families and stakeholders directly in the development of data collection metric that measure practices and inform efforts to improve transition outcomes</li> </ul>"
+  },
+  "fourth_section": {
+    "testimonialList": [
+      {
+        "title": "Denver Public Schools",
+        "description": "“Stakeholders like teachers and service providers can keep themselves in an echo chamber if they just rely on their colleagues' assessment of programming. TD prevents this by getting feedback from youth and families. It moves the needle on relevant programming improvement much more quickly that way. ”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“We’re always using data about students to make decisions about them and their families in their transition and the TD Survey really changes the game by giving us a lot more information. With this tool we get the details we’re missing that we didn't even know we missed about how we’re doing, which of our programs do well, and some things that we can change to help us be better than we are now.”"
+      },
+      {
+        "title": "Transition Stakeholder",
+        "description": "“It’s pretty powerful to have a tool that pushes us beyond compliance measures and assessments, and gives us the kind of data we can use to really make decisions about how we link programs between schools, agencies and our partners in the community.”"
+      },
+      {
+        "title": "Family Member ",
+        "description": "“The Transition Quality Empowerment project has been an incredible opportunity for me to be a Transition to Adulthood change agent not only for my son, but also my community. As a valued member of the Berks County Transition Coordinating Council, I have had the opportunity to work collaboratively with this diverse group in sharing the survey across our county which included self-advocates, caregivers/family members and professionals. The data captured and collected was powerful. It provided important insight to us as a council. We were able to identify areas of success and areas we could improve upon. Together, we had honest and difficult conversations. We brainstormed and began to devise a plan to continue sustainable change for our individuals, families, schools and community. It has truly been an honor to be a part of a project that has an impact right here at home!”"
+      }
+    ]
+  },
+  "fifth_section": {
+    "projectID": "md",
+    "heading": "",
+    "subheading": "",
+    "points": []
+  }
+}

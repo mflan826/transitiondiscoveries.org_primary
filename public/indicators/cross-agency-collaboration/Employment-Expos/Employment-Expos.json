@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Employment Expo",
+    "abcid": "employment-expos"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is an Employment Expo?",
+      "subhead": " At your high school or in your community, you may have attended a college fair or a science fair or even a resource fair at some time in your life. If you are wondering what an Employment Expo is, well it’s kind of like any of those fairs but with people and businesses that want to HIRE YOU! Under one roof there are all types of businesses that are looking to hire someone just like you!. Almost like a “job buffet” and it’s free!",
+      "bullets": "<li>What jobs would you want to learn more about at an employment expo? What do you want to learn about them?</li> <li> What things do you need to have ready if you’re going to interview at an employment expo?</li><li>What are some tips or tricks that you can use to organize all the things that you learn about different jobs by talking with professionals during an employment expo?</li>",
+      "image": "employment-expos-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What happens when you go to an employment expo?",
+      "subhead": "Your transition team can help you prepare for the jobs that you want by making sure that you...",
+      "bullets": "<li>Learn what employers are hiring in your community</li><li>Learn how to succeed in job interviews </li><li>Learn if there are employers that have specific goals to hire people with disabilities and what supports they provide to make that happen</li><li>Learn if your resume is a quality resume compared to other job seekers in your community</li><li>Have the opportunity to apply for, interview and get a job that same day</li>",
+      "image": "employment-expos-img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "HSGxOD-Wc2w",
+    "heading": "What’s an employment expo all about? Let’s unpack it!",
+    "imageName": "employment-expos-img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can attending an employment expo do for you? ",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:    "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Make Connections",
+      "content": "Find out who is hiring for jobs (especially those who are excited to hire people with disabilities) that match you and make connections with professionals that might lead to future jobs"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Learn Skills",
+      "content": "Attend trainings before you meet with employers where you learn how to make a resume, succeed in an interview and how to apply for jobs"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Get Feedback",
+      "content": "Have opportunities for you to ask employers how you did in the interview and what they think of your resume compared to other people looking for jobs. The more feedback you get on your skills, the easier it is for you to know how to best grow and improve so you can reach your employment goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Find Jobs",
+      "content": "Interview on the spot for jobs, give your resume to employers and get hired right away!"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "Every year we sponsor a mock interview and employment fair. So we have some activities along with the information we’re sharing.",
+        "url": "indicator-7-5-employment-expo.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

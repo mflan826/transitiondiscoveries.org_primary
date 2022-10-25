@@ -1,0 +1,78 @@
+{
+  "Banner": {
+    "breadcrunmbLink": "About Us",
+    "imageName": "about-us-banner-new.jpg",
+    "heading": "About the Transition Discoveries Initiative",
+    "text": "Young people with disabilities, families and the stakeholders who support them make up a powerful network of relationships, knowledge and experience for what's working in transition. Through the power of collaboration, our initiative connects these networks into a detailed road map for success."
+  },
+  "ImageAndDescriptionRow2": {
+    "heading": "Unlocking the Power of Communities",
+    "content": "<p>Here at the Transition Discoveries initiative we collaborate with communities to co-design opportunities for youth, families, and stakeholders to build on their knowledge, skills and relationships to prepare for life after high school. By doing this, everyone will be empowered to identify transition practices that work for them and design new approaches that help young people better reach their goals.<br></p><ul class='checkli'><li>Transition Discoveries creates and supports new and exciting opportunities for youth (ages 14-25) and their families to learn about making a successful transition from school to adult life</li><li>Transition Discoveries connects young people with disabilities and families with peers and stakeholders so that they have opportunities to share their experiences and connect with opportunities to reach their dreams and goals after graduation</li><li> Transition Discoveries empowers communities of young people, families and stakeholders to come together in order to identify what works and to implement community-wide action plans to improve transition practices, programs and outcomes for young people with disabilities </li></ul>",
+    "descriptionLink": "/projects/connecting-communities/",
+    "imageName": "about-img44.jpg"
+  },
+  "VideoBoxwithBG": {
+    "heading": "Watch this video to learn more about our vision, mission, and strategies to fully engage communities of young people with disabilities, families and stakeholders in the TD action planning process to improve transition practices.",
+    "VideoLink": "k-jEtURz4-A",
+    "CTALink": "/our-framework"
+  },
+  "third_section": {
+    "leftImage": "image-4.jpg",
+    "tabs": [
+      {
+        "heading": "Our Vision and Mission",
+        "text": "<p>  We often hear the phrase “systems-change” when it comes to improving the lives of young people with disabilities. Here at the Transition Discoveries initiative we understand that “systems” are defined as the web of relationships between young people, families, and stakeholders. Together we can increase access to inclusive programs, services and opportunities for reaching goals for life after high school.<br></br></p> <ul> <li> The primary focus of Transition Discoveries is to empower communities to share leadership and collaboration to plan for life after high school with young people with disabilities, their families, and stakeholders.</li> <li>We’re certain that together we can use TD’s unique multi-step model of data-driven community action planning to uncover “what’s working” in transition.</li> </ul>"
+      },
+      {
+        "heading": "Our Impact",
+        "text": "<p> Transition services are currently defined by law, regulations and policies, rather than by the individual and community-wide needs of young people with disabilities, families and stakeholders who support them. The result is often multiple systems that do not properly overlap to provide holistic opportunities and support for young people with disabilities to reach their goals for work, school and living independently now and throughout their lives.<br><br> Through our work we have developed a comprehensive collection of practical, youth and family friendly research-based tools for communities to use in building local knowledge about local transition-related supports, identifying local effective practices and programs and designing new opportunities for all young people with disabilities in the community:</p> <ul> <li> A framework of effective transition according to young people with disabilities, their families and transition stakeholders </li> <li> A community-based action planning approach to improve transition practices </li> <li> Transition lesson plans for stakeholders </li> <li> Written content, videos and tipsheets about transition for young people </li> <li> A continuously growing database of effective transition practices in communities that align with the Transition Discoveries Framework </li></ul>"
+      },
+      {
+        "heading": "Our History",
+        "text": "<p> How do we know what “good transition” looks like when we see it?  That was our guiding question when originally funded by the PA Developmental Disabilities Council (PADDC).  Through a partnership with Temple University, Institute on Disabilities, George Washington University, and the PA Youth Leadership Network we engaged young people with disabilities, their families and stakeholders in a participatory action research project.  This resulted in the the Transition Discoveries Framework and Transition Discoveries Quality Indicator Metric, all based upon the dreams and goals of young people and their families, along with transition stakeholders' view of “what’s working”. <br> <br>Over the past several years, additional PADDC funding supported the Transition Quality Empowerment Project to work with multiple communities (schools, young adults with disabilities, families, and transition stakeholders) to use the Framework and Metric to develop and implement community-based action plans to showcase exemplar practices and design new, innovative programs and opportunities. With the resources and data collected from these projects, the Transition Discoveries website and app were created. Together, they represent a one-stop shop to empower young people with disabilities, families and stakeholders to build their transition knowledge so that they can co-design community-based networks of support for all young people and families.</p> "
+      },
+      {
+        "heading": "Our Partners",
+        "text": "<p> Collaborative relationships are at the heart of the Transition Discoveries Initiative’s efforts to develop systems of effective transition practices that are driven first, foremost and always by the strengths, dreams and goals of young people with disabilities and their families. In our work, we collaborate with a broad range of partners in order to co-create new possibilities for what works in transition to adult life.</p> <ul> <li> George Washington University, Graduate School of Education & Human Development, Dept. of Special Education & Disabilities, Interdisciplinary Secondary Transition Services Program</li><li> Pennsylvania Developmental Disabilities Council (PADDC)</li><li> Parent Education, Advocacy & Leadership (PEAL) Center</li><li> Pennsylvania Youth Leadership Network (PYLN)</li><li>  PA Training & Technical Assistance Network (PaTTAN)         </li> </ul>"
+      }
+    ]
+  },
+  "ImageAndDescriptionRow": {
+    "leftIcon": "trans-icon.png",
+    "imageName": "About-us-Right.jpg",
+    "content": "The collection of tools that build bridges between where young people with disabilities are now and their goals for their future. The result places their strengths, dreams and goals at the heart of practices, programs and opportunities for success after high school."
+  },
+  "fifth_section": {
+    "ImageLinkTile": [
+      {
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "link": { "url": "#", "text": "Youth Involvement" }
+      },
+      {
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "link": { "url": "#", "text": "Family Involvement" }
+      },
+      {
+        "imageName": "shutterstock_1149343106.jpg",
+        "link": { "url": "#", "text": "Stakeholders Involvement" }
+      }
+    ]
+  },
+  "sixth_section": {
+    "ImageBtnLink": [
+      {
+        "imageName": "about-last1.jpg",
+        "heading": " Want to know more about the framework that powers us?",
+        "link": { "text": "Explore More", "url": "/our-framework" }
+      },
+      {
+        "imageName": "about-last2.jpg",
+        "heading": "Interested in seeing our mission in action?",
+        "link": {
+          "text": "Explore More",
+          "url": "/projects/connecting-communities/"
+        }
+      }
+    ]
+  }
+}

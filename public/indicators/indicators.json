@@ -1,0 +1,72 @@
+{
+  "Banner": {
+    "heading": "The Transition Discoveries Framework",
+    "text": "Preparing for life after high school takes a lot of planning, goal setting, skill building...and let’s face it, hard work! Luckily, you don’t have to do it alone! We’re here to help you identify the areas you should focus on through our Transition Discoveries Framework. ",
+    "imageName": "ourfram-banner.png"
+  },
+  "VideoAndDescriptionRow": {
+    "videoLink": "https://www.youtube.com/embed/NPtPHSyN2z0?rel=0&modestbranding=0&autohide=0&showinfo=0&controls=1",
+    "heading": "Your Guide for Change",
+    "content": "We’ve got the info, you bring your best ideas. Like branches on a tree, the Transition Discoveries framework expands to help YOU grow! Explore each transition area and turn your knowledge into action steps to lead you to success! This information helps you to learn about the opportunities you should have, and empower you to turn your dreams for the future into reality.  "
+  },
+  "HeaderRow": {
+    "heading": " The Transition Discoveries Framework",
+    "text": "Youth, families and community members spoke up about their dreams and goals and we listened! Check out these key areas for success after high school!"
+  },
+  "Indicators": [
+    {
+      "id": 1,
+      "title": "Transition Planning",
+      "slug": "transition-planning",
+      "iconImageName": "Transition-Planning.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Youth Development",
+      "slug": "youth-development",
+      "iconImageName": "Youth-Development.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Person and Family-Directed Planning",
+      "slug": "family-directed",
+      "iconImageName": "Person-Family-Directed-Planning.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Family Engagement",
+      "slug": "family-engagement",
+      "iconImageName": "Family-Engagement.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Relationships",
+      "slug": "relationships",
+      "iconImageName": "Relationships.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Independent Living and Community Engagement",
+      "slug": "independent-living",
+      "iconImageName": "Independent-Living.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cross Agency Collaboration",
+      "slug": "cross-agency-collaboration",
+      "iconImageName": "Cross-Agency-Collaboration.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Employment",
+      "slug": "employment",
+      "iconImageName": "Employment.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Postsecondary Education and Training",
+      "slug": "post-secondary-education",
+      "iconImageName": "Postsecondary-Education.jpg"
+    }
+  ]
+}

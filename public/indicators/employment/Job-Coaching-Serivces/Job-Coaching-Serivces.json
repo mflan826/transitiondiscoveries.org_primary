@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Job Coaching"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is Job Coaching",
+      "subhead": "Whenever we apply for a new job, it’s normal to be nervous about being able to successfully complete the tasks that our boss asks us to do.  Here’s the cool thing, your transition team can connect you with a professional outside of school who works with you one-on-one to teach you those complicated job skills! This professional is called a job coach and they can work with you at your job as you learn to do specific tasks, until your boss feels like you’re successfully meeting the job expectations they have. ",
+      "bullets": "<li>What are the main tasks of a job that you work now or want to work in the future?</li> <li>Have you ever gotten training on how to complete a hard task at work? What was it like? What did you learn?</li><li>When you first start working in a new job, what are three things that you would like extra help in doing?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does job coaching include?",
+      "subhead": "When your transition team makes sure that you work with a job coach who can help you learn specific job skills, you’ll",
+      "bullets": "<li>Get one-on-one training at work and while getting paid in the job that you want</li><li>Learn strategies for breaking down complicated tasks at work into smaller things that you can complete on your own</li><li>Practice workplace communication skills so that you can manage professional friendships with your co-workers</li><li>Have extra help in making sure that your co-workers and boss understand and respect your strengths, needs and disability</li>",
+      "image": "img4.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "pJd_7ccw8HU",
+    "heading": "What’s having a job coach all about? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can job coaching experiences do for you?",
+    "subheading": "When your transition team helps you experience job coaching, you will have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Task Strategies",
+      "content": "Knowledge how to break down complicated tasks at work into smaller ones that you can accomplish the bigger task independently "
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Job Skills",
+      "content": "Knowing how to do specific complicated tasks in the job that you want in a way that meets your bosses expectations"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Social Skills",
+      "content": "Knowing how to succeed in job interviews and how manage teamwork and conflicts with your co-workers"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Job Experience",
+      "content": "Having real-world, paid work experience in the field you want to work in, before you graduate high school"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "Giant Eagle is awesome to hire youth with disabilities. He’s at an independent store, but at the corporate level, they have so much support for people with disabilities. And they have hired a job coach. Giant Eagle has a job coach on staff to assist people with disabilities. But our Giant Eagle, I think they just learn from corporate, because it is an independent store. And they have always had natural supports in place for him. He works 25 hours and gets there by Access Paratransit.",
+        "url": "8.9.mp4",
+        "audio": true
+      }
+    ]
+  }
+}

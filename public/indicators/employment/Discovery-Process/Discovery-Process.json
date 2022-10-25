@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Discovery Process"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is the discovery process",
+      "subhead": "Ever been in a meeting to plan your future and thought “this would be easier if everyone just knew about all the things that I do besides school?” We’ve all been there! The discovery process is a step-by-step way that your transition team can use to build the ultimate profile of all things you. Your team will ask you which people know you best and then have them to share (sometimes at your planning meetings) about what you’re good at and which new skills you might learn to reach your goals.",
+      "bullets": "<li>Name three things about young people that all people on a transition team should take the time to learn about!</li> <li>Which adults in your life would be the best people to tell your transition team about what you’re good at and what you can learn how to do better?</li><li>Have you ever shared your strengths, goals, preferences and interests with your teachers and transition team? What was it like?</li>",
+      "image": "img3.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does the discovery process include?",
+      "subhead": "When your transition team makes sure that ",
+      "bullets": "<li>You have opportunities to share about your goals, strengths and needs</li><li>Your parents have opportunities to share about who you are and what you do best</li><li>Other people who know you really well have a chance to tell your transition team what you do well and any things that you could learn how to do</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "0RBjU6u-VvI",
+    "heading": "What’s the discovery process all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can the discovery process do for you?",
+    "subheading": "When your transition team learns about you from the people who know you best, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Employment Plan",
+      "content": "You’ll have a plan for how to make sure that a job has all the supports that you need to succeed"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Personalized Planning",
+      "content": "Having a transition team who knows about your strengths, interests and needs outside of school, and can help you figure out your plan based on who you are"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Self-Determination",
+      "content": "Knowing more about what you’re good at doing at home, work and in the community so that you can make plans to get even better and reach new goals"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Personalized Program",
+      "content": "Having a transition team who can help you make a program of classes and experiences that builds up your skills at home, work and in the communtiy"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "In Discovery we’re focusing on six steps right now to find his strengths, what he likes, who’s involved, who can point out different things that he can do. You know, listening to his siblings tell things that they can get him to do. Pulling together everyone that’s in his life and listening to what they’ve noticed that mom didn’t notice. And it goes on into finding that perfect fit in the community for a job. If he likes to organize things, he knows his letters and numbers, the library is very precise, so could he do something like that? Stocking shelves.",
+        "url": "8_5.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

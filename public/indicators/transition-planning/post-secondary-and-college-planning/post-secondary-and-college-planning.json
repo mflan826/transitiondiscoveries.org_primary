@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Postsecondary and College Planning",
+    "abcid": "post-secondary-college"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is Post Secondary and College Planning?",
+      "subhead": "What are your hopes and dreams for the future? Do you want to be a scientist? A teacher? A business owner? Postsecondary education will help you build the knowledge and skills that you’ll need to get into the career that you’re most passionate about! There are many options for education and training after high school, and college is just one of them! Your transition team will help you figure how these different programs and options match your strengths, goals, interests and needs!",
+      "bullets": "<li>What courses are you good at? List which of your current classes are your favorites in school. (Pick 2-3, or more if you’d like!)</li><li>What are your interests? What jobs might match up with them?</li><li>What’s your dream job after high school? Visualize yourself working there, what does it look like?</li><li>Have you and your transition team mapped out where you will continue education after high school? What did you decide?</li>",
+      "image": "post-secondary-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does post secondary and college planning include?",
+      "subhead": "Your transition team can help you prepare for more education and training after high school by making sure that you...",
+      "bullets": "<li>Learn about different options for more education or training after high school and how they match your strengths, needs and goals</li><li>Create a schedule mapping out when you will participate in classes, programs and training that get you ready for the training or college program you want to complete</li><li>Practice filling out an application, creating a resume and interviewing for a college or training program</li><li>Connect with current employees in positions you are interested in so that they can share more information about what they did to be successful in their training and college experiences</li>",
+      "image": "post-secondary-img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "mbYJpHAyGtM",
+    "heading": "What's postsecondary and college planning all about? Let's unpack it together!",
+    "imageName": "post-secondary-img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can post secondary and college planning lead to for you?",
+    "subheading": "When your transition team supports you, you’ll have:"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Your Plan",
+      "content": "A detailed plan for how you’ll prepare in high school for the training or college program after graduation that matches your strengths, goals and needs."
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Prerequisites",
+      "content": "You will have the classes, skills, knowledge and experiences needed to get accepted into a training or college program that matches your goals"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Postsecondary Skills",
+      "content": "Knowing strategies for completing your assignments, including managing your time so that you complete all of your assignments"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Career Skills",
+      "content": "You will have the specific knowledge and skills to get hired and to be successful in the career that you want"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "Ultimately I’d like to go to a school for vocal performance. I can’t apply until next year but I started to take courses I need. I’ve sang in three credit choirs and then just my regular concert choir. College is extremely competitive there and they have about a six-person acceptance rate so you definitely have to prepare ahead of time. You have to keep your grades up. After getting into college you have to keep your grades up, take your teaching and internship seriously and then when you’re finished with that you start a career. In most cases, you would start in the chorus of an opera company, then you stay there for about three to four years then you get moved up into a soloist position and you usually stay there for about one to two years and then after that you get moved up into a principal position through a signed contract.",
+        "url": "Voiceover-Indicator-1.2.wav",
+        "audio": true
+      }
+    ]
+  }
+}

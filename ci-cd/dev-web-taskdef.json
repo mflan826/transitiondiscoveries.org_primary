@@ -1,0 +1,39 @@
+[
+  {
+    "name": "web",
+    "image": "581641538996.dkr.ecr.us-east-1.amazonaws.com/web:latest",
+    "memoryReservation": 512,
+    "portMappings": [
+      {
+        "containerPort": 3000,
+        "hostPort": 3000,
+        "protocol": "tcp"
+      }
+      
+    ],
+   "logConfiguration": {
+      "logDriver": "awslogs",
+      "options": {
+        "awslogs-group": "/ecs/web-dev",
+        "awslogs-region": "us-east-1",
+        "awslogs-stream-prefix": "ecs"
+        }
+    },
+    "environment": [
+      {
+          "name": "REACT_APP_URL",
+          "value": "http://dev.transitiondiscoveries.org/"
+      },
+      {
+        "name": "REACT_APP_S3_URL",
+        "value": "https://test-prod-transitiondiscoveries.s3.amazonaws.com/"
+      },
+      {
+      "name": "REACT_APP_API_URL",
+      "value": "http://dev.cms.transitiondiscoveries.org/"
+      }
+
+  ]
+  }
+
+ ]

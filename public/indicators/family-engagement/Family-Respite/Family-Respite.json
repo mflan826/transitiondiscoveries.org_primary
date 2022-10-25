@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Family Respite",
+    "subindicatorname": "Support and rest for your family members"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is family respite?",
+      "subhead": "Have you ever felt that the adults in your life could use a good vacation? Family respite is when your family members have a chance to take a break from demands of everyday life and do something relaxing while also ensuring you (and your siblings) are safe and cared for. You might even try out some new experiences outside of the house while they rest!",
+      "bullets": "<li>What would family respite look like to you and your family?</li><li>List some benefits for your family members to get some rest and relaxation</li><li>What are some ways you benefit when your family members get to take a break for a day or a weekend? </li><li>Have your family members ever had respite? What cool things did you do during it?</li>",
+      "image": "img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What does family respite include? ",
+      "subhead": "Your transition team can help your family with respite by making sure that they...",
+      "bullets": "<li>Identify safe and supportive care for you (and your siblings) while your family takes a break</li><li>Can go to parent training or support groups allowing them to communicate their thoughts and feelings</li><li>Feel supported by your transition team and community members who take care of you</li><li>Do not have to pay for opportunities to relax and lower their stress</li>",
+      "image": "img3.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "C5jvgpxGxIY",
+    "heading": "What’s family respite? Let’s unpack it together!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can family respite do for you?",
+    "subheading": "When your transition team helps your family with respite, you will all have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Individualized Care",
+      "content": "Identifying opportunities to deal with stress and relax that are based on you and your family’s individual needs "
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Safe support ",
+      "content": "Ensuring that you and your family feel safe about who spends time with you and takes care of you while your family members take a break"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Community Supports",
+      "content": "Allowing your family members to connect and share with other members in the community in a safe and supportive way"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Training Opportunities",
+      "content": "Family members are offered opportunities to access trainings during respite so that they know how to support you the best ways possible"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "I found a camp called Camp Lee Mar where my son went for seven weeks in the summer, and it’s expensive, but I’ve been able to piece together stuff from the school, and from the county, and from other places. That made a world of difference to him, to get him on his own and he started going when he was 12. It was a nice break for my husband and me, to re-energize.",
+        "url": "4_4.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

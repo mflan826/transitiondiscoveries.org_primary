@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Independent Living and Community Engagement",
+    "subindicatorname": "Planning for Future Living Arrangements"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is planning for future living arrangements?",
+      "subhead": "There are so many factors that go into deciding how you might live by yourself, with friends, family or a partner. No matter how and where you want to live, it’s going to depend on many things, especially where you want to work, get more school or training after high school and how much money you have. Your hobbies, friends, family and interests also impact where and how you want to live. Sometimes you might need to figure out how where you want to live can be changed to be accessible for your disability - it’s totally possible!",
+      "bullets": "<li>What goals, strengths, needs and priorities might influence where and how you live after high school and in the future?</li><li>Alright, so imagine that you’ve graduated high school and you’re living where you want, how you want. What does it look like? Describe your ideal situation!</li><li>What are three things that you want to accomplish or learn how to do in order to make your ideal living situation a reality?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does planning for future living arrangements include?",
+      "subhead": "Your transition team can help you explore living arrangements by making sure that you...",
+      "bullets": "<li>Explore all of the different options out there for living independently after high school</li><li>Know about how your strengths, goals, needs and priorities match up with different living options</li><li>Are able to advocate for what your ideal situation is for living independently</li><li>Know how to apply for different housing options and complete all of the requirements for getting the place that you want to live in</li><li>Know about different organizations and programs that can assist you with things like managing your health, home and paying for where you live</li>",
+      "image": "img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "IoIy3uQLx-s",
+    "heading": "What’s planning for living arrangements? Let’s unpack it!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can preparing for future living arrangements do for you?",
+    "subheading": "When your transition team supports you in planning for how and where you want to live, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Home Options",
+      "content": "Knowing about and having access to all of the different living arrangements that match your strengths, needs and priorities"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Home Supports",
+      "content": "Knowing about programs or supports that you might need to make your ideal living situation a reality"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Skill Building",
+      "content": "Being able to apply for different housing options now and in the future as your goals change"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Housing Goals",
+      "content": "Having clear goals for how and where you want to live after high school and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "After high school, I want to make sure everything is planned: going to college, living on my own, and then finding a job.",
+        "url": "6.3.wav",
+        "audio": true
+      }
+    ]
+  }
+}

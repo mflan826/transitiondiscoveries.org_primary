@@ -1,0 +1,171 @@
+.activitylessonsbanner {
+  background: #f7f7f7;
+}
+.activitylessonsbanner h1,
+.activitylessonsbanner .active {
+  color: #649140 !important;
+}
+.activitylessonsbanner .breadcrumb-item a {
+  color: #000 !important;
+}
+.activitylessonsbanner p {
+  color: #000;
+}
+.projectbanner {
+  background: url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/connecting-communities-banner.jpg)
+    no-repeat top center / cover;
+  height: 450px;
+  padding-top: 180px;
+}
+#projectDetail .owl-carousel.owl-theme.owl-carousel.owl-loaded.owl-drag {
+  text-align: center;
+}
+#metricdev {
+  background-image: linear-gradient(
+      rgb(0 0 0 / 10%) 100%,
+      rgb(0 0 0 / 10%) 100%
+    ),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/metric-development-banner.jpg) !important ;
+
+  height: 450px;
+  padding-top: 180px;
+}
+
+#tqep {
+  background-image: linear-gradient(
+      rgb(0 0 0 / 10%) 100%,
+      rgb(0 0 0 / 10%) 100%
+    ),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/tqep-banner.jpg) !important;
+  /* background: url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/tqep-banner.jpg)
+    no-repeat top center / cover; */
+  height: 450px;
+  padding-top: 180px;
+}
+
+#state-initiatives {
+  background: linear-gradient(rgb(0 0 0 / 10%) 100%, rgb(0 0 0 / 10%) 100%),
+    #0d2238
+      url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/Projects/images/state-initiatives-banner1.png)
+      bottom center no-repeat !important;
+  height: 450px;
+  padding: 146px 0px;
+  background-size: contain !important;
+}
+#projectDetail img.quote-icon {
+  text-align: center;
+  margin: 0 auto;
+}
+
+div#success-stories .row {
+  position: relative;
+  overflow: hidden;
+}
+
+div#success-stories .owl-dots {
+  transform: rotateZ(0deg) !important;
+  position: absolute !important;
+  left: 10% !important;
+  top: 85% !important;
+}
+
+#projectDetail h5.greencolor {
+  text-align: center;
+}
+
+#projectDetail
+  .owl-carousel.owl-theme.owl-carousel.owl-loaded.owl-drag
+  .owl-dots {
+  transform: translate(-50%, 0) !important;
+  position: absolute !important;
+  left: 50% !important;
+}
+
+#projectDetail .BlogThumb img {
+  border-radius: 10px;
+  border: solid 2px #fff;
+  padding: 8px;
+}
+div#success-stories h4.lead-txt.dark-green.mb-3 {
+  font-weight: 600;
+}
+@media screen and (max-width: 480px) {
+  .getconnectedbanner {
+    background-position: bottom left !important;
+  }
+}
+
+@media (max-width: 767px) {
+  div#success-stories .owl-dots {
+    left: 7% !important;
+    top: 94% !important;
+  }
+  h4 strong.green,
+  h3 strong.green {
+    font-size: 1.3rem !important;
+  }
+  div#success-stories h4.lead-txt.dark-green.mb-3 {
+    font-size: 1.4rem !important;
+  }
+  div#career-exploration h1.slider-lead.white {
+    font-size: 1.4rem !important;
+    line-height: 1.8rem !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .storybanner {
+    background: url(https://transitiondiscoveries.s3.amazonaws.com/images/static/story-banner.jpg)
+      no-repeat top center / cover !important;
+    background-position: 0px 61px !important;
+  }
+  .eventsbanner {
+    height: 450px !important;
+    padding-top: 122px !important;
+  }
+  h4 strong.green,
+  h3 strong.green {
+    font-size: 1.6rem !important;
+  }
+  .subindicator-banner .transi-bx {
+    padding: 152px 40px !important;
+  }
+  div#success-stories .owl-dots {
+    top: 90% !important;
+  }
+  .Gallerybanner {
+    background-position: 0px 101px !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .subindicator-banner .transi-bx {
+    padding: 152px 40px !important;
+  }
+  div#success-stories h4.lead-txt.dark-green.mb-3 {
+    font-size: 1.4rem !important;
+  }
+  div#success-stories .col-lg-7 {
+    position: relative;
+    top: -40px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .subindicator-banner .transi-bx {
+    padding: 152px 40px !important;
+  }
+  div#success-stories h4.lead-txt.dark-green.mb-3 {
+    font-size: 1.4rem !important;
+  }
+  div#success-stories .col-lg-7 {
+    position: relative;
+    top: -40px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+  .subindicator-banner .transi-bx {
+    padding: 108px 100px 248px 100px !important;
+  }
+}

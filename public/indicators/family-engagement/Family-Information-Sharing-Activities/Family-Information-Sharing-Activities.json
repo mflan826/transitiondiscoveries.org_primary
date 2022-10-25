@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Family Engagement",
+    "subindicatorname": "Family Information Sharing Activities "
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are family information sharing activities?",
+      "subhead": "Have you and your family ever been given a lot of information about your transition and don’t know where to start? Well, it’s your transition team’s job to break it all down so that you and your family understand each step of the transition planning process. How about finding new information about planning your transition that you and your family want to learn more about? Think of your transition team like your own person “Google” for planning for life after high school! Ask them today! Your team can help you find information that helps you understand it.",
+      "bullets": "<li>Imagine that we’re making a playlist of our favorite places to learn about planning for life after high school, what should we include?</li><li>Have you ever looked at information about transition planning your family? What did you find out?</li><li>Does your transition team share information with your family about opportunities that match your goals? What have you learned from them?</li><li>When your family has questions about opportunities, does your transition team help everyone understand what it is and how to sign up?</li>",
+      "image": "img2.png"
+    },
+    {
+      "id": 2,
+      "heading": "What can family information sharing activities include? ",
+      "subhead": "Your transition team should make sure that you and your family",
+      "bullets": "<li>Understand your rights in school, including your IEP, and the rights that you have when you graduate</li><li>Know about programs and classes that your school offers to help you reach your goals</li><li>Build relationships with professionals who can teach your family about transition </li><li>Know about which outside organizations and agencies can help you plan different aspects of your life</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "WgFaxiwBSs4",
+    "heading": "The Guide is available to youth, families, and transition stakeholders to create pathways to success for transition youth.",
+    "imageName": "img4.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can sharing information with families do for you?",
+    "subheading": "When your transition team supports you and your family, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Relationship Building",
+      "content": "Gaining respect and building trusting relationships with professionals in and outside of your school"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Resource Sharing",
+      "content": "Getting access to information that supports your transition planning at each stage of your life"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Transition Knowledge",
+      "content": "Learning and understanding the parts of transition planning and services that are available to you"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Planning Skills",
+      "content": "Knowing about your support options and being able to make a plan to achieve your goals now and in the future"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age yout",
+        "description": "We’re trying to learn some things about the IEP and what a school could offer, what is available vocationally for the next couple years. We’ve got a long way to go, we need to put some basic skills in place and some basic set of skills for him so that it’s easier for him and he can transition.",
+        "url": "4.2Voiceover.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

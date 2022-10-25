@@ -1,0 +1,126 @@
+{
+  "banner": {
+    "image": "post-secondary-education.jpg",
+    "imageName": "post-secondary-banner-icon.png",
+    "content": "Learning after high school will help get you where you want to go!",
+    "videoUrl": "https://www.youtube.com/embed/F-6nphy9mdw?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=1"
+  },
+  "ImageAndDescriptionRow": {
+    "imageName": "post-secondary-img1.png",
+    "heading": "What is Post Secondary Education?",
+    "content": "A lot of the time, the job that you might want will require extra education or training after you graduate high school. This can help you get a certification, credential or degree that makes you really competitive to get hired in the job and career that you want. Getting more education or training can also help you get promoted to more advanced jobs in the future and it helps you learn important skills for being independent!<br /> <br />Your transition team can help you explore options for more education that match your strengths, needs, interests and employment goals. They’ll guide you through the application process and your rights to extra support as a student with disabilities. Sometimes your team can even help you apply some of your classes from highschool to a training or college program!<br /><br /><ul class='checkli'><li>Have you talked with your transition team about different options for more education or training after high school and how they match your strengths, needs and goals?</li><li>What are the training or education requirements to get hired in the job that you want to work in?</li><li>How do you get support for your disability needs when you’re in training a college program?</li><li>What are some ways that you can get help with paying for a training or college program?</li></ul>"
+  },
+  "indicatorvideobox": {
+    "image": "post-secondary-img2.jpg",
+    "content": "You've got the info - Now What? Click here to find out ways to reach your goals",
+    "VideoLink": "GRo8gRQ809Y"
+  },
+  "indicatordetails": {
+    "heading": "Postsecondary Education",
+    "content": "Click below to learn about all of the different things that you and your transition team can do to make your goals a reality!"
+  },
+  "subIndicators": [
+    {
+      "id": 1,
+      "title": "Pre-College Experience Programs",
+      "link": "/Pre-College-Experience-Programs",
+      "text": "",
+      "iconImageName": "arrow1.png",
+      "imageName": "icon/pre-college-experience-programs.png"
+    },
+    {
+      "id": 2,
+      "title": "College-Based Transition Programs",
+      "link": "/College-Based-Transition-Programs",
+      "text": "",
+      "iconImageName": "arrow2.png",
+      "imageName": "icon/college-based-transition-programs.png"
+    },
+    {
+      "id": 3,
+      "title": "Postsecondary Education Programs",
+      "link": "/Postsecondary-Education-Programs",
+      "text": "",
+      "iconImageName": "arrow3.png",
+      "imageName": "icon/postsecondary-education-programs.png"
+    },
+    {
+      "id": 4,
+      "title": "Postsecondary Career Training Programs",
+      "link": "/Postsecondary-Career-Training-Programs",
+      "text": "",
+      "iconImageName": "arrow4.png",
+      "imageName": "icon/postsecondary -career-training-programs.png"
+    }
+  ],
+  "TextAndIconRow": {
+    "heading": "Implementing Transition Discoveries",
+    "title": "The Science Behind Data-Driven Community Action Planning",
+    "textAndIcons": [
+      {
+        "id": 1,
+        "text": "Their Voices",
+        "iconImageName": "/images/hit-icon1.png"
+      },
+      {
+        "id": 2,
+        "text": "Their Stories",
+        "iconImageName": "/images/hit-icon2.png"
+      },
+      {
+        "id": 3,
+        "text": "Their Future",
+        "iconImageName": "/images/hit-icon3.png"
+      }
+    ]
+  },
+  "RelatedVideosRow": {
+    "heading": "Related Videos",
+    "relatedVideos": [
+      {
+        "id": 1,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 2,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      },
+      {
+        "id": 3,
+        "videoLink": "youtube.com",
+        "imageName": "http://ksabnabomed.info/transition/img/hm-img6.jpg",
+        "title": "The Science behind Data-Driven Community"
+      }
+    ]
+  },
+  "GetInvolvedRow": {
+    "headerRow": {
+      "heading": "Get Involved",
+      "text": "The Science behind Data Driven community action planning"
+    },
+    "imageLinkTiles": [
+      {
+        "id": 1,
+        "imageName": "group-of-multiethnic-students-on-graduation-day-DAC4PKQ.jpg",
+        "linkUrl": "",
+        "linkText": "Youth Involvement"
+      },
+      {
+        "id": 2,
+        "imageName": "family-spending-time-together-at-home-JGP6CJR.jpg",
+        "linkUrl": "",
+        "linkText": "Family Involvement"
+      },
+      {
+        "id": 3,
+        "imageName": "shutterstock_1149343106.jpg",
+        "linkUrl": "",
+        "linkText": "Stakeholders Involvement"
+      }
+    ]
+  }
+}

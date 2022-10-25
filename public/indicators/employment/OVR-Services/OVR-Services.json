@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "OVR Services "
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What are OVR services?",
+      "subhead": "Close your eyes and imagine yourself in your dream career. Now imagine the skills, knowledge, and steps you need to be successful at that career. Does this feel a little overwhelming? That’s okay! Depending on your goals and needs, a Vocational Rehabilitation counselor (Voc Counselor) can help you in high school to map out the skills, knowledge and for your future career. A voc counselor can help you to discover different jobs that align with your interests and give you training for skills needed at that job. They can also help you with writing a resume, writing a cover letter, or interviewing",
+      "bullets": "<li>What are you interested in? What careers or jobs relate to these interests?</li> <li>What skills and responsibilities are required for the job or career that you want? Do you need to learn how to do any of these?</li><li>How could a voc counselor support you with getting hired in the job or career that you want?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What do OVR services include?",
+      "subhead": "Your transition team can help you explore what OVR services can look like for you by making sure that you",
+      "bullets": "<li>Are set up with a Vocational Rehabilitation counselor to work with your transition team to support your career preparation.</li><li>Work with your voc counselor to create a list of careers that align with your interests, strengths, skills, and knowledge.</li><li>Create a resume and practice an interview with the support of your voc counselor. </li><li>Practice employment skills such as writing and checking emails, socializing with coworkers, depositing a check, and many more!</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "IwWNuaqgdac",
+    "heading": "What are OVR services? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can OVR services do for you?",
+    "subheading": "When your transition team helps to incorporate a voc counselor into your transition plan, it helps you with"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Knowledge ",
+      "content": "Using your interests, preferences, values, and strengths to find career options that you will be successful in"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Interview Skills",
+      "content": "Learning how to talk confidently about your strengths and experience during an interview will help you to show employers why they want you on their team"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Job Skills",
+      "content": "Learning the skills and knowledge required to meet the responsibilities of the job that you want"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Social Skills ",
+      "content": "Interacting with peers, coworkers, and supervisors helps you to get support you need at work while also working together to help the whole team"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "OVR talks to you about what you want to do after high school. They work with me and my teachers to help me set goals. If you want to go to college to help you get ready for a job, they might be able to help. If you want to get a job right after high school, they’ll help you with that. They’re talking about your needs and what you want to do.",
+        "url": "8.8.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

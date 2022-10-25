@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Relationships",
+    "subindicatorname": "Friendship"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is friendship? ",
+      "subhead": "One of the best things that you can do to plan your life after high school is to have a best friend who is doing the same thing, too. There’s so much to learn from them, like what different classes, programs and jobs have been like that they tried but you have tried yet. You can get the insider info on what you might want to try and things you’ll want to avoid. No matter what you’ll definitely want to have friends who help you through challenges, stand up for you and respect you as you plan your future.",
+      "bullets": "<li>If you could design the “world’s best friend”, what would their personality be like?</li><li>Think about all of your close friends right now, what are the top things that they do to support you?</li><li>Have you and your friends ever talked about ways to make moves toward your future goals? How about accomplishing things together? How has that helped you?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does friendship include? ",
+      "subhead": "Your transition team can help you build healthy friendships by making sure that you….",
+      "bullets": "<li>Connect and meet with other young people in and outside of school who share the same interests and experiences</li><li>Help you work through challenging situations with friends - it’s not always easy!</li><li>Have a lot of opportunities to meet other young people from a bunch of different backgrounds and experiences, including peers who might have disabilities</li><li>Know how to set healthy boundaries of trust and respect with your peers</li>",
+      "image": "img4.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "AZuVzLWo0LM",
+    "heading": "What are friendships all about? Let's Unpack It!",
+    "imageName": "img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can friendships do for you?",
+    "subheading": "When your transition team supports you with friendships, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Healthy Relationships ",
+      "content": "Knowing what strong, safe and healthy relationships are and how to build them with people your age"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Communication Skills ",
+      "content": "The ability to communicate and get along with others who have different experiences, backgrounds and communication styles than you do"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Setting Goals",
+      "content": "Peers who you can bounce ideas off about goals you’re creating or yourself, like work, getting more education after high school and living independently"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Teamwork",
+      "content": "Having close friends that you can work together with to make your goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "My biggest fear is being tricked into friendship. A lot of friends, you’ll think they’re your friends and find out later that they’re not. What I want in my future is to make friends, get to know each other, hang out, and have fun!",
+        "url": "5.1.wav",
+        "audio": true
+      }
+    ]
+  }
+}

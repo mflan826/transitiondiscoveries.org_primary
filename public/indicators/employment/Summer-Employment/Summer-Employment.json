@@ -1,0 +1,79 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Summer Employment"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is summer employment? ",
+      "subhead": "One of the benefits of being a high school student is that you get a few months off, aka summer vacation! This is a great time to recharge, but also a great time to have a summer job to keep up with job skills. Summer jobs can be paid or unpaid. It’s a great way to make connections with different people, practice your social skills, and fine tune career skills (like interviewing and managing tasks). There are also many options for what you can do during the summer that won’t take away from it feeling like a “break”.",
+      "bullets": "<li>What skills do you have right now? How could you use these skills in a summer job?</li> <li> Make a list of activities you like to do in the summer. Can you think of any job opportunities that have to do with these activities?</li><li>What places near your house would be interested in having a job with during the summer? Do you need skills or support to succeed there?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does summer employment include?",
+      "subhead": "Your transition team can help you explore what summer employment can look like for you by making sure that you",
+      "bullets": "<li>Think about your interests, strengths, needs and preferences for working</li><li>Research different programs and jobs during the summer that are in your community and figure out how the match up with you</li><li>Create a resume, fill out the application for various summer jobs, and practice for the job interview. </li><li>Map out transportation you might need during the summer to get to and from a summer job</li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "scfFA1j46-M",
+    "heading": "What are summer jobs all about? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can summer employment do for you? ",
+    "subheading": "After applying to summer jobs, practicing job skills and planning your summer routine, you’re have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Skills ",
+      "content": "Knowling how to find a job, fill out an application, create a resume, and successfully manage responsibilities at work. "
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Social Skills ",
+      "content": "Interacting with peers and coworkers to navigate various conversations and situations to be a team player in the workplace. "
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Networking ",
+      "content": "Meeting people with various experiences and knowledge to build up your skills and help support you in the future as your dreams and goals change and grow. "
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Paid Employment ",
+      "content": "Getting paid for your skills and knowledge gives you money to you do the things that you want to do and gets you experience for future jobs"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth1",
+        "description": "“I’m learning skills for work. I do workshops through the IU to learn about jobs. I really like woodshop. Cutting, sanding, drilling, and digging holes. I’ve been doing that since the beginning of the year. As part of this program, I go to work. I did three days last year. My first one, on Monday, I worked at woodshop. Tuesday, I went to Blue Mountain ski resort last year. Third I went to the IU. And then this year I did two days at the IU workshop learning soft skills and hard skills.”"
+      },
+      {
+        "title": "Transition-age youth2",
+        "description": "“I’m learning skills for work. I do workshops through the IU to learn about jobs. I really like woodshop. Cutting, sanding, drilling, and digging holes. I’ve been doing that since the beginning of the year. As part of this program, I go to work. I did three days last year. My first one, on Monday, I worked at woodshop. Tuesday, I went to Blue Mountain ski resort last year. Third I went to the IU. And then this year I did two days at the IU workshop learning soft skills and hard skills.”"
+      },
+      {
+        "title": "Transition-age youth3",
+        "description": "“I’m learning skills for work. I do workshops through the IU to learn about jobs. I really like woodshop. Cutting, sanding, drilling, and digging holes. I’ve been doing that since the beginning of the year. As part of this program, I go to work. I did three days last year. My first one, on Monday, I worked at woodshop. Tuesday, I went to Blue Mountain ski resort last year. Third I went to the IU. And then this year I did two days at the IU workshop learning soft skills and hard skills.”"
+      },
+      {
+        "title": "Transition-age youth4",
+        "description": "“I’m learning skills for work. I do workshops through the IU to learn about jobs. I really like woodshop. Cutting, sanding, drilling, and digging holes. I’ve been doing that since the beginning of the year. As part of this program, I go to work. I did three days last year. My first one, on Monday, I worked at woodshop. Tuesday, I went to Blue Mountain ski resort last year. Third I went to the IU. And then this year I did two days at the IU workshop learning soft skills and hard skills.”"
+      }
+    ]
+  }
+}

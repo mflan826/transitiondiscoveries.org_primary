@@ -1,0 +1,311 @@
+{
+  "header": {
+    "topHeader": {
+      "text": "Follow Us",
+      "links": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com/transitiondisc1/"
+        },
+        {
+          "network": "twitter",
+          "url": "https://twitter.com/TransitionDisc1"
+        },
+        {
+          "network": "instagram",
+          "url": "https://www.instagram.com/transitiondiscoveries/?hl=en"
+        },{
+          "network": "youtube",
+          "url": "https://www.youtube.com/channel/UC9_7KJVw_3F8po8VgS6iOZA"
+        }
+      ]
+    },
+    "menu": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "About Us",
+        "submenu": [
+          {
+            "title": "About Us",
+            "link": "/aboutus"
+          },
+          {
+            "title": "Our Team",
+            "link": "/our-team"
+          },
+          {
+            "title": "Our Partners",
+            "link": "/partners"
+          },
+          {
+            "title": "Our Contributors",
+            "link": "/contributors"
+          },
+          {
+            "title": "FAQs",
+            "link": "/faqs"
+          },
+          {
+            "title": "Policies",
+            "link": "/policies/privacy-policies/"
+          }
+        ]
+      },
+      {
+        "title": "Framework",
+        "submenu": [
+          {
+            "title": "Our Framework",
+            "link": "/our-framework"
+          },
+          {
+            "title": "Transition Planning",
+            "link": "/our-framework/transition-planning"
+          },
+          {
+            "title": "Youth Development",
+            "link": "/our-framework/youth-development"
+          },
+          {
+            "title": "Person and Family Directed Planning",
+            "link": "/our-framework/family-directed"
+          },
+          {
+            "title": "Family Engagement",
+            "link": "/our-framework/family-engagement"
+          },
+          {
+            "title": "Relationships",
+            "link": "/our-framework/relationships"
+          },
+          {
+            "title": "Independent Living & Community Engagement",
+            "link": "/our-framework/independent-living"
+          },
+          {
+            "title": "Cross Agency Collaboration",
+            "link": "/our-framework/cross-agency-collaboration"
+          },
+          {
+            "title": "Employment",
+            "link": "/our-framework/employment"
+          },
+          {
+            "title": "Post Secondary Education",
+            "link": "/our-framework/post-secondary-education"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "link": "/resources"
+      },
+      {
+        "title": "What Works",
+        "link": "/what-works"
+      },
+      {
+        "title": "Projects",
+        "submenu": [
+          {
+            "title": "Connecting Communities",
+            "link": "/projects/connecting-communities"
+          },
+          {
+            "title": "TQEP",
+            "link": "/projects/tqep"
+          },
+          {
+            "title": "State Initiatives",
+            "link": "/projects/state-initiatives"
+          },
+          {
+            "title": "Metric Development",
+            "link": "/projects/metric-development"
+          }
+        ]
+      },
+      {
+        "title": "Whats Happening",
+        "submenu": [
+          {
+            "title": "Blogs",
+            "link": "/blogs"
+          },
+          {
+            "title": "Events",
+            "link": "/events"
+          },
+          {
+            "title": "Stories",
+            "link": "/story-listings"
+          },
+          {
+            "title": "Gallery",
+            "link": "/gallery" 
+          }
+        ]
+      },
+      {
+        "title": "Let's Connect",
+        "submenu": [
+          {
+            "title": "Get Connected",
+            "link": "/get-connected"
+          },
+          {
+            "title": "Contact Us",
+            "link": "/contactus"
+          }
+        ]
+      }
+    ],
+    "logo": {
+      "title": "Transition Discovery",
+      "link": "/",
+      "imgsrc": "logo.jpg"
+    }
+  },
+  "footer": {
+    "topFooter": {
+      "footerLinks": [
+        {
+          "heading": "Quick Links",
+          "links": [
+            {
+              "title": "Home",
+              "link": "/"
+            },
+            {
+              "title": "Contact Us",
+              "link": "/contactus"
+            },
+            {
+              "title": "Gallery",
+              "link": "/gallery"
+            },
+            {
+              "title": "Events",
+              "link": "/events"
+            },
+            {
+              "title": "Resources",
+              "link": "/resources"
+            },
+            {
+              "title": "FAQs",
+              "link": "/faqs"
+            },
+            {
+              "title": "Blog",
+              "link": "/blogs"
+            }
+          ]
+        },
+        {
+          "heading": "Company",
+          "links": [
+            {
+              "title": "About Us",
+              "link": "/aboutus"
+            },
+            {
+              "title": "Our Team",
+              "link": "/our-team"
+            },
+            {
+              "title": "Our Partners",
+              "link": "/partners"
+            },
+            {
+              "title": "Our Projects",
+              "link": "/projects/connecting-communities"
+            },
+            {
+              "title": "Get Connected",
+              "link": "/get-connected"
+            },
+            {
+              "title": "What Works",
+              "link": "/what-works"
+            }
+          ]
+        },
+        {
+          "heading": "TD Framework",
+          "links": [
+            {
+              "title": "Transition Planning",
+              "link": "/our-framework/transition-planning"
+            },
+            {
+              "title": "Youth Development",
+              "link": "/our-framework/youth-development"
+            },
+            {
+              "title": "Person and Family-Directed Planning",
+              "link": "/our-framework/family-directed"
+            },
+            {
+              "title": "Family Engagement",
+              "link": "/our-framework/family-engagement"
+            },
+            {
+              "title": "Relationships",
+              "link": "/our-framework/relationships"
+            },
+            {
+              "title": "Independent Living",
+              "link": "/our-framework/independent-living"
+            },
+            {
+              "title": "Cross Agency Collaboration",
+              "link": "/our-framework/cross-agency-collaboration"
+            },
+            {
+              "title": "Employment",
+              "link": "/our-framework/employment"
+            },
+            {
+              "title": "Post-Secondary Education",
+              "link": "/our-framework/post-secondary-education"
+            }
+          ]
+        },
+        {
+          "heading": "Policies",
+          "links": [
+            {
+              "title": "Privacy Policy",
+              "link": "/policies/privacy-policies"
+            },
+            {
+              "title": "Accessibility Policy",
+              "link": "/policies/accessibility-policy"
+            },
+            {
+              "title": "Non-Discrimination Policy",
+              "link": "/policies/Non-Discrimination-Policy"
+            },
+            {
+              "title": "UDL Policy",
+              "link": "/policies/UDL-Policy"
+            }
+          ]
+        }
+      ]
+    },
+    "bottomFooter": {
+      "footerText": "2020 Copyright - TransitionDiscoveries | Designed by -Janbask Digital Design"
+    },
+    "AboutUs": {
+      "Banner": {
+        "heading": "About Transition Discoveries",
+        "text": "We follow our mission"
+      }
+    }
+  }
+}

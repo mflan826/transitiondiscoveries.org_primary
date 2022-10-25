@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Transition Planning",
+    "subindicatorname": "Career and Technical Education"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is career and technical education?",
+      "subhead": "Thinking about getting into a specific career? Well, your transition team can help you by making sure that you take specific courses in highschool, at a training center, college or university that teach you the specific information and skills to get hired! With career and technical education, you can spend part of your day outside of school doing these training classes. This can lead to you graduating high school with credits that apply to a degree program at a college or even give you a certification that can allow you to get hired right into the field that you want.",
+      "bullets": "<li>Which jobs or career pathways do you want to learn more about?</li> <li>Have you taken any classes or training for a specific job? What was it like and what did you learn about?</li><li>What kind of classes or training experiences do you want to participate in next?</li>",
+      "image": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does career and technical education (CTE) include?",
+      "subhead": "When your transition team makes sure that you.",
+      "bullets": "<li>Know about different career pathways and how they match your goals</li><li>Take classes in school that teach you information and skills for the career you want</li><li>Have experiences outside of school to learn specific job skills where you’ll use them</li><li>Take classes that make you eligible to get hired in the career that you want after you graduate high school</li><li>Have opportunities to get a certification or credential that you can use to get hired in an advanced job </li>",
+      "image": "img3.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "nYRZoHXMpNQ",
+    "heading": "What’s career and technical education? Let’s unpack it!",
+    "imageName": "img1.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can career and technical education (CTE) do for you?",
+    "subheading": "When your transition team helps you with CTE, you will have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Career Goals",
+      "content": "Knowledge about different career pathways and what it takes to get into them"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Job Skills",
+      "content": "Knowing how to do specific tasks in the job that you want"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Job Qualifications",
+      "content": "Completing requirements for a degree or certification before you graduate high school"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Job Experience",
+      "content": "Having real-world experience in the field you want to work in, before you graduate high school"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition-age youth",
+        "description": "Another thing I enjoyed about high school was I went to Vo Tech for half the day. I learned a lot of things about computers there and like designing websites and learning Microsoft Office, which got me prepared for college a little bit.",
+        "url": "8.3.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

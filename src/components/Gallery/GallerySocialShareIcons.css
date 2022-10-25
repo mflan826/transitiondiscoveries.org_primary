@@ -1,0 +1,38 @@
+.Gallerybanner {
+  background: url(https://transitiondiscoveries.s3.amazonaws.com/images/static/galleryBanner.jpg)
+    no-repeat right / cover #14a2c6;
+}
+
+.GallerySocialShareIcons {
+  display: grid;
+  align-content: center;
+  grid-template-columns: 1fr;
+  background: #fff;
+  max-height: 200px;
+  margin: 5% 0;
+  border: solid 1px #ddd;
+}
+.GallerySocialShareIcons .socialBox {
+  background: #f7f7f7;
+  padding: 1% 0;
+  margin: 0%;
+}
+.GallerySocialShareIcons .socialBox img {
+  max-width: 100%;
+  width: auto;
+  border: solid 3px #649140;
+  border-radius: 50%;
+  padding: 7px;
+}
+
+@media screen and (max-width: 480px) {
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .Gallerybanner {
+    padding-bottom: 30px !important;
+  }
+}

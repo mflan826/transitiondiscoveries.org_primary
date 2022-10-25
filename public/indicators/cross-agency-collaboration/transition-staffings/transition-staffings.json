@@ -1,0 +1,70 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Cross Agency Collaboration",
+    "subindicatorname": "Transition Staffings",
+    "abcid": "transition-staffing"
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is a Transition Staffing? ",
+      "subhead": "Have you ever been trying to build something and you weren’t sure how to put it together or if you had all the right parts? Well, your transition team should have “transition staffing” where everyone who knows about transition comes together with you and your family! You’ll all talk about what’s working, what’s not and what are missing pieces to help your transition plan happen. The transition staffing will help you figure this all out! They will help you learn about agencies, programs or services that you need to make your goals a reality!",
+      "bullets": "<li>What are three big things that you want your transition team to help you accomplish?</li> <li> Have you told your transition team about what’s working and what needs to be happening for your transition plan to work for you?</li><li>Has your team told you about agencies, programs or services that help you reach your goals?</li>",
+      "image": "transition-staffings-img1.png"
+    },
+    {
+      "id": 2,
+      "heading": "What happens when you actively participate in your transition staffing?",
+      "subhead": "Your transition team can help you prepare for the jobs that you want by making sure that you...",
+      "bullets": "<li>Setting goals for work, school and living independently that match your strengths, goals and needs</li><li>Learn what agencies, organizations, nonprofits and businesses have programs, services and supports that match your goals</li><li>Learn how to apply for different transition programs, services and supports.</li><li>Learn what are the most important next steps and connections you might make in your transition plan to stay on track to meet your goals</li><li>Making connections with different adults and professionals who can teach you the skills that you’ll need to make your plans a reality!</li>",
+      "image": "transition-staffings-img2.jpg"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "aU926VuQXzs",
+    "heading": "What’s a transition staffing all about? Let’s unpack it!",
+    "imageName": "transition-staffings-img3.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can actively participating in your transition staffing do for you? ",
+    "subheading": "When your transition team supports you with career readiness, you’ll have:    "
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Knowing Options",
+      "content": "Knowing who is providing transition programming, services and supports outside of your school and what kinds of things they have that match your goals"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": "Program Applications",
+      "content": "Applying to programs that are available to you based on your disability, income, age, address or other factors"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Goal Setting ",
+      "content": "When you have conversations about your transition plan and decide what your team can do to best support your goals, you take control of your future (maximum adulting)!"
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Making Connections",
+      "content": "Meeting professionals from outside of your school who can help you build skills and access programs that match your strengths, interests and goals"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Transition professional",
+        "description": "Our transition council has been having transition staffings for years! They are held regularly, where we have a schedule way ahead of time to make sure agencies can come. We organize the schedule to make sure the agencies can be there to match the goals of the youth. Sometimes we have these meetings and discuss youth anonymously by brainstorming. Other times we include youth and families. We always believe the sky is the limit, which helps us think outside the box. We think about all of the agencies and community resources that might be of help to youth and families as they plan for adult life. We make sure they make solid connections.",
+        "url": "7.4.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

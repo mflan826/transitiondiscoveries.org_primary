@@ -1,0 +1,69 @@
+{
+  "SubIndicatorBanner": {
+    "indicatorname": "Family Engagement",
+    "subindicatorname": "Peer to Peer Family Support "
+  },
+  "SubIndicatorTextImage": [
+    {
+      "id": 1,
+      "heading": "What is peer to peer family support?",
+      "subhead": " Hey, did you know that so many other young people with disabilities and their families are planning for success after high school right now? Wouldn’t it be awesome if you and your family could do a quick download or Google search of everything that these other people know? Well, you basically can! Your transition team can link you and your family up with other young people and families in school, the community and online! ",
+      "bullets": "<li>How has your family connected with other families to learn about planning for life after high school?</li><li>What are some benefits of connecting with young people and families that are involved in the transition planning process?</li><li>How can your transition team support you in connecting with more families and young people in your community who are planning their transition, too?</li>",
+      "image": "img1.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "What does peer to peer family support include?",
+      "subhead": "Your transition team can help you and your family",
+      "bullets": "<li>Talk with other families to learn tips and strategies for your doing things in your own transition that you haven’t figured out yet</li><li>Gain knowledge about employment, education, and financial resources available to you and your family that help you reach your goals</li><li>Learn about opportunities like local task forces, support groups and conferences where your family can get connected to other families</li><li>Get connected with family organizations from outside of your school to help you with preparing for work, more school or training and living independently</li>",
+      "image": "img2.png"
+    }
+  ],
+  "SubIndicatorVideoImage": {
+    "icon": "subindicator-Play-Icon.png",
+    "VideoLink": "2CsTIXINTiY",
+    "heading": "What is peer to peer family support all about? Let’s unpack it!",
+    "imageName": "img2.jpg"
+  },
+  "IconTile2Heading": {
+    "heading": "What can peer to peer family support do for you?",
+    "subheading": "When your transition team helps you and your family get connected, you’ll have"
+  },
+  "IconTile2": [
+    {
+      "id": 1,
+      "iconTileImage": "subindicatorIcon1.png",
+      "heading": "Customized Planning ",
+      "content": "Planning that revolves around you and your family’s needs and wants for your future"
+    },
+    {
+      "id": 2,
+      "iconTileImage": "subindicatorIcon2.png",
+      "heading": " Information Sharing ",
+      "content": "Sharing new information and resources with other young people and their families that you can use to plan your future"
+    },
+    {
+      "id": 3,
+      "iconTileImage": "subindicatorIcon3.png",
+      "heading": "Advocacy Skills ",
+      "content": "Knowing and learning from other families about ways to speak up for your own goals, wants and needs for life after high school "
+    },
+    {
+      "id": 4,
+      "iconTileImage": "subindicatorIcon4.png",
+      "heading": "Relationship Building",
+      "content": "Friendships with other families that lead to new opportunities for you to reach your goals for life after high school"
+    }
+  ],
+  "fourth_section": {
+    "video_url": "http://www.youtube.com/embed/8CZzZeYIq2M?rel=0&amp;modestbranding=0&amp;autohide=0&amp;showinfo=0&amp;controls=0",
+    "testimonialList": [
+      {
+        "title": "Family of transition-age youth",
+        "description": "There’s strength in numbers and at this point we have seven families in TIP. In Pennsylvania we have these local education task forces, made up of families. I said my best information didn’t come from what the law says, but what best practices are and what other parents are doing. So getting that information is important. And you do have to seek it out; it’s a job.",
+        "url": "4.3.m4a",
+        "audio": true
+      }
+    ]
+  }
+}

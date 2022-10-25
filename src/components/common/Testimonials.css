@@ -1,0 +1,30 @@
+.item {
+  transform: rotate(-90deg);
+}
+.owl-carousel {
+  transform: rotate(90deg);
+}
+
+
+@media screen and (max-width: 480px){
+
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */
+}
+ 
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.video-react-control-text{
+  font-size: 1rem;
+}

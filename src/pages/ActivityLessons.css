@@ -1,0 +1,77 @@
+.mt-50 {
+  margin-top: 50px;
+}
+.mt-minus-5 {
+  margin-top: -5%;
+}
+
+@media screen and (max-width:480px){
+  .indicators {
+    background: none !important;
+}
+  .slider-lead {
+    font-size: 28px !important;;
+    line-height: 34px !important;;
+}
+
+  .videodescriptionbox {
+    display: block;
+    grid-template-columns: auto;
+}
+.videodescriptionbox .item-text-b {
+  display: grid;
+  grid-template-rows: 1fr 10fr 1fr;
+  align-content: center;
+}
+.indicatorsgrid {
+  display: block;
+  align-content: center;
+  grid-template-rows: auto;
+}
+.indicatorgridhead {
+  display: block;
+  align-content: center;
+  grid-template-columns: 1fr 10fr 1fr;
+}
+.indicatorboxes {
+  display: grid;
+  align-content: center;
+  grid-template-columns: auto;
+}
+.pt-100 {
+  padding-top: 100px !important;
+}
+}
+
+@media (min-width:768px) and (max-width:991px){
+.indicatorboxes {
+  display: grid;
+  grid-template-columns: auto;
+}
+.mt-minus-5 {
+  margin-top: 30%;
+}
+.card-title {
+  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
+}
+.indicatorboxes .card-body {
+  min-height: 160px;
+}
+}
+
+@media (min-width:992px) and (max-width:1024px){
+.mt-minus-5 {
+  margin-top: 7%;
+}
+}
+
+@media (min-width:1200px) and (max-width:1440px){
+  .indicatorboxes .card-body {
+    min-height: 162px;
+} 
+.card-title {
+  margin-bottom: .75rem;
+  font-size: 1.2rem;
+}
+}

@@ -1,0 +1,142 @@
+.resourcesbanner {
+  background: url('https://transitiondiscoveries.s3.amazonaws.com/images/static/resources-banner.jpg')
+    no-repeat top center / cover;
+  height: 450px;
+  padding-top: 180px;
+}
+
+div#resourcepage
+  .hero-equal-height.pt-165.pb-150.gradient-overly-right-light.aboutbanner.pagebanner {
+  background-image: linear-gradient(
+      rgb(0 0 0 / 10%) 100%,
+      rgb(0 0 0 / 10%) 100%
+    ),
+    url(https://test-prod-transitiondiscoveries.s3.amazonaws.com/resources/images/resources-banner.jpg) !important;
+}
+form.searchForm label {
+  color: #000;
+}
+
+.css-1wa3eu0-placeholder{
+   color: #1C1C1C !important;
+}
+.sidebar1 {
+  background: #f7f7f7;
+  padding: 10px 20px;
+}
+.sidebar1 .form-control {
+  border: solid 1px #ddd;
+  background: #fff;
+}
+.sidebar1 .btn {
+  width: 100%;
+  margin: 10px 0 0 0;
+  border: none;
+  border-radius: 1px;
+  font-size: 14px;
+  color: #fff;
+  background: #3d5b29;
+  font-weight: 800;
+  height: 45px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+.label {
+  font-size: 16px;
+}
+.sidebar1 option {
+  height: 27px;
+  padding: 17px 0px;
+}
+
+.sidebar1 select.form-control[multiple] {
+  padding: 0px 10px;
+}
+
+@media (max-width: 767px) {
+  .resourceLink .card-title {
+    top: 60%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .Gallerybanner {
+    background-position: 0px 101px !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+  .RecentPostsBox .PostTitle {
+    font-size: 0.8em;
+    line-height: 1.3em;
+  }
+  .resourceLink .card-title {
+    top: 56%;
+  }
+  .resourceLink .card {
+    min-height: auto;
+  }
+
+  .resourceLink .card-body {
+    padding: 21px 8px 14px 8px;
+    min-height: auto;
+  }
+  .resourceLink .card-body p.card-text {
+    font-size: 0.94rem;
+    line-height: 1.2rem;
+    min-height: 54px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1299px) {
+  .storybanner {
+    background-position: -440px 0px !important;
+  }
+  .RecentPostsBox .PostTitle {
+    font-size: 0.88em;
+  }
+  .resourceLink .card-title {
+    top: 59%;
+  }
+  .resourceLink .card-body p.card-text {
+    font-size: 0.94rem;
+    line-height: 1.2rem;
+    min-height: 58px;
+  }
+
+  .resourceLink .card {
+    min-height: auto;
+  }
+
+  .resourceLink .card-body {
+    padding: 21px 8px 14px 8px;
+    min-height: auto;
+  }
+}
+@media (min-width: 1300px) and (max-width: 1599px) {
+  .storybanner {
+    background-position: -270px 0px !important;
+  }
+  .resourceLink .card-title {
+    top: 59%;
+  }
+  .RecentPostsBox .PostTitle {
+    font-size: 1em;
+    line-height: 1.3em;
+  }
+  .resourceLink .card-body p.card-text {
+    font-size: 0.94rem;
+    line-height: 1.2rem;
+    min-height: 58px;
+  }
+
+  .resourceLink .card {
+    min-height: auto;
+  }
+
+  .resourceLink .card-body {
+    padding: 21px 8px 14px 8px;
+    min-height: auto;
+  }
+}
